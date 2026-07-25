@@ -20,7 +20,7 @@ SCENIC_STYLES = [
 
 
 def generate_scenic_image(category_english: str, category_hindi: str, output_path: str):
-    if POLLINATIONS_API_KEY:
+    if False and POLLINATIONS_API_KEY:  # disabled
         for attempt in range(3):
             style = random.choice(SCENIC_STYLES)
             prompt = (
