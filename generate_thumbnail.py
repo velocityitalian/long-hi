@@ -1,6 +1,9 @@
 import os, io, base64, random, requests
 from pathlib import Path
 from dotenv import load_dotenv
+import sys
+sys.path.insert(0, str(Path(__file__).parent.parent.parent / "thumbnails"))
+from thumbnail_manager import get_thumbnail
 from PIL import Image, ImageDraw, ImageFont
 
 load_dotenv()
@@ -20,7 +23,12 @@ SCENIC_STYLES = [
 
 
 def generate_scenic_image(category_english: str, category_hindi: str, output_path: str):
-    if False and POLLINATIONS_API_KEY:  # disabled
+    # Try pre-made thumbnail first
+    premade = get_thumbnail("Hindi", category_english)
+    if premade:
+        return premade
+    
+        if False and POLLINATIONS_API_KEY:  # disabled
         for attempt in range(3):
             style = random.choice(SCENIC_STYLES)
             prompt = (
