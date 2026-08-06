@@ -240,6 +240,7 @@ For each phrase:
 1. English phrase (pure English, zero Hindi) with commas for natural pauses
 2. Hindi translation (Devanagari script only)
 3. Pronunciation guide (phonetic English spelling)
+CRITICAL: Every translation MUST be in Hindi. NEVER use German, Spanish, or any other language. Only Hindi.
 
 Return as JSON array:
 [{{"english": "...", "hindi": "...", "pronunciation": "..."}}]
