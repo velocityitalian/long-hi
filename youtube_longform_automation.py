@@ -838,6 +838,9 @@ def generate_title_description(category_english: str, category_hindi: str, phras
         f"Speak Hindi Fluently | {category_english} Phrases | English + Hindi + Pronunciation",
     ]
 
+    # YouTube title limit is 100 chars - truncate any overlong title safely
+    titles = [t if len(t) <= 100 else (t[:97] + "...") for t in titles]
+
     description = f"""🇮🇳 Learn Hindi with Velocity Hindi! 🇮🇳
 
 In this video, you'll learn 60 essential Hindi phrases about {category_english} ({category_hindi}).
