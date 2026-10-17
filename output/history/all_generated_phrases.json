@@ -1,1 +1,725 @@
-﻿{"phrases": [], "last_updated": null}
+{
+  "phrases": [
+    {
+      "english": "Welcome home, dear.",
+      "hindi": "घर में आपका स्वागत है, प्रिय।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066079"
+    },
+    {
+      "english": "Are you tired, honey?",
+      "hindi": "क्या तुम थक गए हो, शहद?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066095"
+    },
+    {
+      "english": "Let's eat together.",
+      "hindi": "आइए, साथ में खाना खाएं।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066100"
+    },
+    {
+      "english": "The house is clean.",
+      "hindi": "घर साफ है।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066104"
+    },
+    {
+      "english": "Where did you put it?",
+      "hindi": "आपने इसे कहाँ रखा?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066109"
+    },
+    {
+      "english": "I need some help.",
+      "hindi": "मुझे थोड़ी मदद चाहिए।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066124"
+    },
+    {
+      "english": "Is everyone here?",
+      "hindi": "क्या सब यहाँ हैं?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066128"
+    },
+    {
+      "english": "Good morning, everyone.",
+      "hindi": "सुप्रभात, सभी को।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066136"
+    },
+    {
+      "english": "I'm going out now.",
+      "hindi": "मैं अभी बाहर जा रहा हूँ।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066141"
+    },
+    {
+      "english": "Please close the door.",
+      "hindi": "कृपया दरवाज़ा बंद करें।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066148"
+    },
+    {
+      "english": "Don't make noise.",
+      "hindi": "शोर मत करो।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066152"
+    },
+    {
+      "english": "Have you eaten yet?",
+      "hindi": "क्या तुमने खाना खाया?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066155"
+    },
+    {
+      "english": "The TV is on.",
+      "hindi": "टीवी चल रहा है।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066158"
+    },
+    {
+      "english": "Let's watch a movie.",
+      "hindi": "चलो, एक फिल्म देखें।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066162"
+    },
+    {
+      "english": "I'm very happy.",
+      "hindi": "मैं बहुत खुश हूँ।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066165"
+    },
+    {
+      "english": "This is my family.",
+      "hindi": "यह मेरा परिवार है।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066168"
+    },
+    {
+      "english": "My parents are here.",
+      "hindi": "मेरे माता-पिता यहाँ हैं।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066171"
+    },
+    {
+      "english": "My children are playing.",
+      "hindi": "मेरे बच्चे खेल रहे हैं।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066175"
+    },
+    {
+      "english": "Where is my sister?",
+      "hindi": "मेरी बहन कहाँ है?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066179"
+    },
+    {
+      "english": "My brother is sleeping.",
+      "hindi": "मेरा भाई सो रहा है।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066182"
+    },
+    {
+      "english": "This is our home.",
+      "hindi": "यह हमारा घर है।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066189"
+    },
+    {
+      "english": "I love my home.",
+      "hindi": "मुझे अपना घर बहुत पसंद है।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066192"
+    },
+    {
+      "english": "It's time to sleep.",
+      "hindi": "सोने का समय हो गया है।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066195"
+    },
+    {
+      "english": "Did you lock the door?",
+      "hindi": "क्या तुमने दरवाज़ा बंद किया?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066199"
+    },
+    {
+      "english": "The food smells good.",
+      "hindi": "खाने की खुशबू अच्छी है।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066202"
+    },
+    {
+      "english": "Are you hungry?",
+      "hindi": "क्या तुम्हें भूख लगी है?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066205"
+    },
+    {
+      "english": "Let's clean up.",
+      "hindi": "चलो, सफाई करते हैं।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066208"
+    },
+    {
+      "english": "I miss my family.",
+      "hindi": "मुझे अपने परिवार की याद आती है।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066212"
+    },
+    {
+      "english": "This is a big house.",
+      "hindi": "यह एक बड़ा घर है।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066215"
+    },
+    {
+      "english": "Come inside, quickly.",
+      "hindi": "जल्दी अंदर आओ।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066218"
+    },
+    {
+      "english": "Whose turn is it?, today?",
+      "hindi": "आज किसकी बारी है?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066222"
+    },
+    {
+      "english": "Can you help me, please?",
+      "hindi": "क्या तुम मेरी मदद कर सकते हो?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066225"
+    },
+    {
+      "english": "What are you cooking, dear?",
+      "hindi": "क्या बना रहे हो, प्रिय?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066229"
+    },
+    {
+      "english": "Did you finish your homework?",
+      "hindi": "क्या तुमने अपना होमवर्क खत्म कर लिया?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066233"
+    },
+    {
+      "english": "When will dinner be ready?",
+      "hindi": "रात का खाना कब तैयार होगा?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066236"
+    },
+    {
+      "english": "Can we talk for a minute?",
+      "hindi": "क्या हम एक मिनट बात कर सकते हैं?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066239"
+    },
+    {
+      "english": "Is everything alright, at home?",
+      "hindi": "घर पर सब ठीक है ना?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066245"
+    },
+    {
+      "english": "What's happening, in the living room?",
+      "hindi": "बैठक में क्या हो रहा है?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066249"
+    },
+    {
+      "english": "Whom are you waiting for?",
+      "hindi": "तुम किसका इंतजार कर रहे हो?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066254"
+    },
+    {
+      "english": "Can I borrow your charger?",
+      "hindi": "क्या मैं तुम्हारा चार्जर ले सकता हूँ?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066258"
+    },
+    {
+      "english": "Did you see my keys?",
+      "hindi": "क्या तुमने मेरी चाबियाँ देखीं?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066261"
+    },
+    {
+      "english": "What time is it?, now?",
+      "hindi": "अभी क्या समय हुआ है?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066265"
+    },
+    {
+      "english": "Should I call a plumber?",
+      "hindi": "क्या मुझे नलसाज को बुलाना चाहिए?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066268"
+    },
+    {
+      "english": "Who is at the door?",
+      "hindi": "दरवाजे पर कौन है?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066271"
+    },
+    {
+      "english": "Are you feeling better?, today?",
+      "hindi": "आज तुम बेहतर महसूस कर रहे हो?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066275"
+    },
+    {
+      "english": "What should we do, tonight?",
+      "hindi": "आज रात हमें क्या करना चाहिए?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066278"
+    },
+    {
+      "english": "Can you pass the salt?, please?",
+      "hindi": "क्या तुम नमक पास कर सकते हो?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066281"
+    },
+    {
+      "english": "Where did you go, yesterday?",
+      "hindi": "तुम कल कहाँ गए थे?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066285"
+    },
+    {
+      "english": "Is there any water, left?",
+      "hindi": "क्या थोड़ा पानी बचा है?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066288"
+    },
+    {
+      "english": "Do you need anything, else?",
+      "hindi": "क्या तुम्हें और कुछ चाहिए?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066291"
+    },
+    {
+      "english": "Whose turn is it, to cook?",
+      "hindi": "खाना बनाने की किसकी बारी है?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066295"
+    },
+    {
+      "english": "What are you thinking, about?",
+      "hindi": "तुम क्या सोच रहे हो?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066298"
+    },
+    {
+      "english": "Can I use your phone?, quickly?",
+      "hindi": "क्या मैं तुम्हारा फोन इस्तेमाल कर सकता हूँ?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066301"
+    },
+    {
+      "english": "Is the Wi-Fi working?, properly?",
+      "hindi": "क्या वाई-फाई ठीक से काम कर रहा है?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066305"
+    },
+    {
+      "english": "Did you forget something, dear?",
+      "hindi": "क्या तुम कुछ भूल गए, प्रिय?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066309"
+    },
+    {
+      "english": "Where should I put this?, bag?",
+      "hindi": "मुझे यह बैग कहाँ रखना चाहिए?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066312"
+    },
+    {
+      "english": "What's for breakfast, today?",
+      "hindi": "आज नाश्ते में क्या है?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066315"
+    },
+    {
+      "english": "Can we go out, later?",
+      "hindi": "क्या हम बाद में बाहर जा सकते हैं?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066319"
+    },
+    {
+      "english": "Is the door locked?, properly?",
+      "hindi": "क्या दरवाजा ठीक से बंद है?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066322"
+    },
+    {
+      "english": "What do you want, to eat?",
+      "hindi": "तुम क्या खाना चाहते हो?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066325"
+    },
+    {
+      "english": "Home is where the heart is.",
+      "hindi": "दिल में बसता है, घर वही होता है।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066329"
+    },
+    {
+      "english": "A happy home, makes a happy life.",
+      "hindi": "खुशहाल घर, खुशहाल जीवन।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066332"
+    },
+    {
+      "english": "Family is everything, you know.",
+      "hindi": "परिवार ही सब कुछ है, मालूम है।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066336"
+    },
+    {
+      "english": "We are a joint family, traditionally.",
+      "hindi": "हम एक संयुक्त परिवार हैं, परंपरा से।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066339"
+    },
+    {
+      "english": "Elder's blessings, keep us safe.",
+      "hindi": "बड़ों का आशीर्वाद, हमें सुरक्षित रखता है।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066345"
+    },
+    {
+      "english": "Children are the future, remember.",
+      "hindi": "बच्चे ही भविष्य हैं, याद रखना।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066350"
+    },
+    {
+      "english": "Respect your elders, always.",
+      "hindi": "अपने बड़ों का, हमेशा आदर करो।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066353"
+    },
+    {
+      "english": "Home is a place of peace.",
+      "hindi": "घर, सुकून की जगह है।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066356"
+    },
+    {
+      "english": "Unity is our strength, truly.",
+      "hindi": "एकता में हमारी शक्ति है, सचमुच।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066362"
+    },
+    {
+      "english": "Let's have a family get-together.",
+      "hindi": "चलो, परिवार की दावत करते हैं।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066366"
+    },
+    {
+      "english": "Share your joys, and sorrows.",
+      "hindi": "खुशियाँ, और गम बाँटो।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066369"
+    },
+    {
+      "english": "This house has many memories.",
+      "hindi": "इस घर में, बहुत यादें हैं।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066372"
+    },
+    {
+      "english": "Cleanliness is next to godliness.",
+      "hindi": "स्वच्छता, ईश्वर के करीब है।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066376"
+    },
+    {
+      "english": "My mother's cooking, is the best.",
+      "hindi": "माँ के हाथ का खाना, सबसे अच्छा।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066379"
+    },
+    {
+      "english": "Father's advice, is always wise.",
+      "hindi": "पिता की सलाह, हमेशा समझदारी भरी।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066383"
+    },
+    {
+      "english": "Siblings are our first friends.",
+      "hindi": "भाई-बहन, हमारे पहले दोस्त होते हैं।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066386"
+    },
+    {
+      "english": "We eat together, every night.",
+      "hindi": "हम, हर रात साथ खाना खाते हैं।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066391"
+    },
+    {
+      "english": "This tradition, we must follow.",
+      "hindi": "यह परंपरा, हमें निभानी चाहिए।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066396"
+    },
+    {
+      "english": "Home is a shelter, from the world.",
+      "hindi": "घर, दुनिया से एक आसरा है।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066399"
+    },
+    {
+      "english": "Love makes a house, a home.",
+      "hindi": "प्यार, घर को घर बनाता है।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066403"
+    },
+    {
+      "english": "Let's preserve our culture.",
+      "hindi": "चलो, अपनी संस्कृति बचाते हैं।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066408"
+    },
+    {
+      "english": "Family is our backbone, always.",
+      "hindi": "परिवार, हमारी रीढ़ की हड्डी है, हमेशा।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066411"
+    },
+    {
+      "english": "Children learn by watching.",
+      "hindi": "बच्चे, देखकर सीखते हैं।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066415"
+    },
+    {
+      "english": "A warm welcome, awaits you.",
+      "hindi": "आपका, हार्दिक स्वागत है।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066418"
+    },
+    {
+      "english": "Home cooked meals, are healthy.",
+      "hindi": "घर का बना खाना, सेहतमंद होता है।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066421"
+    },
+    {
+      "english": "We celebrate all festivals, together.",
+      "hindi": "हम सारे त्यौहार, मिलकर मनाते हैं।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066425"
+    },
+    {
+      "english": "This is our family heirloom.",
+      "hindi": "यह हमारी पारिवारिक धरोहर है।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066428"
+    },
+    {
+      "english": "Peace at home, peace everywhere.",
+      "hindi": "घर में शांति, तो सब जगह शांति।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066431"
+    },
+    {
+      "english": "My mother's lullabies, I miss.",
+      "hindi": "माँ के लोरी, मुझे याद आते हैं।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066435"
+    },
+    {
+      "english": "Discipline starts, from home.",
+      "hindi": "अनुशासन, घर से शुरू होता है।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066438"
+    },
+    {
+      "english": "My heart, feels very full here.",
+      "hindi": "मेरा दिल, यहाँ बहुत भरा हुआ लगता है।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066441"
+    },
+    {
+      "english": "I really cherish, these moments.",
+      "hindi": "मैं इन पलों को, सचमुच संजोता हूँ।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066447"
+    },
+    {
+      "english": "Patience, is a virtue at home.",
+      "hindi": "धैर्य, घर पर एक गुण है।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066450"
+    },
+    {
+      "english": "Sometimes, silence speaks volumes.",
+      "hindi": "कभी-कभी, खामोशी बहुत कुछ कह जाती है।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066455"
+    },
+    {
+      "english": "This place, feels like my soul.",
+      "hindi": "यह जगह, मेरी आत्मा जैसी लगती है।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066458"
+    },
+    {
+      "english": "I need to reflect, on this.",
+      "hindi": "मुझे इस पर, विचार करना है।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066462"
+    },
+    {
+      "english": "Are you feeling, okay now?",
+      "hindi": "क्या तुम अब, ठीक महसूस कर रहे हो?",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066465"
+    },
+    {
+      "english": "Let's try to understand, each other.",
+      "hindi": "चलो, एक-दूसरे को समझने की कोशिश करते हैं।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066469"
+    },
+    {
+      "english": "My emotions, are a bit tangled.",
+      "hindi": "मेरी भावनाएँ, थोड़ी उलझी हुई हैं।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066472"
+    },
+    {
+      "english": "It's okay, to feel this way.",
+      "hindi": "ऐसा महसूस करना, ठीक है।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066476"
+    },
+    {
+      "english": "I'm learning, to be more forgiving.",
+      "hindi": "मैं अधिक क्षमाशील, बनना सीख रहा हूँ।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066482"
+    },
+    {
+      "english": "This house holds, my deepest secrets.",
+      "hindi": "यह घर, मेरे गहरे राज़ रखता है।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066486"
+    },
+    {
+      "english": "I feel safe, when I'm here.",
+      "hindi": "जब मैं यहाँ होता हूँ, मुझे सुरक्षित महसूस होता है।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066489"
+    },
+    {
+      "english": "Let's be honest, with ourselves.",
+      "hindi": "चलो, खुद से ईमानदार रहें।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066493"
+    },
+    {
+      "english": "My worries, fade away here.",
+      "hindi": "मेरी चिंताएँ, यहाँ दूर हो जाती हैं।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066496"
+    },
+    {
+      "english": "It takes effort, to maintain harmony.",
+      "hindi": "सामंजस्य बनाए रखने, के लिए प्रयास लगते हैं।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066500"
+    },
+    {
+      "english": "I'm grateful, for this quiet time.",
+      "hindi": "मैं इस शांत समय, के लिए आभारी हूँ।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066503"
+    },
+    {
+      "english": "My thoughts, are clearer now.",
+      "hindi": "मेरे विचार, अब स्पष्ट हैं।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066507"
+    },
+    {
+      "english": "We need open communication, always.",
+      "hindi": "हमें हमेशा, खुले संचार की आवश्यकता है।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066510"
+    },
+    {
+      "english": "I'm trying, to be more understanding.",
+      "hindi": "मैं अधिक समझने, की कोशिश कर रहा हूँ।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066515"
+    },
+    {
+      "english": "This is my sanctuary, truly.",
+      "hindi": "यह मेरा अभयारण्य है, सचमुच।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066518"
+    },
+    {
+      "english": "Let's heal, and grow together.",
+      "hindi": "चलो, ठीक हों, और साथ मिलकर बढ़ें।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066522"
+    },
+    {
+      "english": "I feel deeply, connected here.",
+      "hindi": "मैं यहाँ, गहराई से जुड़ा हुआ महसूस करता हूँ।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066525"
+    },
+    {
+      "english": "It's important, to voice your feelings.",
+      "hindi": "अपनी भावनाओं को व्यक्त करना, महत्वपूर्ण है।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066529"
+    },
+    {
+      "english": "This home inspires, my best self.",
+      "hindi": "यह घर, मेरे सर्वश्रेष्ठ रूप को प्रेरित करता है।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066532"
+    },
+    {
+      "english": "I'm letting go, of past regrets.",
+      "hindi": "मैं पिछले पछतावे, को जाने दे रहा हूँ।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066535"
+    },
+    {
+      "english": "We build trust, day by day.",
+      "hindi": "हम दिन-प्रतिदिन, विश्वास बनाते हैं।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066539"
+    },
+    {
+      "english": "My true self, comes out here.",
+      "hindi": "मेरा असली स्वरूप, यहीं बाहर आता है।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066542"
+    },
+    {
+      "english": "It's time, for inner peace.",
+      "hindi": "यह आंतरिक शांति, का समय है।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066545"
+    },
+    {
+      "english": "Understanding brews, in this kitchen.",
+      "hindi": "इस रसोई में, समझ पनपती है।",
+      "category": "Family & Home",
+      "generated_at": "2026-10-17T07:22:53.066549"
+    }
+  ],
+  "last_updated": "2026-10-17T07:22:53.066551"
+}
