@@ -1439,7 +1439,727 @@
       "hindi": "मदद मांगो, इसमें कोई हर्ज नहीं।",
       "category": "Confidence",
       "generated_at": "2026-10-18T07:37:34.016540"
+    },
+    {
+      "english": "How was your weekend?",
+      "hindi": "आपका सप्ताहांत कैसा रहा?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358207"
+    },
+    {
+      "english": "I'm ready, let's start.",
+      "hindi": "मैं तैयार हूँ, शुरू करते हैं।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358220"
+    },
+    {
+      "english": "What's the agenda today?",
+      "hindi": "आज की क्या योजना है?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358224"
+    },
+    {
+      "english": "Let's get to work.",
+      "hindi": "काम पर लग जाएं।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358227"
+    },
+    {
+      "english": "Can you hear me clearly?",
+      "hindi": "क्या आप मुझे ठीक से सुन सकते हैं?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358230"
+    },
+    {
+      "english": "I have a quick question.",
+      "hindi": "मेरा एक छोटा सा सवाल है।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358233"
+    },
+    {
+      "english": "That's a great idea!",
+      "hindi": "यह एक बेहतरीन विचार है!",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358236"
+    },
+    {
+      "english": "I need your input on this.",
+      "hindi": "मुझे इस पर आपकी राय चाहिए।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358241"
+    },
+    {
+      "english": "Let me think about it.",
+      "hindi": "मुझे इस पर सोचने दीजिए।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358244"
+    },
+    {
+      "english": "We need to discuss this.",
+      "hindi": "हमें इस पर चर्चा करनी है।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358250"
+    },
+    {
+      "english": "Is everything clear so far?",
+      "hindi": "क्या अब तक सब कुछ स्पष्ट है?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358252"
+    },
+    {
+      "english": "I'll get back to you soon.",
+      "hindi": "मैं आपको जल्द ही जवाब दूंगा।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358255"
+    },
+    {
+      "english": "Let's take a short break.",
+      "hindi": "आइए एक छोटा ब्रेक लें।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358260"
+    },
+    {
+      "english": "I'm done with my task.",
+      "hindi": "मेरा काम पूरा हो गया।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358263"
+    },
+    {
+      "english": "Where is the meeting room?",
+      "hindi": "मीटिंग रूम कहाँ है?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358266"
+    },
+    {
+      "english": "Could you please repeat that?",
+      "hindi": "क्या आप कृपया उसे दोहरा सकते हैं?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358268"
+    },
+    {
+      "english": "I'm having trouble with this.",
+      "hindi": "मुझे इसमें परेशानी हो रही है।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358271"
+    },
+    {
+      "english": "Let's schedule a follow-up.",
+      "hindi": "आइए एक फॉलो-अप शेड्यूल करें।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358274"
+    },
+    {
+      "english": "What's the deadline for this?",
+      "hindi": "इसकी अंतिम तिथि क्या है?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358277"
+    },
+    {
+      "english": "I need more information.",
+      "hindi": "मुझे और जानकारी चाहिए।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358279"
+    },
+    {
+      "english": "Let's brainstorm some solutions.",
+      "hindi": "आइए कुछ समाधानों पर विचार-मंथन करें।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358282"
+    },
+    {
+      "english": "Are we on the same page?",
+      "hindi": "क्या हम सब एक ही बात पर सहमत हैं?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358285"
+    },
+    {
+      "english": "I understand, thank you.",
+      "hindi": "मैं समझ गया, धन्यवाद।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358288"
+    },
+    {
+      "english": "Let's wrap this up.",
+      "hindi": "चलिए इसे समाप्त करते हैं।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358290"
+    },
+    {
+      "english": "Good job, team!",
+      "hindi": "बहुत अच्छा काम, टीम!",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358293"
+    },
+    {
+      "english": "See you tomorrow.",
+      "hindi": "कल मिलते हैं।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358295"
+    },
+    {
+      "english": "Have a great evening.",
+      "hindi": "आपकी शाम शुभ हो।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358298"
+    },
+    {
+      "english": "I'll be offline for a bit.",
+      "hindi": "मैं थोड़ी देर के लिए ऑफ़लाइन रहूँगा।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358301"
+    },
+    {
+      "english": "What's your suggestion, boss?",
+      "hindi": "आपकी क्या राय है, बॉस?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358304"
+    },
+    {
+      "english": "When can I expect that, please?",
+      "hindi": "मुझे वो कब तक मिलेगा, कृपया?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358307"
+    },
+    {
+      "english": "Can you help me with this?",
+      "hindi": "क्या आप इसमें मेरी मदद कर सकते हैं?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358310"
+    },
+    {
+      "english": "Is this urgent, or can it wait?",
+      "hindi": "क्या यह ज़रूरी है, या इंतज़ार कर सकता है?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358313"
+    },
+    {
+      "english": "Who is responsible for this project?",
+      "hindi": "इस प्रोजेक्ट के लिए कौन ज़िम्मेदार है?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358316"
+    },
+    {
+      "english": "Where should I send this report?",
+      "hindi": "मुझे यह रिपोर्ट कहाँ भेजनी चाहिए?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358319"
+    },
+    {
+      "english": "How do you handle such situations?",
+      "hindi": "आप ऐसी परिस्थितियों को कैसे संभालते हैं?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358321"
+    },
+    {
+      "english": "Can we meet briefly this afternoon?",
+      "hindi": "क्या हम आज दोपहर में थोड़ी देर मिल सकते हैं?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358324"
+    },
+    {
+      "english": "What's the main priority right now?",
+      "hindi": "अभी मुख्य प्राथमिकता क्या है?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358327"
+    },
+    {
+      "english": "What are your thoughts on the proposal?",
+      "hindi": "प्रस्ताव पर आपके क्या विचार हैं?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358330"
+    },
+    {
+      "english": "Shall we discuss this over coffee?",
+      "hindi": "क्या हम इस पर कॉफ़ी पर चर्चा करें?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358335"
+    },
+    {
+      "english": "Is there a better way to do this?",
+      "hindi": "क्या इसे करने का कोई बेहतर तरीका है?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358424"
+    },
+    {
+      "english": "What's the next step, usually?",
+      "hindi": "आमतौर पर अगला कदम क्या होता है?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358431"
+    },
+    {
+      "english": "Can you give me some advice?",
+      "hindi": "क्या आप मुझे कुछ सलाह दे सकते हैं?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358434"
+    },
+    {
+      "english": "Are you free for a quick chat?",
+      "hindi": "क्या आप एक त्वरित बातचीत के लिए स्वतंत्र हैं?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358437"
+    },
+    {
+      "english": "How should I approach this problem?",
+      "hindi": "मुझे इस समस्या का सामना कैसे करना चाहिए?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358439"
+    },
+    {
+      "english": "What feedback do you have?",
+      "hindi": "आपकी क्या प्रतिक्रिया है?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358444"
+    },
+    {
+      "english": "Is there anything I missed?",
+      "hindi": "क्या कुछ ऐसा है जो मैं चूक गया?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358447"
+    },
+    {
+      "english": "Who else is working on this?",
+      "hindi": "इस पर और कौन काम कर रहा है?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358449"
+    },
+    {
+      "english": "Do you have an update for me?",
+      "hindi": "क्या आपके पास मेरे लिए कोई अपडेट है?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358454"
+    },
+    {
+      "english": "What outcome are we aiming for?",
+      "hindi": "हम किस परिणाम का लक्ष्य बना रहे हैं?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358457"
+    },
+    {
+      "english": "Could you clarify your requirement?",
+      "hindi": "क्या आप अपनी आवश्यकता स्पष्ट कर सकते हैं?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358459"
+    },
+    {
+      "english": "What is the scope of this task?",
+      "hindi": "इस कार्य का दायरा क्या है?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358462"
+    },
+    {
+      "english": "How much time will this take?",
+      "hindi": "इसमें कितना समय लगेगा?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358465"
+    },
+    {
+      "english": "Can you rephrase that question?",
+      "hindi": "क्या आप उस प्रश्न को दूसरे शब्दों में कह सकते हैं?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358467"
+    },
+    {
+      "english": "What's the best course of action?",
+      "hindi": "कार्रवाई का सबसे अच्छा तरीका क्या है?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358470"
+    },
+    {
+      "english": "Are you facing any challenges?",
+      "hindi": "क्या आपको कोई चुनौतियाँ आ रही हैं?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358473"
+    },
+    {
+      "english": "You've got this, believe in yourself.",
+      "hindi": "तुम ये कर सकते हो, खुद पर यकीन रखो।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358476"
+    },
+    {
+      "english": "Keep pushing forward, don't give up.",
+      "hindi": "आगे बढ़ते रहो, हार मत मानो।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358479"
+    },
+    {
+      "english": "Your effort is truly appreciated.",
+      "hindi": "तुम्हारी मेहनत की सचमुच सराहना होती है।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358482"
+    },
+    {
+      "english": "Great work, this is excellent progress.",
+      "hindi": "बहुत बढ़िया काम, यह शानदार प्रगति है।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358485"
+    },
+    {
+      "english": "Stay positive, good things will happen.",
+      "hindi": "सकारात्मक रहो, अच्छा ही होगा।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358488"
+    },
+    {
+      "english": "Think big, aim high always.",
+      "hindi": "बड़ा सोचो, हमेशा ऊंचा लक्ष्य रखो।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358491"
+    },
+    {
+      "english": "You are doing a fantastic job.",
+      "hindi": "तुम बहुत ही बढ़िया काम कर रहे हो।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358494"
+    },
+    {
+      "english": "Believe in your abilities, you're capable.",
+      "hindi": "अपनी काबिलियत पर भरोसा करो, तुम सक्षम हो।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358497"
+    },
+    {
+      "english": "Never underestimate your potential.",
+      "hindi": "अपनी क्षमता को कभी कम मत समझो।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358500"
+    },
+    {
+      "english": "This challenge is an opportunity.",
+      "hindi": "यह चुनौती एक अवसर है।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358502"
+    },
+    {
+      "english": "You inspire everyone with your dedication.",
+      "hindi": "तुम अपने समर्पण से सबको प्रेरित करते हो।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358505"
+    },
+    {
+      "english": "Keep up the amazing spirit.",
+      "hindi": "यह गज़ब का हौसला बनाए रखो।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358535"
+    },
+    {
+      "english": "Focus on solutions, not problems.",
+      "hindi": "समस्याओं पर नहीं, समाधानों पर ध्यान दो।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358540"
+    },
+    {
+      "english": "Your hard work is paying off.",
+      "hindi": "तुम्हारी कड़ी मेहनत रंग ला रही है।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358543"
+    },
+    {
+      "english": "Stay determined, you're almost there.",
+      "hindi": "दृढ़ रहो, तुम लगभग वहाँ पहुँच गए हो।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358547"
+    },
+    {
+      "english": "This is a great accomplishment.",
+      "hindi": "यह एक बड़ी उपलब्धि है।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358552"
+    },
+    {
+      "english": "You are a valuable asset to the team.",
+      "hindi": "तुम टीम के लिए एक मूल्यवान सदस्य हो।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358555"
+    },
+    {
+      "english": "Your creativity is impressive.",
+      "hindi": "तुम्हारी रचनात्मकता प्रभावशाली है।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358557"
+    },
+    {
+      "english": "Embrace new ideas, be open.",
+      "hindi": "नए विचारों को अपनाओ, खुले रहो।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358560"
+    },
+    {
+      "english": "Let your passion guide you.",
+      "hindi": "अपने जुनून को रास्ता दिखाने दो।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358563"
+    },
+    {
+      "english": "You handle pressure very well.",
+      "hindi": "तुम दबाव को बहुत अच्छे से संभालते हो।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358567"
+    },
+    {
+      "english": "Keep learning, keep growing.",
+      "hindi": "सीखते रहो, बढ़ते रहो।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358570"
+    },
+    {
+      "english": "Your positive attitude is infectious.",
+      "hindi": "तुम्हारा सकारात्मक रवैया संक्रामक है।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358573"
+    },
+    {
+      "english": "This is a testament to your skills.",
+      "hindi": "यह तुम्हारे कौशल का प्रमाण है।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358576"
+    },
+    {
+      "english": "You are making a real difference.",
+      "hindi": "तुम सचमुच बदलाव ला रहे हो।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358579"
+    },
+    {
+      "english": "Don't be afraid to take risks.",
+      "hindi": "जोखिम उठाने से मत डरो।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358581"
+    },
+    {
+      "english": "You're exceeding expectations.",
+      "hindi": "तुम उम्मीदों से बढ़कर कर रहे हो।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358584"
+    },
+    {
+      "english": "Stay focused, stay determined.",
+      "hindi": "केंद्रित रहो, दृढ़ रहो।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358587"
+    },
+    {
+      "english": "Your insights are very valuable.",
+      "hindi": "तुम्हारी अंतर्दृष्टि बहुत मूल्यवान है।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358590"
+    },
+    {
+      "english": "Let's make this happen, together.",
+      "hindi": "चलो इसे संभव बनाते हैं, मिलकर।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358592"
+    },
+    {
+      "english": "I feel a bit overwhelmed, honestly.",
+      "hindi": "मैं सचमुच, थोड़ा अभिभूत महसूस कर रहा हूँ।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358595"
+    },
+    {
+      "english": "This task really made me think.",
+      "hindi": "इस काम ने मुझे सचमुच सोचने पर मजबूर किया।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358598"
+    },
+    {
+      "english": "I need some time, to process this.",
+      "hindi": "मुझे इसे समझने के लिए, थोड़ा समय चाहिए।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358601"
+    },
+    {
+      "english": "My patience is wearing thin, a little.",
+      "hindi": "मेरा धैर्य, थोड़ा कम हो रहा है।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358604"
+    },
+    {
+      "english": "I'm reflecting on our progress, deeply.",
+      "hindi": "मैं हमारी प्रगति पर, गहराई से विचार कर रहा हूँ।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358607"
+    },
+    {
+      "english": "This situation requires careful consideration.",
+      "hindi": "इस स्थिति में, सावधानीपूर्वक विचार की आवश्यकता है।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358609"
+    },
+    {
+      "english": "I'm feeling quite optimistic, today.",
+      "hindi": "मैं आज, काफी आशावादी महसूस कर रहा हूँ।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358612"
+    },
+    {
+      "english": "Let's be honest, about the challenges.",
+      "hindi": "आइए, चुनौतियों के बारे में, ईमानदार रहें।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358615"
+    },
+    {
+      "english": "I truly value your honest feedback.",
+      "hindi": "मैं आपकी ईमानदार प्रतिक्रिया को, सचमुच महत्व देता हूँ।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358618"
+    },
+    {
+      "english": "This requires a more sensitive approach.",
+      "hindi": "इसके लिए, एक अधिक संवेदनशील दृष्टिकोण की आवश्यकता है।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358621"
+    },
+    {
+      "english": "I'm not entirely comfortable with this.",
+      "hindi": "मैं इसमें, पूरी तरह सहज नहीं हूँ।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358623"
+    },
+    {
+      "english": "This has been a learning experience, for sure.",
+      "hindi": "यह निश्चित रूप से, एक सीखने का अनुभव रहा है।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358626"
+    },
+    {
+      "english": "I need to be more patient, with myself.",
+      "hindi": "मुझे खुद के साथ, अधिक धैर्यवान होने की आवश्यकता है।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358629"
+    },
+    {
+      "english": "What are your genuine thoughts on this?",
+      "hindi": "इस पर आपके, वास्तविक विचार क्या हैं?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358632"
+    },
+    {
+      "english": "This is emotionally taxing, for me.",
+      "hindi": "यह मेरे लिए, भावनात्मक रूप से थकाने वाला है।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358635"
+    },
+    {
+      "english": "I'm trying to stay calm, under pressure.",
+      "hindi": "मैं दबाव में, शांत रहने की कोशिश कर रहा हूँ।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358637"
+    },
+    {
+      "english": "This collaboration requires deep trust.",
+      "hindi": "इस सहयोग के लिए, गहरे विश्वास की आवश्यकता है।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358640"
+    },
+    {
+      "english": "I'm feeling a sense of accomplishment.",
+      "hindi": "मैं उपलब्धि की भावना महसूस कर रहा हूँ।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358643"
+    },
+    {
+      "english": "This project needs a heartfelt commitment.",
+      "hindi": "इस परियोजना के लिए, हार्दिक प्रतिबद्धता की आवश्यकता है।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358645"
+    },
+    {
+      "english": "I'm reevaluating my approach, carefully.",
+      "hindi": "मैं अपने दृष्टिकोण का, सावधानीपूर्वक पुनर्मूल्यांकन कर रहा हूँ।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358648"
+    },
+    {
+      "english": "This situation demands empathy, from everyone.",
+      "hindi": "इस स्थिति में, सभी से सहानुभूति की मांग है।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358651"
+    },
+    {
+      "english": "I'm feeling a bit vulnerable, right now.",
+      "hindi": "मैं अभी, थोड़ा कमजोर महसूस कर रहा हूँ।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358654"
+    },
+    {
+      "english": "This is harder than I initially thought.",
+      "hindi": "यह, मेरी प्रारंभिक सोच से अधिक कठिन है।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358659"
+    },
+    {
+      "english": "I need to gather my thoughts, first.",
+      "hindi": "मुझे पहले, अपने विचारों को इकट्ठा करने की आवश्यकता है।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358661"
+    },
+    {
+      "english": "Let's be transparent, about our concerns.",
+      "hindi": "आइए, अपनी चिंताओं के बारे में, पारदर्शी रहें।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358666"
+    },
+    {
+      "english": "I'm experiencing some professional growth.",
+      "hindi": "मैं कुछ पेशेवर विकास का अनुभव कर रहा हूँ।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358670"
+    },
+    {
+      "english": "This requires genuine understanding, from you.",
+      "hindi": "इसके लिए, आपकी ओर से वास्तविक समझ की आवश्यकता है।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358676"
+    },
+    {
+      "english": "I feel a strong sense of responsibility.",
+      "hindi": "मैं जिम्मेदारी की एक मजबूत भावना महसूस करता हूँ।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358679"
+    },
+    {
+      "english": "This is a moment for deep reflection.",
+      "hindi": "यह, गहरे चिंतन का क्षण है।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358682"
+    },
+    {
+      "english": "I need your sincere cooperation, on this.",
+      "hindi": "मुझे इस पर, आपके sincerer सहयोग की आवश्यकता है।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358685"
+    },
+    {
+      "english": "Can you explain that again, please?",
+      "hindi": "क्या आप वो फिर से समझा सकते हैं, कृपया?",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358688"
+    },
+    {
+      "english": "I'll help you with that, later.",
+      "hindi": "मैं आपकी मदद करूँगा/करूँगी, बाद में।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358691"
+    },
+    {
+      "english": "Let's grab some tea, quickly.",
+      "hindi": "चलो, जल्दी से चाय पीते हैं।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358694"
+    },
+    {
+      "english": "This requires careful planning, you see.",
+      "hindi": "इसमें सावधानीपूर्वक योजना बनानी होगी, आप देखिए।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358697"
+    },
+    {
+      "english": "Don't worry, it's manageable, mostly.",
+      "hindi": "चिंता मत करो, यह संभल जाएगा, ज़्यादातर।",
+      "category": "Work & Office",
+      "generated_at": "2026-10-19T08:20:19.358700"
     }
   ],
-  "last_updated": "2026-10-18T07:37:34.016542"
+  "last_updated": "2026-10-19T08:20:19.358702"
 }
