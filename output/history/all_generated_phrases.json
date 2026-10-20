@@ -2159,7 +2159,727 @@
       "hindi": "चिंता मत करो, यह संभल जाएगा, ज़्यादातर।",
       "category": "Work & Office",
       "generated_at": "2026-10-19T08:20:19.358700"
+    },
+    {
+      "english": "What do you do for fun?",
+      "hindi": "आप खाली समय में क्या करते हैं?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.953880"
+    },
+    {
+      "english": "I like to relax.",
+      "hindi": "मुझे आराम करना पसंद है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.953893"
+    },
+    {
+      "english": "My hobby is reading.",
+      "hindi": "मेरा शौक पढ़ना है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.953897"
+    },
+    {
+      "english": "Let's go out tonight.",
+      "hindi": "चलो आज रात बाहर चलते हैं।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.953900"
+    },
+    {
+      "english": "I love watching movies.",
+      "hindi": "मुझे फिल्में देखना बहुत पसंद है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.953902"
+    },
+    {
+      "english": "What are your plans?",
+      "hindi": "आपकी क्या योजनाएँ हैं?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.953905"
+    },
+    {
+      "english": "I enjoy cooking.",
+      "hindi": "मुझे खाना बनाना अच्छा लगता है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.953908"
+    },
+    {
+      "english": "Let's have some fun.",
+      "hindi": "थोड़ा मज़ा करते हैं।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.953913"
+    },
+    {
+      "english": "I like listening to music.",
+      "hindi": "मुझे संगीत सुनना पसंद है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.953916"
+    },
+    {
+      "english": "What are you doing now?",
+      "hindi": "आप अभी क्या कर रहे हैं?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.953919"
+    },
+    {
+      "english": "I play cricket.",
+      "hindi": "मैं क्रिकेट खेलता हूँ।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.953924"
+    },
+    {
+      "english": "It's my free time.",
+      "hindi": "यह मेरा खाली समय है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.953927"
+    },
+    {
+      "english": "I enjoy gardening.",
+      "hindi": "मुझे बागवानी पसंद है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.953931"
+    },
+    {
+      "english": "What's your favorite pastime?",
+      "hindi": "आपका पसंदीदा शगल क्या है?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.953934"
+    },
+    {
+      "english": "I like to travel.",
+      "hindi": "मुझे यात्रा करना पसंद है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.953937"
+    },
+    {
+      "english": "Let's do something exciting.",
+      "hindi": "कुछ रोमांचक करते हैं।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.953941"
+    },
+    {
+      "english": "I love painting.",
+      "hindi": "मुझे पेंटिंग करना बहुत पसंद है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.953944"
+    },
+    {
+      "english": "What are you up to?",
+      "hindi": "क्या चल रहा है?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.953947"
+    },
+    {
+      "english": "I enjoy hiking.",
+      "hindi": "मुझे पैदल यात्रा पसंद है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.953949"
+    },
+    {
+      "english": "Time for a break.",
+      "hindi": "ब्रेक का समय है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.953952"
+    },
+    {
+      "english": "I like photography.",
+      "hindi": "मुझे फोटोग्राफी पसंद है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.953954"
+    },
+    {
+      "english": "What are your hobbies?",
+      "hindi": "आपके शौक क्या हैं?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.953957"
+    },
+    {
+      "english": "I enjoy dancing.",
+      "hindi": "मुझे नाचना पसंद है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.953959"
+    },
+    {
+      "english": "Let's chill out.",
+      "hindi": "चलो आराम करते हैं।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.953962"
+    },
+    {
+      "english": "I like playing games.",
+      "hindi": "मुझे खेल खेलना पसंद है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.953964"
+    },
+    {
+      "english": "What do you do in your spare time?",
+      "hindi": "आप अपने खाली समय में क्या करते हैं?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.953967"
+    },
+    {
+      "english": "I enjoy singing.",
+      "hindi": "मुझे गाना गाना पसंद है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.953970"
+    },
+    {
+      "english": "This is my me-time.",
+      "hindi": "यह मेरा अपना समय है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.953972"
+    },
+    {
+      "english": "I like writing.",
+      "hindi": "मुझे लिखना पसंद है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.953975"
+    },
+    {
+      "english": "Let's make the most of it.",
+      "hindi": "इसका पूरा फायदा उठाते हैं।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.953977"
+    },
+    {
+      "english": "What do you enjoy most?",
+      "hindi": "आपको सबसे ज़्यादा क्या पसंद है?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.953980"
+    },
+    {
+      "english": "Tell me about your weekend.",
+      "hindi": "अपने सप्ताहांत के बारे में बताओ।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.953983"
+    },
+    {
+      "english": "Any interesting plans coming up?",
+      "hindi": "कोई दिलचस्प योजनाएँ हैं?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.953986"
+    },
+    {
+      "english": "How do you unwind after work?",
+      "hindi": "काम के बाद आप कैसे आराम करते हैं?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.953989"
+    },
+    {
+      "english": "What are you passionate about?",
+      "hindi": "आप किस चीज़ के प्रति जुनूनी हैं?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.953991"
+    },
+    {
+      "english": "Do you have any creative outlets?",
+      "hindi": "क्या आपके पास कोई रचनात्मक काम है?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.953994"
+    },
+    {
+      "english": "Where do you find inspiration?",
+      "hindi": "आप प्रेरणा कहाँ पाते हैं?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.953997"
+    },
+    {
+      "english": "What's on your to-do list?",
+      "hindi": "आपकी करने वाली सूची में क्या है?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954000"
+    },
+    {
+      "english": "Mind if I join you?",
+      "hindi": "क्या मैं आपके साथ शामिल हो सकता हूँ?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954003"
+    },
+    {
+      "english": "Suggest a good book, please.",
+      "hindi": "कृपया एक अच्छी किताब सुझाएँ।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954005"
+    },
+    {
+      "english": "What are you learning lately?",
+      "hindi": "आप आजकल क्या सीख रहे हैं?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954008"
+    },
+    {
+      "english": "Let's explore somewhere new.",
+      "hindi": "चलो कहीं नई जगह घूमते हैं।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954013"
+    },
+    {
+      "english": "Any recommendations for activities?",
+      "hindi": "गतिविधियों के लिए कोई सुझाव?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954016"
+    },
+    {
+      "english": "How do you spend your evenings?",
+      "hindi": "आप अपनी शामें कैसे बिताते हैं?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954021"
+    },
+    {
+      "english": "What brings you joy?",
+      "hindi": "आपको खुशी किस चीज़ से मिलती है?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954024"
+    },
+    {
+      "english": "Can you teach me something?",
+      "hindi": "क्या आप मुझे कुछ सिखा सकते हैं?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954027"
+    },
+    {
+      "english": "What's your favorite way to relax?",
+      "hindi": "आराम करने का आपका पसंदीदा तरीका क्या है?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954030"
+    },
+    {
+      "english": "Let's try a new recipe.",
+      "hindi": "चलो एक नई विधि आज़माते हैं।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954034"
+    },
+    {
+      "english": "What kind of music do you like?",
+      "hindi": "आपको किस तरह का संगीत पसंद है?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954037"
+    },
+    {
+      "english": "Are you free this Saturday?",
+      "hindi": "क्या आप इस शनिवार को खाली हैं?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954039"
+    },
+    {
+      "english": "Tell me your thoughts.",
+      "hindi": "मुझे अपने विचार बताओ।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954042"
+    },
+    {
+      "english": "What fuels your creativity?",
+      "hindi": "आपकी रचनात्मकता को क्या बढ़ावा देता है?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954044"
+    },
+    {
+      "english": "Do you enjoy quiet time?",
+      "hindi": "क्या आपको शांत समय पसंद है?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954047"
+    },
+    {
+      "english": "What's a skill you want to learn?",
+      "hindi": "आप कौन सा कौशल सीखना चाहते हैं?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954050"
+    },
+    {
+      "english": "Let's brainstorm some ideas.",
+      "hindi": "चलो कुछ विचारों पर मंथन करते हैं।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954052"
+    },
+    {
+      "english": "How do you de-stress?",
+      "hindi": "आप तनाव को कैसे कम करते हैं?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954055"
+    },
+    {
+      "english": "What makes you happy?",
+      "hindi": "आपको क्या खुश करता है?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954057"
+    },
+    {
+      "english": "Any good movies lately?",
+      "hindi": "हाल ही में कोई अच्छी फिल्में?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954060"
+    },
+    {
+      "english": "What are you looking forward to?",
+      "hindi": "आप किस चीज़ का इंतज़ार कर रहे हैं?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954062"
+    },
+    {
+      "english": "Your passion, is inspiring.",
+      "hindi": "तुम्हारा जुनून, प्रेरणादायक है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954065"
+    },
+    {
+      "english": "Keep going, don't give up.",
+      "hindi": "करते रहो, हार मत मानो।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954068"
+    },
+    {
+      "english": "Enjoy the process, not just the result.",
+      "hindi": "परिणाम नहीं, प्रक्रिया का आनंद लो।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954071"
+    },
+    {
+      "english": "This is your happy place.",
+      "hindi": "यह तुम्हारी खुश रहने की जगह है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954074"
+    },
+    {
+      "english": "Every little step, counts.",
+      "hindi": "हर छोटा कदम, मायने रखता है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954077"
+    },
+    {
+      "english": "You are doing great!",
+      "hindi": "तुम बहुत अच्छा कर रहे हो!",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954080"
+    },
+    {
+      "english": "Your efforts, are commendable.",
+      "hindi": "तुम्हारी कोशिशें, काबिले तारीफ हैं।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954083"
+    },
+    {
+      "english": "You've got this!",
+      "hindi": "तुम यह कर सकते हो!",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954085"
+    },
+    {
+      "english": "This is your time to shine.",
+      "hindi": "यह तुम्हारे चमकने का समय है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954088"
+    },
+    {
+      "english": "Don't compare, just create.",
+      "hindi": "तुलना मत करो, बस बनाओ।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954092"
+    },
+    {
+      "english": "Let your creativity flow.",
+      "hindi": "अपनी रचनात्मकता को बहने दो।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954097"
+    },
+    {
+      "english": "Find joy, in the small things.",
+      "hindi": "छोटी चीज़ों में, खुशी ढूंढो।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954100"
+    },
+    {
+      "english": "You're improving, day by day.",
+      "hindi": "तुम दिन-ब-दिन, बेहतर हो रहे हो।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954103"
+    },
+    {
+      "english": "Your dedication, is impressive.",
+      "hindi": "तुम्हारी निष्ठा, प्रभावशाली है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954105"
+    },
+    {
+      "english": "Embrace your unique talents.",
+      "hindi": "अपनी अनोखी प्रतिभाओं को अपनाओ।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954108"
+    },
+    {
+      "english": "Relax, recharge, and restart.",
+      "hindi": "आराम करो, रिचार्ज हो, और फिर शुरू करो।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954110"
+    },
+    {
+      "english": "This is self-care, well done.",
+      "hindi": "यह आत्म-देखभाल है, बहुत अच्छा।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954113"
+    },
+    {
+      "english": "You make it look easy.",
+      "hindi": "तुम इसे आसान बनाते हो।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954116"
+    },
+    {
+      "english": "Never stop learning, never stop growing.",
+      "hindi": "कभी सीखना बंद मत करो, कभी बढ़ना बंद मत करो।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954119"
+    },
+    {
+      "english": "Your positive attitude, is contagious.",
+      "hindi": "तुम्हारा सकारात्मक रवैया, संक्रामक है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954122"
+    },
+    {
+      "english": "Invest in your happiness.",
+      "hindi": "अपनी खुशी में निवेश करो।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954126"
+    },
+    {
+      "english": "You're a natural at this.",
+      "hindi": "तुम इसमें स्वाभाविक हो।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954129"
+    },
+    {
+      "english": "Keep exploring, keep discovering.",
+      "hindi": "खोजते रहो, पता लगाते रहो।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954132"
+    },
+    {
+      "english": "This brings out the best in you.",
+      "hindi": "यह तुममें सर्वश्रेष्ठ लाता है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954134"
+    },
+    {
+      "english": "Your creativity, knows no bounds.",
+      "hindi": "तुम्हारी रचनात्मकता की, कोई सीमा नहीं है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954137"
+    },
+    {
+      "english": "You make time, for what matters.",
+      "hindi": "तुम महत्वपूर्ण चीजों के लिए, समय निकालते हो।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954140"
+    },
+    {
+      "english": "This is pure bliss.",
+      "hindi": "यह परम आनंद है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954142"
+    },
+    {
+      "english": "This hobby, calms my mind.",
+      "hindi": "यह शौक, मेरे मन को शांति देता है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954145"
+    },
+    {
+      "english": "I find peace, in these moments.",
+      "hindi": "मुझे इन पलों में, सुकून मिलता है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954148"
+    },
+    {
+      "english": "My true self, emerges here.",
+      "hindi": "मेरा असली रूप, यहीं सामने आता है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954150"
+    },
+    {
+      "english": "It feels like, coming home.",
+      "hindi": "यह घर वापसी, जैसा लगता है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954153"
+    },
+    {
+      "english": "This quiet time, is precious.",
+      "hindi": "यह शांत समय, बहुत कीमती है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954156"
+    },
+    {
+      "english": "My heart feels, truly full.",
+      "hindi": "मेरा दिल, सचमुच भर जाता है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954159"
+    },
+    {
+      "english": "I'm learning, to be patient.",
+      "hindi": "मैं, धैर्य रखना सीख रहा हूँ।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954162"
+    },
+    {
+      "english": "This brings, deep contentment.",
+      "hindi": "यह, गहरा संतोष लाता है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954165"
+    },
+    {
+      "english": "My soul, feels nourished.",
+      "hindi": "मेरी आत्मा, तृप्त महसूस करती है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954167"
+    },
+    {
+      "english": "This reflection, is needed.",
+      "hindi": "यह चिंतन, आवश्यक है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954170"
+    },
+    {
+      "english": "I feel more, myself now.",
+      "hindi": "मैं अब, ज़्यादा खुद को महसूस करता हूँ।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954174"
+    },
+    {
+      "english": "This quiet, is powerful.",
+      "hindi": "यह खामोशी, शक्तिशाली है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954178"
+    },
+    {
+      "english": "My inner peace, grows here.",
+      "hindi": "मेरा अंदरूनी सुकून, यहीं बढ़ता है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954180"
+    },
+    {
+      "english": "It's a, heartfelt escape.",
+      "hindi": "यह एक, दिल से निकली राहत है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954183"
+    },
+    {
+      "english": "I'm discovering, my inner strength.",
+      "hindi": "मैं अपनी, अंदरूनी ताकत खोज रहा हूँ।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954186"
+    },
+    {
+      "english": "This feeling, is pure joy.",
+      "hindi": "यह एहसास, शुद्ध आनंद है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954189"
+    },
+    {
+      "english": "My mind, feels so clear.",
+      "hindi": "मेरा दिमाग़, बहुत साफ़ महसूस होता है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954192"
+    },
+    {
+      "english": "These moments, truly matter.",
+      "hindi": "ये पल, वाकई मायने रखते हैं।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954195"
+    },
+    {
+      "english": "I connect, with my core.",
+      "hindi": "मैं, अपने मूल से जुड़ता हूँ।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954197"
+    },
+    {
+      "english": "This practice, grounds me.",
+      "hindi": "यह अभ्यास, मुझे ज़मीन से जोड़ता है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954200"
+    },
+    {
+      "english": "My spirit, feels uplifted.",
+      "hindi": "मेरी आत्मा, ऊपर उठती हुई लगती है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954203"
+    },
+    {
+      "english": "I embrace, this stillness.",
+      "hindi": "मैं, इस स्थिरता को अपनाता हूँ।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954205"
+    },
+    {
+      "english": "This is my, honest space.",
+      "hindi": "यह मेरी, ईमानदार जगह है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954208"
+    },
+    {
+      "english": "It feeds, my inner soul.",
+      "hindi": "यह मेरी, अंदरूनी आत्मा को पोषित करता है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954210"
+    },
+    {
+      "english": "I'm finding, my true passion.",
+      "hindi": "मैं अपना, सच्चा जुनून पा रहा हूँ।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954213"
+    },
+    {
+      "english": "This allows, vulnerability.",
+      "hindi": "यह, भेद्यता की अनुमति देता है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954218"
+    },
+    {
+      "english": "My heart, opens up.",
+      "hindi": "मेरा दिल, खुल जाता है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954220"
+    },
+    {
+      "english": "This journey, is personal.",
+      "hindi": "यह यात्रा, व्यक्तिगत है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954246"
+    },
+    {
+      "english": "I feel, deeply understood.",
+      "hindi": "मुझे, गहरा समझा हुआ महसूस होता है।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954249"
+    },
+    {
+      "english": "This is where, I belong.",
+      "hindi": "मैं यहीं, का हूँ।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954252"
+    },
+    {
+      "english": "Try new things, don't be afraid.",
+      "hindi": "नई चीजें आज़माओ, डरो मत।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954255"
+    },
+    {
+      "english": "What are you doing, this weekend?",
+      "hindi": "इस वीकेंड, तुम क्या कर रहे हो?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954258"
+    },
+    {
+      "english": "Let's plan, something fun together.",
+      "hindi": "चलो साथ में, कुछ मज़ेदार प्लान करते हैं।",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954261"
+    },
+    {
+      "english": "Where do you, usually relax?",
+      "hindi": "तुम आमतौर पर, कहाँ आराम करते हो?",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-10-20T08:04:38.954263"
     }
   ],
-  "last_updated": "2026-10-19T08:20:19.358702"
+  "last_updated": "2026-10-20T08:04:38.954265"
 }
