@@ -2879,7 +2879,727 @@
       "hindi": "तुम आमतौर पर, कहाँ आराम करते हो?",
       "category": "Hobbies & Free Time",
       "generated_at": "2026-10-20T08:04:38.954263"
+    },
+    {
+      "english": "Hello, table for two, please.",
+      "hindi": "नमस्ते, दो लोगों के लिए टेबल, कृपया।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356469"
+    },
+    {
+      "english": "Can I see the menu, please?",
+      "hindi": "क्या मैं मेन्यू देख सकता हूँ, कृपया?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356481"
+    },
+    {
+      "english": "What do you recommend?",
+      "hindi": "आप क्या सुझाव देंगे?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356485"
+    },
+    {
+      "english": "I'll have this one.",
+      "hindi": "मैं यह वाला लूँगा।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356489"
+    },
+    {
+      "english": "Is it spicy?",
+      "hindi": "क्या यह मसालेदार है?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356492"
+    },
+    {
+      "english": "Not too spicy, please.",
+      "hindi": "ज़्यादा मसालेदार नहीं, कृपया।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356494"
+    },
+    {
+      "english": "Water, please.",
+      "hindi": "पानी, कृपया।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356499"
+    },
+    {
+      "english": "A little bit of ice.",
+      "hindi": "थोड़ी सी बर्फ।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356505"
+    },
+    {
+      "english": "Ready to order now.",
+      "hindi": "अब ऑर्डर करने के लिए तैयार हूँ।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356509"
+    },
+    {
+      "english": "We need more time.",
+      "hindi": "हमें थोड़ा और समय चाहिए।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356512"
+    },
+    {
+      "english": "The food is delicious!",
+      "hindi": "खाना बहुत स्वादिष्ट है!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356515"
+    },
+    {
+      "english": "Everything is perfect.",
+      "hindi": "सब कुछ बिल्कुल सही है।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356517"
+    },
+    {
+      "english": "Can I have the bill, please?",
+      "hindi": "क्या मैं बिल ले सकता हूँ, कृपया?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356520"
+    },
+    {
+      "english": "How much is it?",
+      "hindi": "यह कितने का है?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356522"
+    },
+    {
+      "english": "Can I pay by card?",
+      "hindi": "क्या मैं कार्ड से भुगतान कर सकता हूँ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356525"
+    },
+    {
+      "english": "Keep the change.",
+      "hindi": "बाकी आप रख लीजिए।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356527"
+    },
+    {
+      "english": "This is exactly what I wanted.",
+      "hindi": "यह बिल्कुल वही है जो मैं चाहता था।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356530"
+    },
+    {
+      "english": "It was a great meal.",
+      "hindi": "यह एक बढ़िया भोजन था।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356532"
+    },
+    {
+      "english": "Can I have some more bread?",
+      "hindi": "क्या मुझे थोड़ी और रोटी मिल सकती है?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356535"
+    },
+    {
+      "english": "We are still deciding.",
+      "hindi": "हम अभी भी सोच रहे हैं।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356538"
+    },
+    {
+      "english": "What's the special today?",
+      "hindi": "आज का स्पेशल क्या है?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356540"
+    },
+    {
+      "english": "I'm allergic to nuts.",
+      "hindi": "मुझे मेवों से एलर्जी है।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356543"
+    },
+    {
+      "english": "Can you make it vegetarian?",
+      "hindi": "क्या आप इसे शाकाहारी बना सकते हैं?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356545"
+    },
+    {
+      "english": "This is too salty.",
+      "hindi": "यह बहुत नमकीन है।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356548"
+    },
+    {
+      "english": "Can I get a doggy bag?",
+      "hindi": "क्या मुझे बचा हुआ खाना पैक करवा सकता हूँ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356550"
+    },
+    {
+      "english": "It's a bit cold.",
+      "hindi": "यह थोड़ा ठंडा है।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356553"
+    },
+    {
+      "english": "Could you heat it up?",
+      "hindi": "क्या आप इसे गर्म कर सकते हैं?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356557"
+    },
+    {
+      "english": "The service is excellent.",
+      "hindi": "सेवा बहुत अच्छी है।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356560"
+    },
+    {
+      "english": "We had a lovely time.",
+      "hindi": "हमने बहुत अच्छा समय बिताया।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356562"
+    },
+    {
+      "english": "Thank you for the wonderful food.",
+      "hindi": "इस बढ़िया खाने के लिए धन्यवाद।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356567"
+    },
+    {
+      "english": "So, what's good here?",
+      "hindi": "तो, यहाँ क्या अच्छा है?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356570"
+    },
+    {
+      "english": "Anything quick, maybe?",
+      "hindi": "कुछ जल्दी वाला, शायद?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356573"
+    },
+    {
+      "english": "Is this a local specialty?",
+      "hindi": "क्या यह कोई स्थानीय विशेषता है?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356576"
+    },
+    {
+      "english": "How is this dish prepared?",
+      "hindi": "यह व्यंजन कैसे तैयार किया जाता है?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356579"
+    },
+    {
+      "english": "Can I try a small portion?",
+      "hindi": "क्या मैं थोड़ा सा चख सकता हूँ?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356581"
+    },
+    {
+      "english": "Are there any vegetarian options?",
+      "hindi": "क्या यहाँ शाकाहारी विकल्प हैं?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356584"
+    },
+    {
+      "english": "What goes well with this?",
+      "hindi": "इसके साथ क्या अच्छा रहेगा?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356587"
+    },
+    {
+      "english": "Can you explain this dish?",
+      "hindi": "क्या आप इस व्यंजन के बारे में बता सकते हैं?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356589"
+    },
+    {
+      "english": "Is it very filling?",
+      "hindi": "क्या यह बहुत पेट भरने वाला है?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356592"
+    },
+    {
+      "english": "What's your personal favorite?",
+      "hindi": "आपकी व्यक्तिगत पसंदीदा क्या है?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356595"
+    },
+    {
+      "english": "Do you have gluten-free?",
+      "hindi": "क्या आपके पास ग्लूटेन-मुक्त है?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356597"
+    },
+    {
+      "english": "How spicy is that really?",
+      "hindi": "वह असल में कितना मसालेदार है?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356601"
+    },
+    {
+      "english": "Can I get a side of that?",
+      "hindi": "क्या मुझे उसका एक साइड मिल सकता है?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356604"
+    },
+    {
+      "english": "What's the most popular item?",
+      "hindi": "सबसे लोकप्रिय चीज़ क्या है?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356606"
+    },
+    {
+      "english": "Is there anything new?",
+      "hindi": "क्या कुछ नया है?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356609"
+    },
+    {
+      "english": "Could you surprise me?",
+      "hindi": "क्या आप मुझे आश्चर्यचकित कर सकते हैं?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356611"
+    },
+    {
+      "english": "What would you suggest for two?",
+      "hindi": "दो लोगों के लिए आप क्या सुझाएंगे?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356614"
+    },
+    {
+      "english": "Can we share this easily?",
+      "hindi": "क्या हम इसे आसानी से साझा कर सकते हैं?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356616"
+    },
+    {
+      "english": "Is this suitable for kids?",
+      "hindi": "क्या यह बच्चों के लिए उपयुक्त है?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356619"
+    },
+    {
+      "english": "How long will it take?",
+      "hindi": "इसमें कितना समय लगेगा?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356621"
+    },
+    {
+      "english": "What about a light option?",
+      "hindi": "हल्के विकल्प के बारे में क्या?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356624"
+    },
+    {
+      "english": "Can I get extra sauce?",
+      "hindi": "क्या मुझे अतिरिक्त सॉस मिल सकता है?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356626"
+    },
+    {
+      "english": "Is this fresh today?",
+      "hindi": "क्या यह आज ताज़ा है?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356630"
+    },
+    {
+      "english": "What's the mildest option?",
+      "hindi": "सबसे हल्का विकल्प क्या है?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356633"
+    },
+    {
+      "english": "Can you adjust the spice level?",
+      "hindi": "क्या आप मसाले का स्तर समायोजित कर सकते हैं?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356635"
+    },
+    {
+      "english": "What comes with this plate?",
+      "hindi": "इस प्लेट के साथ क्या आता है?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356638"
+    },
+    {
+      "english": "Do you have any dairy-free?",
+      "hindi": "क्या आपके पास डेयरी-मुक्त है?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356641"
+    },
+    {
+      "english": "What are the side dishes?",
+      "hindi": "साइड डिश क्या हैं?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356643"
+    },
+    {
+      "english": "Can I have it less oily?",
+      "hindi": "क्या मुझे यह कम तैलीय मिल सकता है?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356646"
+    },
+    {
+      "english": "What's good for sharing?",
+      "hindi": "साझा करने के लिए क्या अच्छा है?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356648"
+    },
+    {
+      "english": "This is finger-licking good!",
+      "hindi": "वाह, क्या लज़ीज़ खाना है!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356653"
+    },
+    {
+      "english": "My taste buds are dancing!",
+      "hindi": "मेरे तो ज़ुबान पर स्वाद आ गया!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356656"
+    },
+    {
+      "english": "This is a home run!",
+      "hindi": "यह तो कमाल का है!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356658"
+    },
+    {
+      "english": "Chef's kiss, really!",
+      "hindi": "शफ़ का चुंबन, सचमुच!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356661"
+    },
+    {
+      "english": "This hits the spot perfectly.",
+      "hindi": "यह एकदम सही जगह लगा।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356664"
+    },
+    {
+      "english": "I could eat this every day.",
+      "hindi": "मैं रोज़ यही खा सकता/सकती हूँ।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356667"
+    },
+    {
+      "english": "This is Indian comfort food.",
+      "hindi": "यह तो दिल को सुकून देने वाला खाना है।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356669"
+    },
+    {
+      "english": "It tastes like grandma's cooking.",
+      "hindi": "दादी के हाथ के खाने जैसा स्वाद है।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356672"
+    },
+    {
+      "english": "This is beyond delicious.",
+      "hindi": "यह तो बस बेमिसाल है।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356674"
+    },
+    {
+      "english": "My stomach is singing praises.",
+      "hindi": "मेरा पेट ख़ुशी से गा रहा है।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356679"
+    },
+    {
+      "english": "This is the real deal.",
+      "hindi": "यह असली चीज़ है।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356681"
+    },
+    {
+      "english": "Worth every penny, honestly.",
+      "hindi": "सच कहूँ, हर पैसे वसूल हैं।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356684"
+    },
+    {
+      "english": "This is a flavor explosion!",
+      "hindi": "यह स्वाद का धमाका है!",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356686"
+    },
+    {
+      "english": "I'm stuffed, but it's so good.",
+      "hindi": "मेरा पेट भर गया, पर बहुत स्वादिष्ट है।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356689"
+    },
+    {
+      "english": "This is a culinary masterpiece.",
+      "hindi": "यह एक पाक कला का नमूना है।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356692"
+    },
+    {
+      "english": "It's like a party in my mouth.",
+      "hindi": "यह मेरे मुँह में एक पार्टी जैसा है।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356694"
+    },
+    {
+      "english": "This dish speaks for itself.",
+      "hindi": "यह व्यंजन खुद बोलता है।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356697"
+    },
+    {
+      "english": "I'm dreaming of this food.",
+      "hindi": "मैं इस खाने के सपने देख रहा/रही हूँ।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356699"
+    },
+    {
+      "english": "This is simply divine.",
+      "hindi": "यह बस दिव्य है।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356704"
+    },
+    {
+      "english": "It's worth the wait, for sure.",
+      "hindi": "यह इंतज़ार के लायक है, बिल्कुल।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356707"
+    },
+    {
+      "english": "This food is pure happiness.",
+      "hindi": "यह खाना शुद्ध खुशी है।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356709"
+    },
+    {
+      "english": "It's an authentic taste.",
+      "hindi": "यह एक असली स्वाद है।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356712"
+    },
+    {
+      "english": "This is food for the soul.",
+      "hindi": "यह आत्मा का भोजन है।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356714"
+    },
+    {
+      "english": "I'm completely satisfied.",
+      "hindi": "मैं पूरी तरह से संतुष्ट हूँ।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356717"
+    },
+    {
+      "english": "This is how it's done right.",
+      "hindi": "ऐसे ही सही काम होता है।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356720"
+    },
+    {
+      "english": "My compliments to the chef.",
+      "hindi": "शफ़ को मेरी दाद।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356722"
+    },
+    {
+      "english": "This is a flavor journey.",
+      "hindi": "यह स्वाद की यात्रा है।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356725"
+    },
+    {
+      "english": "It's a delightful surprise.",
+      "hindi": "यह एक आनंददायक आश्चर्य है।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356727"
+    },
+    {
+      "english": "This is just perfect, no notes.",
+      "hindi": "यह एकदम सही है, कोई कमी नहीं।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356730"
+    },
+    {
+      "english": "I'm already planning my next visit.",
+      "hindi": "मैं अपनी अगली यात्रा की योजना बना रहा/रही हूँ।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356733"
+    },
+    {
+      "english": "This tastes so familiar, you know?",
+      "hindi": "ये बहुत जाना-पहचाना लग रहा है, पता है?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356736"
+    },
+    {
+      "english": "I'm feeling really content right now.",
+      "hindi": "मैं अभी बहुत संतुष्ट महसूस कर रहा हूँ।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356738"
+    },
+    {
+      "english": "This reminds me of childhood, honestly.",
+      "hindi": "सच कहूँ तो, ये बचपन की याद दिलाता है।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356743"
+    },
+    {
+      "english": "Take your time, no rush at all.",
+      "hindi": "आराम से लो, बिल्कुल जल्दी नहीं है।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356746"
+    },
+    {
+      "english": "I'm just enjoying the moment, really.",
+      "hindi": "मैं बस इस पल का आनंद ले रहा हूँ, सचमुच।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356749"
+    },
+    {
+      "english": "This food has a special feeling to it.",
+      "hindi": "इस खाने में एक खास एहसास है।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356752"
+    },
+    {
+      "english": "It's nice when food feels like home.",
+      "hindi": "अच्छा लगता है जब खाना घर जैसा लगे।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356755"
+    },
+    {
+      "english": "I wasn't expecting this, it's lovely.",
+      "hindi": "मुझे इसकी उम्मीद नहीं थी, ये बहुत प्यारा है।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356758"
+    },
+    {
+      "english": "This dish evokes such good memories.",
+      "hindi": "ये डिश बहुत अच्छी यादें ताज़ा करती है।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356760"
+    },
+    {
+      "english": "I appreciate the effort, truly.",
+      "hindi": "मैं सचमुच मेहनत की सराहना करता हूँ।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356763"
+    },
+    {
+      "english": "It's more than just food, you know?",
+      "hindi": "ये सिर्फ खाने से बढ़कर है, पता है?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356766"
+    },
+    {
+      "english": "I feel a sense of calm eating this.",
+      "hindi": "इसे खाकर मुझे सुकून का एहसास होता है।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356768"
+    },
+    {
+      "english": "This really hits deep, in a good way.",
+      "hindi": "ये सच में दिल को छू जाता है, अच्छे से।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356771"
+    },
+    {
+      "english": "Sometimes simple is best, right?",
+      "hindi": "कभी-कभी सादा ही सबसे अच्छा होता है, है ना?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356774"
+    },
+    {
+      "english": "I'm reflecting on how good this is.",
+      "hindi": "मैं सोच रहा हूँ कि ये कितना अच्छा है।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356776"
+    },
+    {
+      "english": "This has a certain charm to it.",
+      "hindi": "इसमें एक खास आकर्षण है।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356779"
+    },
+    {
+      "english": "It feels nourishing, you understand?",
+      "hindi": "ये पौष्टिक लग रहा है, समझे?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356782"
+    },
+    {
+      "english": "This is quite a revelation for me.",
+      "hindi": "मेरे लिए ये एक बड़ी खोज है।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356784"
+    },
+    {
+      "english": "I'm genuinely pleased with this.",
+      "hindi": "मैं इससे सचमुच बहुत खुश हूँ।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356787"
+    },
+    {
+      "english": "This evokes a warm feeling inside.",
+      "hindi": "ये अंदर एक गर्म एहसास जगाता है।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356789"
+    },
+    {
+      "english": "Patience pays off with food like this.",
+      "hindi": "ऐसे खाने के लिए धैर्य का फल मीठा होता है।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356792"
+    },
+    {
+      "english": "It's a comforting kind of deliciousness.",
+      "hindi": "ये आराम देने वाली मिठास है।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356795"
+    },
+    {
+      "english": "This tastes like a forgotten recipe.",
+      "hindi": "इसका स्वाद भूली हुई रेसिपी जैसा है।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356797"
+    },
+    {
+      "english": "I feel a connection to this dish.",
+      "hindi": "मुझे इस डिश से जुड़ाव महसूस होता है।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356801"
+    },
+    {
+      "english": "This is quite thoughtful, isn't it?",
+      "hindi": "ये काफी सोच-समझकर बनाया गया है, है ना?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356806"
+    },
+    {
+      "english": "I'm feeling nostalgic, thanks to this.",
+      "hindi": "इसकी वजह से मुझे पुरानी यादें आ रही हैं।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356810"
+    },
+    {
+      "english": "This simple meal is deeply satisfying.",
+      "hindi": "ये साधारण भोजन गहरा संतोष देता है।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356813"
+    },
+    {
+      "english": "It's the honesty in the flavors.",
+      "hindi": "ये स्वाद में ईमानदारी है।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356816"
+    },
+    {
+      "english": "I'm soaking in this experience.",
+      "hindi": "मैं इस अनुभव को महसूस कर रहा हूँ।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356818"
+    },
+    {
+      "english": "This food brings a quiet joy.",
+      "hindi": "ये खाना एक शांत खुशी लाता है।",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-10-21T08:10:06.356821"
     }
   ],
-  "last_updated": "2026-10-20T08:04:38.954265"
+  "last_updated": "2026-10-21T08:10:06.356823"
 }
