@@ -5039,7 +5039,727 @@
       "hindi": "छोटी शुरुआत, सोच बड़ी।",
       "category": "Hope",
       "generated_at": "2026-10-23T08:08:57.499453"
+    },
+    {
+      "english": "My mistake, please forgive me.",
+      "hindi": "मेरी गलती है, कृपया मुझे माफ़ कर दें।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027468"
+    },
+    {
+      "english": "I'm really sorry, okay?",
+      "hindi": "मैं सचमुच माफ़ी चाहता हूँ, ठीक है?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027482"
+    },
+    {
+      "english": "Can you forgive me, please?",
+      "hindi": "क्या आप मुझे माफ़ कर सकते हैं, प्लीज़?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027486"
+    },
+    {
+      "english": "I apologize, truly.",
+      "hindi": "मैं माफ़ी माँगता हूँ, सच में।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027489"
+    },
+    {
+      "english": "Please let it go.",
+      "hindi": "कृपया इसे जाने दें।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027492"
+    },
+    {
+      "english": "Don't be angry, please.",
+      "hindi": "गुस्सा मत हो, प्लीज़।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027495"
+    },
+    {
+      "english": "It won't happen again.",
+      "hindi": "यह दोबारा नहीं होगा।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027498"
+    },
+    {
+      "english": "I promise, I'll be careful.",
+      "hindi": "मैं वादा करता हूँ, मैं सावधान रहूँगा।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027505"
+    },
+    {
+      "english": "Forgive my slip-up.",
+      "hindi": "मेरी चूक के लिए माफ़ करना।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027509"
+    },
+    {
+      "english": "It was unintentional, really.",
+      "hindi": "यह अनजाने में हुआ था, सच में।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027512"
+    },
+    {
+      "english": "Please, forget about it.",
+      "hindi": "प्लीज़, इसे भूल जाइए।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027515"
+    },
+    {
+      "english": "I messed up, my bad.",
+      "hindi": "मैंने गड़बड़ कर दी, मेरी गलती।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027518"
+    },
+    {
+      "english": "Can we move past this?",
+      "hindi": "क्या हम इस बात को भूल सकते हैं?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027520"
+    },
+    {
+      "english": "I'm seeking your forgiveness.",
+      "hindi": "मैं आपकी माफ़ी चाहता हूँ।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027523"
+    },
+    {
+      "english": "Please, don't hold a grudge.",
+      "hindi": "कृपया, मन में बुरा मत रखना।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027526"
+    },
+    {
+      "english": "Consider us even now.",
+      "hindi": "अब हमें बराबर समझो।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027528"
+    },
+    {
+      "english": "I owe you an apology.",
+      "hindi": "मुझे आपसे माफ़ी माँगनी है।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027530"
+    },
+    {
+      "english": "Sorry for the trouble.",
+      "hindi": "तकलीफ़ के लिए माफ़ी चाहता हूँ।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027533"
+    },
+    {
+      "english": "My apologies for the delay.",
+      "hindi": "देरी के लिए मेरी क्षमा याचना।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027535"
+    },
+    {
+      "english": "I regret my actions.",
+      "hindi": "मुझे अपने काम का पछतावा है।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027538"
+    },
+    {
+      "english": "Can you grant me pardon?",
+      "hindi": "क्या आप मुझे माफ़ी दे सकते हैं?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027540"
+    },
+    {
+      "english": "Let's start fresh, okay?",
+      "hindi": "चलो, नई शुरुआत करते हैं, ठीक है?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027544"
+    },
+    {
+      "english": "I'm so sorry, my friend.",
+      "hindi": "मैं बहुत माफ़ी चाहता हूँ, मेरे दोस्त।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027547"
+    },
+    {
+      "english": "Please, accept my apology.",
+      "hindi": "कृपया, मेरी माफ़ी स्वीकार करें।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027550"
+    },
+    {
+      "english": "It was a silly mistake.",
+      "hindi": "यह एक नासमझी वाली गलती थी।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027552"
+    },
+    {
+      "english": "I hope you're not too mad.",
+      "hindi": "मुझे उम्मीद है तुम ज़्यादा नाराज़ नहीं होगे।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027555"
+    },
+    {
+      "english": "Sorry, I didn't mean to.",
+      "hindi": "माफ़ करना, मेरा वो मतलब नहीं था।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027560"
+    },
+    {
+      "english": "Let's just let it go.",
+      "hindi": "चलो, बस इसे जाने देते हैं।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027564"
+    },
+    {
+      "english": "Please find it in your heart.",
+      "hindi": "कृपया, अपने दिल में जगह दें।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027567"
+    },
+    {
+      "english": "What's bothering you, friend?",
+      "hindi": "क्या बात है, दोस्त?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027570"
+    },
+    {
+      "english": "Can you tell me what happened?",
+      "hindi": "क्या तुम बता सकते हो, क्या हुआ?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027573"
+    },
+    {
+      "english": "How can I make things right?",
+      "hindi": "मैं चीजों को कैसे ठीक कर सकता हूँ?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027575"
+    },
+    {
+      "english": "Do you need some time alone?",
+      "hindi": "क्या तुम्हें कुछ समय अकेले चाहिए?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027580"
+    },
+    {
+      "english": "Is there something I should know?",
+      "hindi": "क्या कोई ऐसी बात है जो मुझे जाननी चाहिए?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027584"
+    },
+    {
+      "english": "What's the best way forward?",
+      "hindi": "आगे बढ़ने का सबसे अच्छा तरीका क्या है?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027587"
+    },
+    {
+      "english": "Can we talk this through?",
+      "hindi": "क्या हम इस पर बात कर सकते हैं?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027590"
+    },
+    {
+      "english": "What do you think we should do?",
+      "hindi": "तुम्हारे हिसाब से हमें क्या करना चाहिए?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027593"
+    },
+    {
+      "english": "Should I ask someone else?",
+      "hindi": "क्या मुझे किसी और से पूछना चाहिए?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027596"
+    },
+    {
+      "english": "How do you usually handle this?",
+      "hindi": "तुम आमतौर पर इसे कैसे संभालते हो?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027598"
+    },
+    {
+      "english": "What advice do you have for me?",
+      "hindi": "तुम्हारी मुझे क्या सलाह है?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027601"
+    },
+    {
+      "english": "Is this a good time to discuss?",
+      "hindi": "क्या यह बात करने का सही समय है?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027604"
+    },
+    {
+      "english": "Can you help me understand?",
+      "hindi": "क्या तुम मुझे समझने में मदद कर सकते हो?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027606"
+    },
+    {
+      "english": "Are you feeling better now?",
+      "hindi": "क्या तुम अब बेहतर महसूस कर रहे हो?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027609"
+    },
+    {
+      "english": "Did you mean to do that?",
+      "hindi": "क्या तुम्हारा वो करने का मतलब था?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027611"
+    },
+    {
+      "english": "What could I have done differently?",
+      "hindi": "मैं अलग से क्या कर सकता था?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027614"
+    },
+    {
+      "english": "How can we avoid this next time?",
+      "hindi": "अगली बार हम इससे कैसे बच सकते हैं?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027617"
+    },
+    {
+      "english": "Do you want to share your thoughts?",
+      "hindi": "क्या तुम अपने विचार साझा करना चाहते हो?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027619"
+    },
+    {
+      "english": "Can we agree on this?",
+      "hindi": "क्या हम इस पर सहमत हो सकते हैं?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027622"
+    },
+    {
+      "english": "What's the plan from here?",
+      "hindi": "यहाँ से आगे की क्या योजना है?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027624"
+    },
+    {
+      "english": "Do you need an explanation?",
+      "hindi": "क्या तुम्हें स्पष्टीकरण की आवश्यकता है?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027627"
+    },
+    {
+      "english": "How do you feel about this situation?",
+      "hindi": "तुम इस स्थिति के बारे में कैसा महसूस करते हो?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027629"
+    },
+    {
+      "english": "What would make you feel better?",
+      "hindi": "क्या करने से तुम्हें बेहतर महसूस होगा?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027632"
+    },
+    {
+      "english": "Can we put this behind us?",
+      "hindi": "क्या हम इसे पीछे छोड़ सकते हैं?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027634"
+    },
+    {
+      "english": "Is there any misunderstanding?",
+      "hindi": "क्या कोई गलतफहमी है?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027637"
+    },
+    {
+      "english": "What should I do next?",
+      "hindi": "मुझे आगे क्या करना चाहिए?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027639"
+    },
+    {
+      "english": "Can we start over again?",
+      "hindi": "क्या हम फिर से शुरुआत कर सकते हैं?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027641"
+    },
+    {
+      "english": "Let go, feel free.",
+      "hindi": "छोड़ दो, आज़ाद महसूस करो।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027644"
+    },
+    {
+      "english": "Forgive, and grow.",
+      "hindi": "माफ़ करो, और बढ़ो।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027647"
+    },
+    {
+      "english": "Peace begins, with forgiveness.",
+      "hindi": "शांति शुरू होती है, माफ़ी से।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027650"
+    },
+    {
+      "english": "You're doing great, really.",
+      "hindi": "तुम बहुत अच्छा कर रहे हो, सच में।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027654"
+    },
+    {
+      "english": "Believe in your strength.",
+      "hindi": "अपनी ताकत पर विश्वास करो।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027659"
+    },
+    {
+      "english": "Positive thoughts, win.",
+      "hindi": "सकारात्मक सोच, जीतती है।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027662"
+    },
+    {
+      "english": "Every day, a new chance.",
+      "hindi": "हर दिन, एक नया मौका।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027665"
+    },
+    {
+      "english": "Good job, truly.",
+      "hindi": "बहुत बढ़िया, सचमुच।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027667"
+    },
+    {
+      "english": "Keep that good work up.",
+      "hindi": "यह अच्छा काम जारी रखो।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027670"
+    },
+    {
+      "english": "That's how it's done!",
+      "hindi": "ऐसे ही किया जाता है!",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027673"
+    },
+    {
+      "english": "Impressive, really impressive.",
+      "hindi": "शानदार, सचमुच शानदार।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027676"
+    },
+    {
+      "english": "You handled it well.",
+      "hindi": "तुमने इसे अच्छे से संभाला।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027678"
+    },
+    {
+      "english": "Smart thinking, that's it.",
+      "hindi": "स्मार्ट सोच, यही बात है।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027681"
+    },
+    {
+      "english": "Nicely done, my friend.",
+      "hindi": "अच्छे से किया, मेरे दोस्त।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027684"
+    },
+    {
+      "english": "What a great idea!",
+      "hindi": "क्या बढ़िया विचार है!",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027686"
+    },
+    {
+      "english": "You shine, truly.",
+      "hindi": "तुम चमकते हो, सच में।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027689"
+    },
+    {
+      "english": "Keep your chin up.",
+      "hindi": "अपना सिर ऊंचा रखो।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027692"
+    },
+    {
+      "english": "Focus on the good.",
+      "hindi": "अच्छी बातों पर ध्यान दो।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027694"
+    },
+    {
+      "english": "Learn, then release.",
+      "hindi": "सीखो, फिर छोड़ दो।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027696"
+    },
+    {
+      "english": "Your progress is visible.",
+      "hindi": "तुम्हारी प्रगति दिख रही है।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027699"
+    },
+    {
+      "english": "Stay strong, you can.",
+      "hindi": "मजबूत रहो, तुम कर सकते हो।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027701"
+    },
+    {
+      "english": "Inner peace, is key.",
+      "hindi": "आंतरिक शांति, ज़रूरी है।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027704"
+    },
+    {
+      "english": "Let kindness guide you.",
+      "hindi": "दयालुता को अपना मार्गदर्शक बनाओ।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027706"
+    },
+    {
+      "english": "You're a good person.",
+      "hindi": "तुम एक अच्छे इंसान हो।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027709"
+    },
+    {
+      "english": "Let understanding grow.",
+      "hindi": "समझ को बढ़ने दो।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027712"
+    },
+    {
+      "english": "Focus on healing.",
+      "hindi": "स्वस्थ होने पर ध्यान दो।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027714"
+    },
+    {
+      "english": "You are capable, truly.",
+      "hindi": "तुम सक्षम हो, सच में।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027717"
+    },
+    {
+      "english": "My heart, was truly hurt.",
+      "hindi": "मेरा दिल, सचमुच दुखा था।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027719"
+    },
+    {
+      "english": "I need time, to heal.",
+      "hindi": "मुझे ठीक होने, में समय चाहिए।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027722"
+    },
+    {
+      "english": "It took, a lot of patience.",
+      "hindi": "इसमें, बहुत धैर्य लगा।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027724"
+    },
+    {
+      "english": "I'm reflecting, on what happened.",
+      "hindi": "मैं सोच रहा हूँ, क्या हुआ।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027729"
+    },
+    {
+      "english": "My feelings, were deeply affected.",
+      "hindi": "मेरी भावनाएं, गहराई से प्रभावित हुईं।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027732"
+    },
+    {
+      "english": "Can we speak, honestly now?",
+      "hindi": "क्या हम, अब ईमानदारी से बात कर सकते हैं?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027735"
+    },
+    {
+      "english": "This was, a difficult lesson.",
+      "hindi": "यह, एक कठिन सबक था।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027738"
+    },
+    {
+      "english": "I'm trying, to understand your side.",
+      "hindi": "मैं, आपकी बात समझने की कोशिश कर रहा हूँ।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027744"
+    },
+    {
+      "english": "Let's be, emotionally open.",
+      "hindi": "चलो, भावनात्मक रूप से खुले रहें।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027747"
+    },
+    {
+      "english": "It’s okay, to feel vulnerable.",
+      "hindi": "कमजोर महसूस करना, ठीक है।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027751"
+    },
+    {
+      "english": "My journey, toward acceptance.",
+      "hindi": "मेरी यात्रा, स्वीकृति की ओर।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027754"
+    },
+    {
+      "english": "I'm letting go, of resentment.",
+      "hindi": "मैं, नाराजगी छोड़ रहा हूँ।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027757"
+    },
+    {
+      "english": "This requires, deep reflection.",
+      "hindi": "इसमें, गहरे चिंतन की आवश्यकता है।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027759"
+    },
+    {
+      "english": "I’m choosing, peace over anger.",
+      "hindi": "मैं, गुस्से पर शांति चुन रहा हूँ।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027764"
+    },
+    {
+      "english": "Can we rebuild, trust slowly?",
+      "hindi": "क्या हम, धीरे-धीरे विश्वास फिर से बना सकते हैं?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027780"
+    },
+    {
+      "english": "My perspective, has shifted.",
+      "hindi": "मेरा दृष्टिकोण, बदल गया है।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027783"
+    },
+    {
+      "english": "I’m learning, to forgive myself.",
+      "hindi": "मैं, खुद को माफ करना सीख रहा हूँ।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027787"
+    },
+    {
+      "english": "It’s hard, but necessary.",
+      "hindi": "यह मुश्किल है, पर ज़रूरी है।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027790"
+    },
+    {
+      "english": "True forgiveness, takes effort.",
+      "hindi": "सच्ची क्षमा, में प्रयास लगता है।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027793"
+    },
+    {
+      "english": "I release, the past pain.",
+      "hindi": "मैं, बीते दर्द को छोड़ता हूँ।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027796"
+    },
+    {
+      "english": "Understanding, breeds compassion.",
+      "hindi": "समझ, करुणा को जन्म देती है।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027798"
+    },
+    {
+      "english": "This process, is personal.",
+      "hindi": "यह प्रक्रिया, व्यक्तिगत है।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027801"
+    },
+    {
+      "english": "I seek, emotional closure.",
+      "hindi": "मैं, भावनात्मक समाधान चाहता हूँ।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027804"
+    },
+    {
+      "english": "Let’s acknowledge, the hurt.",
+      "hindi": "चलो, चोट को स्वीकार करें।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027807"
+    },
+    {
+      "english": "My hope, is for healing.",
+      "hindi": "मेरी आशा, उपचार के लिए है।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027810"
+    },
+    {
+      "english": "Can we find, common ground?",
+      "hindi": "क्या हम, एक सामान्य आधार पा सकते हैं?",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027813"
+    },
+    {
+      "english": "I’m being, truly honest.",
+      "hindi": "मैं, सचमुच ईमानदार हो रहा हूँ।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027816"
+    },
+    {
+      "english": "This journey, requires patience.",
+      "hindi": "इस यात्रा, में धैर्य की आवश्यकता है।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027819"
+    },
+    {
+      "english": "My feelings, are valid too.",
+      "hindi": "मेरी भावनाएं, भी मान्य हैं।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027821"
+    },
+    {
+      "english": "Let’s move, towards understanding.",
+      "hindi": "चलो, समझ की ओर बढ़ें।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027825"
+    },
+    {
+      "english": "Forgive yourself, first.",
+      "hindi": "पहले खुद को, माफ़ करो।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027829"
+    },
+    {
+      "english": "Accept what you can't change.",
+      "hindi": "जो बदल नहीं सकते, उसे स्वीकारो।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027832"
+    },
+    {
+      "english": "Build bridges, not walls.",
+      "hindi": "पुल बनाओ, दीवारें नहीं।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027835"
+    },
+    {
+      "english": "Practice empathy, daily.",
+      "hindi": "रोज़ सहानुभूति का अभ्यास करो।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027838"
+    },
+    {
+      "english": "Share your feelings, openly.",
+      "hindi": "अपनी भावनाएं, खुलकर बताओ।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027841"
+    },
+    {
+      "english": "Find the lesson, in pain.",
+      "hindi": "दर्द में, सबक ढूंढो।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027843"
+    },
+    {
+      "english": "Let go, of what hurts.",
+      "hindi": "जो दुख देता है, उसे छोड़ दो।",
+      "category": "Forgiveness",
+      "generated_at": "2026-10-24T07:47:37.027846"
     }
   ],
-  "last_updated": "2026-10-23T08:08:57.499455"
+  "last_updated": "2026-10-24T07:47:37.027848"
 }
