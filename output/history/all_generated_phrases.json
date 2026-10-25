@@ -5759,7 +5759,727 @@
       "hindi": "जो दुख देता है, उसे छोड़ दो।",
       "category": "Forgiveness",
       "generated_at": "2026-10-24T07:47:37.027846"
+    },
+    {
+      "english": "Success is yours, seize it!",
+      "hindi": "सफलता आपकी है, इसे पकड़ लो!",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790524"
+    },
+    {
+      "english": "Believe you can, you will.",
+      "hindi": "विश्वास करो तुम कर सकते हो, तुम करोगे।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790541"
+    },
+    {
+      "english": "Keep going, don't stop.",
+      "hindi": "चलते रहो, रुको मत।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790545"
+    },
+    {
+      "english": "Your effort, your reward.",
+      "hindi": "तुम्हारी मेहनत, तुम्हारा इनाम।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790548"
+    },
+    {
+      "english": "Today's hard work, tomorrow's success.",
+      "hindi": "आज की मेहनत, कल की सफलता।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790552"
+    },
+    {
+      "english": "Achieve your goals, always.",
+      "hindi": "अपने लक्ष्य प्राप्त करो, हमेशा।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790555"
+    },
+    {
+      "english": "You've got this, go for it!",
+      "hindi": "तुम यह कर सकते हो, कोशिश करो!",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790558"
+    },
+    {
+      "english": "Every step counts, move forward.",
+      "hindi": "हर कदम मायने रखता है, आगे बढ़ो।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790563"
+    },
+    {
+      "english": "Dream big, start small.",
+      "hindi": "बड़े सपने देखो, छोटी शुरुआत करो।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790567"
+    },
+    {
+      "english": "Your passion, your success.",
+      "hindi": "तुम्हारा जुनून, तुम्हारी सफलता।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790571"
+    },
+    {
+      "english": "Rise above challenges, win.",
+      "hindi": "चुनौतियों से ऊपर उठो, जीतो।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790574"
+    },
+    {
+      "english": "Focus, achieve, succeed.",
+      "hindi": "ध्यान केंद्रित करो, प्राप्त करो, सफल हो जाओ।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790577"
+    },
+    {
+      "english": "Never give up, keep trying.",
+      "hindi": "कभी हार मत मानो, कोशिश करते रहो।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790580"
+    },
+    {
+      "english": "Success is a journey, enjoy it.",
+      "hindi": "सफलता एक यात्रा है, इसका आनंद लो।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790585"
+    },
+    {
+      "english": "Work smart, achieve more.",
+      "hindi": "स्मार्ट काम करो, अधिक हासिल करो।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790588"
+    },
+    {
+      "english": "You are capable, prove it.",
+      "hindi": "तुम सक्षम हो, इसे साबित करो।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790590"
+    },
+    {
+      "english": "Push your limits, excel.",
+      "hindi": "अपनी सीमाएं बढ़ाओ, उत्कृष्ट बनो।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790595"
+    },
+    {
+      "english": "Embrace the struggle, find strength.",
+      "hindi": "संघर्ष को अपनाओ, शक्ति पाओ।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790598"
+    },
+    {
+      "english": "Future belongs to the determined.",
+      "hindi": "भविष्य दृढ़ निश्चयी लोगों का है।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790601"
+    },
+    {
+      "english": "Dare to try, dare to succeed.",
+      "hindi": "कोशिश करने का साहस करो, सफल होने का साहस करो।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790604"
+    },
+    {
+      "english": "Persistence pays off, wait for it.",
+      "hindi": "लगाव रंग लाता है, उसका इंतजार करो।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790607"
+    },
+    {
+      "english": "Success whispers, listen carefully.",
+      "hindi": "सफलता फुसफुसाती है, ध्यान से सुनो।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790610"
+    },
+    {
+      "english": "Make it happen, today.",
+      "hindi": "इसे संभव बनाओ, आज।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790613"
+    },
+    {
+      "english": "Your effort is recognized.",
+      "hindi": "तुम्हारी मेहनत पहचानी जाती है।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790616"
+    },
+    {
+      "english": "Victory is within reach.",
+      "hindi": "जीत पहुंच के भीतर है।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790619"
+    },
+    {
+      "english": "You're on the right track.",
+      "hindi": "तुम सही रास्ते पर हो।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790623"
+    },
+    {
+      "english": "Success awaits your action.",
+      "hindi": "सफलता तुम्हारे कदम का इंतजार कर रही है।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790626"
+    },
+    {
+      "english": "What's your secret, please?",
+      "hindi": "आपका क्या राज़ है, कृपया?",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790629"
+    },
+    {
+      "english": "How did you achieve this?",
+      "hindi": "आपने यह कैसे हासिल किया?",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790631"
+    },
+    {
+      "english": "Can you share your advice?",
+      "hindi": "क्या आप अपनी सलाह दे सकते हैं?",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790634"
+    },
+    {
+      "english": "What's the first step?",
+      "hindi": "पहला कदम क्या है?",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790637"
+    },
+    {
+      "english": "Where should I start now?",
+      "hindi": "मुझे अभी कहाँ से शुरू करना चाहिए?",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790640"
+    },
+    {
+      "english": "What if I face problems?",
+      "hindi": "अगर मुझे समस्याएँ आएँ तो?",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790643"
+    },
+    {
+      "english": "Is this the right way?",
+      "hindi": "क्या यह सही रास्ता है?",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790646"
+    },
+    {
+      "english": "Can we discuss this further?",
+      "hindi": "क्या हम इस पर और बात कर सकते हैं?",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790648"
+    },
+    {
+      "english": "How do you handle pressure?",
+      "hindi": "आप दबाव कैसे संभालते हैं?",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790651"
+    },
+    {
+      "english": "Tell me more, please.",
+      "hindi": "कृपया मुझे और बताएं।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790654"
+    },
+    {
+      "english": "What's the next challenge?",
+      "hindi": "अगली चुनौती क्या है?",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790656"
+    },
+    {
+      "english": "How can I improve myself?",
+      "hindi": "मैं खुद को कैसे सुधार सकता हूँ?",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790659"
+    },
+    {
+      "english": "What did you learn from failure?",
+      "hindi": "असफलता से आपने क्या सीखा?",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790662"
+    },
+    {
+      "english": "Is there a shortcut, maybe?",
+      "hindi": "शायद कोई छोटा रास्ता है?",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790665"
+    },
+    {
+      "english": "Can you guide me a bit?",
+      "hindi": "क्या आप मेरा थोड़ा मार्गदर्शन कर सकते हैं?",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790667"
+    },
+    {
+      "english": "What are your priorities now?",
+      "hindi": "आपकी अभी क्या प्राथमिकताएँ हैं?",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790670"
+    },
+    {
+      "english": "How do you measure progress?",
+      "hindi": "आप प्रगति कैसे मापते हैं?",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790673"
+    },
+    {
+      "english": "What's your best strategy?",
+      "hindi": "आपकी सबसे अच्छी रणनीति क्या है?",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790678"
+    },
+    {
+      "english": "Should I take this risk?",
+      "hindi": "क्या मुझे यह जोखिम उठाना चाहिए?",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790680"
+    },
+    {
+      "english": "What mistakes to avoid?",
+      "hindi": "किन गलतियों से बचना चाहिए?",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790683"
+    },
+    {
+      "english": "How much time did it take?",
+      "hindi": "इसमें कितना समय लगा?",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790686"
+    },
+    {
+      "english": "What's your long-term plan?",
+      "hindi": "आपकी लंबी अवधि की योजना क्या है?",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790689"
+    },
+    {
+      "english": "Can we collaborate on this?",
+      "hindi": "क्या हम इस पर सहयोग कर सकते हैं?",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790691"
+    },
+    {
+      "english": "What's the key to focus?",
+      "hindi": "ध्यान केंद्रित करने की कुंजी क्या है?",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790694"
+    },
+    {
+      "english": "How do you celebrate wins?",
+      "hindi": "आप जीत का जश्न कैसे मनाते हैं?",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790696"
+    },
+    {
+      "english": "Small steps, big results.",
+      "hindi": "छोटे कदम, बड़े नतीजे।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790699"
+    },
+    {
+      "english": "Your mindset, your power.",
+      "hindi": "आपकी सोच, आपकी शक्ति।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790702"
+    },
+    {
+      "english": "Stay positive, stay focused.",
+      "hindi": "सकारात्मक रहो, केंद्रित रहो।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790705"
+    },
+    {
+      "english": "You're doing great, keep going.",
+      "hindi": "आप बहुत अच्छा कर रहे हो, लगे रहो।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790707"
+    },
+    {
+      "english": "Embrace challenges, they make you stronger.",
+      "hindi": "चुनौतियों को अपनाओ, वे तुम्हें मजबूत बनाती हैं।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790710"
+    },
+    {
+      "english": "Positive thoughts, positive outcomes.",
+      "hindi": "सकारात्मक विचार, सकारात्मक परिणाम।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790716"
+    },
+    {
+      "english": "Keep your eyes on the prize.",
+      "hindi": "नजरें अपने लक्ष्य पर रखो।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790718"
+    },
+    {
+      "english": "Effort is never wasted.",
+      "hindi": "मेहनत कभी बेकार नहीं जाती।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790721"
+    },
+    {
+      "english": "You are closer than you think.",
+      "hindi": "आप सोचते हो उससे कहीं ज्यादा करीब हो।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790724"
+    },
+    {
+      "english": "A positive attitude, wins.",
+      "hindi": "सकारात्मक रवैया, जीत दिलाता है।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790727"
+    },
+    {
+      "english": "Confidence is your superpower.",
+      "hindi": "आत्मविश्वास आपकी महाशक्ति है।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790730"
+    },
+    {
+      "english": "Let your actions speak loud.",
+      "hindi": "अपने कर्मों को बोलने दो।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790732"
+    },
+    {
+      "english": "Believe in your dreams.",
+      "hindi": "अपने सपनों पर विश्वास करो।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790735"
+    },
+    {
+      "english": "Stay motivated, stay strong.",
+      "hindi": "प्रेरित रहो, मजबूत रहो।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790738"
+    },
+    {
+      "english": "Never underestimate your power.",
+      "hindi": "अपनी शक्ति को कभी कम मत आंकना।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790741"
+    },
+    {
+      "english": "Create your own sunshine.",
+      "hindi": "अपनी खुद की धूप बनाओ।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790744"
+    },
+    {
+      "english": "Mind over matter, always.",
+      "hindi": "सोच से फर्क पड़ता है, हमेशा।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790748"
+    },
+    {
+      "english": "Keep pushing, you're almost there.",
+      "hindi": "कोशिश करते रहो, आप लगभग पहुँच गए हो।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790752"
+    },
+    {
+      "english": "Success starts with a single step.",
+      "hindi": "सफलता एक कदम से शुरू होती है।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790754"
+    },
+    {
+      "english": "You are on the path to greatness.",
+      "hindi": "आप महानता के रास्ते पर हो।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790759"
+    },
+    {
+      "english": "Maintain that positive energy.",
+      "hindi": "उस सकारात्मक ऊर्जा को बनाए रखो।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790761"
+    },
+    {
+      "english": "Go for it, champ!",
+      "hindi": "कर डालो, चैंपियन!",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790764"
+    },
+    {
+      "english": "Don't give up, friend.",
+      "hindi": "हार मत मानो, दोस्त।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790767"
+    },
+    {
+      "english": "That's the spirit, boss!",
+      "hindi": "यही तो जज़्बा है, बॉस!",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790770"
+    },
+    {
+      "english": "Keep hustling, never stop.",
+      "hindi": "मेहनत करते रहो, कभी रुको मत।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790773"
+    },
+    {
+      "english": "Let's smash it, team!",
+      "hindi": "चलो, फाड़ देते हैं, टीम!",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790776"
+    },
+    {
+      "english": "That's the way, my man.",
+      "hindi": "यही तरीका है, मेरे यार।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790779"
+    },
+    {
+      "english": "Keep the fire burning, dude.",
+      "hindi": "आग जलाए रखो, यार।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790782"
+    },
+    {
+      "english": "You're on fire, literally!",
+      "hindi": "तुम आग लगा रहे हो, सचमुच!",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790785"
+    },
+    {
+      "english": "That's the game plan, okay?",
+      "hindi": "यही तो गेम प्लान है, ठीक?",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790788"
+    },
+    {
+      "english": "Make it happen, superstar.",
+      "hindi": "कर दिखाओ, सुपरस्टार।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790790"
+    },
+    {
+      "english": "Full throttle, always, right?",
+      "hindi": "पूरा ज़ोर, हमेशा, है ना?",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790793"
+    },
+    {
+      "english": "Give it your all, friend.",
+      "hindi": "सब कुछ झोंक दो, दोस्त।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790796"
+    },
+    {
+      "english": "Victory is calling you.",
+      "hindi": "जीत तुम्हें पुकार रही है।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790799"
+    },
+    {
+      "english": "Let's rock this, come on!",
+      "hindi": "चलो, मचाते हैं, आओ!",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790802"
+    },
+    {
+      "english": "You're nailing it, awesome!",
+      "hindi": "तुम झंडे गाड़ रहे हो, गज़ब!",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790804"
+    },
+    {
+      "english": "Keep pushing the limits.",
+      "hindi": "सीमाओं को धकेलते रहो।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790807"
+    },
+    {
+      "english": "Momentum is building, great!",
+      "hindi": "रफ़्तार बढ़ रही है, बढ़िया!",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790811"
+    },
+    {
+      "english": "Seize the day, no regrets.",
+      "hindi": "दिन को पकड़ो, कोई पछतावा नहीं।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790814"
+    },
+    {
+      "english": "You're a legend in the making.",
+      "hindi": "तुम एक लीजेंड बन रहे हो।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790817"
+    },
+    {
+      "english": "Let's get this bread, yo!",
+      "hindi": "चलो, पैसा कमाते हैं, यो!",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790820"
+    },
+    {
+      "english": "Keep that winning streak going.",
+      "hindi": "जीत का सिलसिला जारी रखो।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790823"
+    },
+    {
+      "english": "You’re unstoppable right now.",
+      "hindi": "तुम अभी रुके नहीं हो।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790827"
+    },
+    {
+      "english": "The sky's the limit, fly!",
+      "hindi": "आसमान ही सीमा है, उड़ो!",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790829"
+    },
+    {
+      "english": "Make some noise for yourself!",
+      "hindi": "अपने लिए शोर मचाओ!",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790832"
+    },
+    {
+      "english": "This is your moment, shine!",
+      "hindi": "यह तुम्हारा पल है, चमको!",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790836"
+    },
+    {
+      "english": "Dominate the field, always.",
+      "hindi": "हमेशा मैदान में राज करो।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790839"
+    },
+    {
+      "english": "Let's make history today.",
+      "hindi": "चलो, आज इतिहास बनाते हैं।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790842"
+    },
+    {
+      "english": "Small habits, big results, daily.",
+      "hindi": "छोटी आदतें, बड़े नतीजे, रोज़।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790845"
+    },
+    {
+      "english": "Mistakes are lessons, learn them.",
+      "hindi": "गलतियाँ सबक हैं, सीखो उन्हें।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790848"
+    },
+    {
+      "english": "Be patient, good things take time.",
+      "hindi": "धैर्य रखो, अच्छी चीज़ों में समय लगता है।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790851"
+    },
+    {
+      "english": "Stay calm, solve problems.",
+      "hindi": "शांत रहो, समस्याओं का हल निकालो।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790854"
+    },
+    {
+      "english": "Network smart, build connections.",
+      "hindi": "सोच समझकर मिलो, रिश्ते बनाओ।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790857"
+    },
+    {
+      "english": "Save a little, every month.",
+      "hindi": "थोड़ा बचाओ, हर महीने।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790860"
+    },
+    {
+      "english": "Organize your day, plan ahead.",
+      "hindi": "दिन व्यवस्थित करो, पहले से योजना बनाओ।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790863"
+    },
+    {
+      "english": "Rest well, work better.",
+      "hindi": "अच्छी नींद लो, बेहतर काम करो।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790866"
+    },
+    {
+      "english": "Don't compare, just improve.",
+      "hindi": "तुलना मत करो, बस बेहतर बनो।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790868"
+    },
+    {
+      "english": "Celebrate small wins, they matter.",
+      "hindi": "छोटी जीतों का जश्न मनाओ, वो मायने रखती हैं।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790871"
+    },
+    {
+      "english": "Be open to new ideas.",
+      "hindi": "नए विचारों के लिए खुले रहो।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790874"
+    },
+    {
+      "english": "Find mentors, learn from them.",
+      "hindi": "गुरु ढूंढो, उनसे सीखो।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790876"
+    },
+    {
+      "english": "Manage your time, wisely.",
+      "hindi": "अपना समय संभालो, समझदारी से।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790879"
+    },
+    {
+      "english": "Stay curious, always asking.",
+      "hindi": "जिज्ञासु रहो, हमेशा पूछते रहो।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790882"
+    },
+    {
+      "english": "Forgive quickly, move on.",
+      "hindi": "जल्दी माफ़ करो, आगे बढ़ो।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790884"
+    },
+    {
+      "english": "Help others, they'll help you.",
+      "hindi": "दूसरों की मदद करो, वो तुम्हारी करेंगे।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790887"
+    },
+    {
+      "english": "Eat healthy, feel energetic.",
+      "hindi": "स्वस्थ खाओ, ऊर्जावान महसूस करो।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790890"
+    },
+    {
+      "english": "Practice makes perfect, remember.",
+      "hindi": "अभ्यास से परिपूर्णता आती है, याद रखो।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790893"
+    },
+    {
+      "english": "Review your progress, adjust.",
+      "hindi": "अपनी प्रगति देखो, सुधार करो।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790896"
+    },
+    {
+      "english": "Be grateful, for everything.",
+      "hindi": "कृतज्ञ रहो, हर चीज़ के लिए।",
+      "category": "Success",
+      "generated_at": "2026-10-25T07:58:18.790898"
     }
   ],
-  "last_updated": "2026-10-24T07:47:37.027848"
+  "last_updated": "2026-10-25T07:58:18.790902"
 }
