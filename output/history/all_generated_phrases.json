@@ -7919,7 +7919,727 @@
       "hindi": "वास्तविक आप को महसूस करो, चमकता हुआ।",
       "category": "Motivation",
       "generated_at": "2026-10-27T08:32:35.429433"
+    },
+    {
+      "english": "I am very happy, today.",
+      "hindi": "मैं आज बहुत खुश हूँ।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132233"
+    },
+    {
+      "english": "Are you feeling sad, now?",
+      "hindi": "क्या तुम अभी उदास हो?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132245"
+    },
+    {
+      "english": "He seems angry, a little.",
+      "hindi": "वह थोड़ा गुस्सा लग रहा है।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132249"
+    },
+    {
+      "english": "She is feeling tired, today.",
+      "hindi": "वह आज थकी हुई महसूस कर रही है।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132253"
+    },
+    {
+      "english": "I'm excited, for the trip.",
+      "hindi": "मैं यात्रा के लिए उत्साहित हूँ।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132256"
+    },
+    {
+      "english": "This is surprising, wow!",
+      "hindi": "यह आश्चर्यजनक है, वाह!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132259"
+    },
+    {
+      "english": "Don't be scared, it's okay.",
+      "hindi": "डरो मत, सब ठीक है।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132266"
+    },
+    {
+      "english": "I feel so relieved, now.",
+      "hindi": "मुझे अब बहुत राहत मिली है।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132272"
+    },
+    {
+      "english": "He is feeling guilty, maybe.",
+      "hindi": "वह शायद दोषी महसूस कर रहा है।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132275"
+    },
+    {
+      "english": "Are you feeling lonely, friend?",
+      "hindi": "क्या तुम अकेला महसूस कर रहे हो, दोस्त?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132278"
+    },
+    {
+      "english": "This is quite interesting, right?",
+      "hindi": "यह काफी दिलचस्प है, है ना?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132281"
+    },
+    {
+      "english": "I'm feeling a bit bored, honestly.",
+      "hindi": "ईमानदारी से कहूँ तो, मैं थोड़ा बोर महसूस कर रहा हूँ।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132284"
+    },
+    {
+      "english": "She looks very proud, indeed.",
+      "hindi": "वह वास्तव में बहुत गर्व महसूस कर रही है।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132287"
+    },
+    {
+      "english": "He is feeling shy, a bit.",
+      "hindi": "वह थोड़ा शर्मा रहा है।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132290"
+    },
+    {
+      "english": "I am feeling hopeful, for tomorrow.",
+      "hindi": "मुझे कल के लिए आशा है।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132292"
+    },
+    {
+      "english": "This is really annoying, ugh.",
+      "hindi": "यह सचमुच परेशान करने वाला है, उफ़।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132295"
+    },
+    {
+      "english": "Are you feeling stressed, at work?",
+      "hindi": "क्या तुम काम पर तनाव महसूस कर रहे हो?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132298"
+    },
+    {
+      "english": "He is feeling jealous, I think.",
+      "hindi": "मुझे लगता है वह ईर्ष्या कर रहा है।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132300"
+    },
+    {
+      "english": "I feel so embarrassed, right now.",
+      "hindi": "मैं अभी बहुत शर्मिंदा महसूस कर रहा हूँ।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132303"
+    },
+    {
+      "english": "She is feeling content, peacefully.",
+      "hindi": "वह शांति से संतुष्ट महसूस कर रही है।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132306"
+    },
+    {
+      "english": "I feel very energetic, today.",
+      "hindi": "मैं आज बहुत ऊर्जावान महसूस कर रहा हूँ।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132308"
+    },
+    {
+      "english": "I'm feeling a bit anxious, honestly.",
+      "hindi": "ईमानदारी से कहूँ तो, मैं थोड़ा चिंतित महसूस कर रहा हूँ।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132311"
+    },
+    {
+      "english": "She seems very confident, now.",
+      "hindi": "वह अब बहुत आत्मविश्वासी लग रही है।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132314"
+    },
+    {
+      "english": "This feels so unfair, really.",
+      "hindi": "यह सचमुच अनुचित लगता है।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132317"
+    },
+    {
+      "english": "He is feeling nostalgic, today.",
+      "hindi": "वह आज पुरानी यादों में खोया हुआ है।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132320"
+    },
+    {
+      "english": "I am feeling overwhelmed, a little.",
+      "hindi": "मैं थोड़ा अभिभूत महसूस कर रहा हूँ।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132322"
+    },
+    {
+      "english": "Are you feeling okay, my friend?",
+      "hindi": "क्या तुम ठीक हो, मेरे दोस्त?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132325"
+    },
+    {
+      "english": "How are you feeling, today?",
+      "hindi": "आज आप कैसा महसूस कर रहे हैं?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132328"
+    },
+    {
+      "english": "What's making you smile, so much?",
+      "hindi": "आपको इतनी मुस्कान क्यों आ रही है?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132331"
+    },
+    {
+      "english": "Are you upset, about something?",
+      "hindi": "क्या आप किसी बात से परेशान हैं?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132334"
+    },
+    {
+      "english": "Do you need, any help?",
+      "hindi": "क्या आपको किसी मदद की ज़रूरत है?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132337"
+    },
+    {
+      "english": "Is everything alright, with you?",
+      "hindi": "क्या आपके साथ सब ठीक है?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132339"
+    },
+    {
+      "english": "Why the long face, my friend?",
+      "hindi": "आपका चेहरा क्यों उतरा हुआ है, मेरे दोस्त?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132342"
+    },
+    {
+      "english": "Did something good happen, recently?",
+      "hindi": "हाल ही में कुछ अच्छा हुआ है क्या?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132345"
+    },
+    {
+      "english": "Can you share, your thoughts with me?",
+      "hindi": "क्या आप अपने विचार मेरे साथ साझा कर सकते हैं?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132348"
+    },
+    {
+      "english": "What can I do, to make you happy?",
+      "hindi": "मैं आपको खुश करने के लिए क्या कर सकता हूँ?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132352"
+    },
+    {
+      "english": "What worries you, most?",
+      "hindi": "आपको सबसे ज़्यादा किस बात की चिंता है?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132355"
+    },
+    {
+      "english": "Is there anything, bothering you?",
+      "hindi": "क्या कोई बात आपको परेशान कर रही है?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132358"
+    },
+    {
+      "english": "How do you deal, with stress?",
+      "hindi": "आप तनाव से कैसे निपटते हैं?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132362"
+    },
+    {
+      "english": "Do you feel, understood?",
+      "hindi": "क्या आपको लगता है कि आपको समझा गया है?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132365"
+    },
+    {
+      "english": "Can you tell me, your mood?",
+      "hindi": "क्या आप मुझे अपना मिजाज़ बता सकते हैं?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132368"
+    },
+    {
+      "english": "Is there anything, I can do?",
+      "hindi": "क्या ऐसा कुछ है जो मैं कर सकता हूँ?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132371"
+    },
+    {
+      "english": "What's your reaction, to this?",
+      "hindi": "आपकी इस पर क्या प्रतिक्रिया है?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132374"
+    },
+    {
+      "english": "Did that make you happy, or sad?",
+      "hindi": "क्या उससे आप खुश हुए, या दुखी?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132377"
+    },
+    {
+      "english": "How do you express, your anger?",
+      "hindi": "आप अपना गुस्सा कैसे व्यक्त करते हैं?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132379"
+    },
+    {
+      "english": "Are you feeling content, lately?",
+      "hindi": "क्या आप हाल ही में संतुष्ट महसूस कर रहे हैं?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132382"
+    },
+    {
+      "english": "What makes you feel, inspired?",
+      "hindi": "आपको किस चीज़ से प्रेरणा मिलती है?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132385"
+    },
+    {
+      "english": "Do you need, some space?",
+      "hindi": "क्या आपको थोड़ी जगह चाहिए?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132388"
+    },
+    {
+      "english": "Are you feeling, appreciated?",
+      "hindi": "क्या आपको लगता है कि आपकी कद्र होती है?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132390"
+    },
+    {
+      "english": "What's your emotional state, right now?",
+      "hindi": "अभी आपकी भावनात्मक स्थिति क्या है?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132393"
+    },
+    {
+      "english": "Are you feeling, a bit down?",
+      "hindi": "क्या आप थोड़ा उदास महसूस कर रहे हैं?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132396"
+    },
+    {
+      "english": "How did that make you feel?",
+      "hindi": "आपको उससे कैसा महसूस हुआ?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132398"
+    },
+    {
+      "english": "That's wonderful news, truly great!",
+      "hindi": "यह बहुत अच्छी खबर है, सचमुच शानदार!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132401"
+    },
+    {
+      "english": "You are doing amazing, keep it up.",
+      "hindi": "तुम बहुत अच्छा कर रहे हो, ऐसे ही लगे रहो।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132404"
+    },
+    {
+      "english": "Your effort is commendable, friend.",
+      "hindi": "तुम्हारी मेहनत काबिले तारीफ है, दोस्त।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132407"
+    },
+    {
+      "english": "Feel proud of your achievements.",
+      "hindi": "अपनी उपलब्धियों पर गर्व महसूस करो।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132409"
+    },
+    {
+      "english": "Let go of what you can't control.",
+      "hindi": "जो तुम नियंत्रित नहीं कर सकते, उसे जाने दो।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132412"
+    },
+    {
+      "english": "This challenge will make you grow.",
+      "hindi": "यह चुनौती तुम्हें विकसित करेगी।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132415"
+    },
+    {
+      "english": "You inspire me, honestly.",
+      "hindi": "तुम मुझे प्रेरित करते हो, सच में।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132418"
+    },
+    {
+      "english": "Take a deep breath, relax now.",
+      "hindi": "गहरी साँस लो, अब आराम करो।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132421"
+    },
+    {
+      "english": "Believe in your potential, always.",
+      "hindi": "अपनी क्षमता पर हमेशा विश्वास रखो।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132424"
+    },
+    {
+      "english": "This is a learning opportunity.",
+      "hindi": "यह सीखने का एक अवसर है।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132427"
+    },
+    {
+      "english": "Your kindness is truly appreciated.",
+      "hindi": "तुम्हारी दयालुता सचमुच सराहनीय है।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132429"
+    },
+    {
+      "english": "You handle things with grace.",
+      "hindi": "तुम चीज़ों को शालीनता से संभालते हो।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132432"
+    },
+    {
+      "english": "Be patient with yourself, okay?",
+      "hindi": "खुद के साथ धैर्य रखो, ठीक है?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132438"
+    },
+    {
+      "english": "That resilience is admirable.",
+      "hindi": "वह लचीलापन प्रशंसनीय है।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132440"
+    },
+    {
+      "english": "You deserve all the success.",
+      "hindi": "तुम सारी सफलता के हकदार हो।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132443"
+    },
+    {
+      "english": "Believe that you are enough.",
+      "hindi": "विश्वास करो कि तुम पर्याप्त हो।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132445"
+    },
+    {
+      "english": "You're doing better than you realize.",
+      "hindi": "तुम जितना सोचते हो, उससे बेहतर कर रहे हो।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132449"
+    },
+    {
+      "english": "My heart, is in my mouth!",
+      "hindi": "मेरा तो, दिल ही बैठ गया!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132453"
+    },
+    {
+      "english": "He's bursting, with joy!",
+      "hindi": "वो तो, खुशी से फूला नहीं समा रहा!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132456"
+    },
+    {
+      "english": "This news, hit me hard.",
+      "hindi": "ये ख़बर, मेरे दिल पे लगी।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132459"
+    },
+    {
+      "english": "Don't be a crybaby, now.",
+      "hindi": "अब, रोना-धोना बंद करो।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132462"
+    },
+    {
+      "english": "I'm fed up, completely!",
+      "hindi": "मैं तो, एकदम ऊब गया हूँ!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132465"
+    },
+    {
+      "english": "What's eating, you up?",
+      "hindi": "तुम्हें, क्या खाए जा रहा है?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132467"
+    },
+    {
+      "english": "He got cold feet, at the last minute.",
+      "hindi": "वो, ऐन मौके पर डर गया।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132470"
+    },
+    {
+      "english": "Don't get worked up, friend.",
+      "hindi": "ज़्यादा, परेशान मत हो, दोस्त।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132473"
+    },
+    {
+      "english": "She's over the moon, truly!",
+      "hindi": "वो, सातवें आसमान पर है!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132476"
+    },
+    {
+      "english": "My blood boiled, seeing that.",
+      "hindi": "वो देखकर, मेरा ख़ून खौल गया।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132479"
+    },
+    {
+      "english": "He's feeling low, today.",
+      "hindi": "आज, उसका मन उदास है।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132481"
+    },
+    {
+      "english": "This situation, is making me anxious.",
+      "hindi": "ये हालत, मुझे बेचैन कर रही है।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132484"
+    },
+    {
+      "english": "You look like, you've seen a ghost!",
+      "hindi": "तुम तो, भूत देखे हुए लग रहे हो!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132487"
+    },
+    {
+      "english": "Don't lose heart, man.",
+      "hindi": "हिम्मत, मत हारो यार।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132490"
+    },
+    {
+      "english": "He's head over heels, in love.",
+      "hindi": "वो, प्यार में पूरी तरह डूबा है।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132493"
+    },
+    {
+      "english": "This is so frustrating, honestly.",
+      "hindi": "ये, बहुत खीज दिलाने वाला है।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132495"
+    },
+    {
+      "english": "I'm on cloud nine, right now.",
+      "hindi": "मैं, अभी बहुत खुश हूँ।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132499"
+    },
+    {
+      "english": "He's got butterflies, in his stomach.",
+      "hindi": "उसके, पेट में तितलियाँ उड़ रही हैं।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132502"
+    },
+    {
+      "english": "Don't be so disheartened, please.",
+      "hindi": "इतना, निराश मत हो, प्लीज़।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132505"
+    },
+    {
+      "english": "That really made my day!",
+      "hindi": "उससे, मेरा दिन बन गया!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132507"
+    },
+    {
+      "english": "He's bursting, with pride.",
+      "hindi": "वो, गर्व से फूला नहीं समा रहा।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132510"
+    },
+    {
+      "english": "This is driving me, nuts!",
+      "hindi": "ये, मुझे पागल कर रहा है!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132512"
+    },
+    {
+      "english": "She's feeling blue, today.",
+      "hindi": "वो, आज उदास महसूस कर रही है।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132543"
+    },
+    {
+      "english": "My heart sank, hearing that.",
+      "hindi": "वो सुनकर, मेरा दिल बैठ गया।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132549"
+    },
+    {
+      "english": "Don't get your knickers, in a twist.",
+      "hindi": "ज़्यादा, घबराओ मत।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132560"
+    },
+    {
+      "english": "He's full of beans, today.",
+      "hindi": "वो, आज बहुत जोश में है।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132567"
+    },
+    {
+      "english": "I'm bursting with laughter, you see!",
+      "hindi": "मैं, हँसी से फट रहा हूँ!",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132572"
+    },
+    {
+      "english": "Don't get discouraged, okay?",
+      "hindi": "हौसला, मत हारना, ठीक है?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132575"
+    },
+    {
+      "english": "He's walking on air, now.",
+      "hindi": "वो, खुशी से झूम रहा है।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132577"
+    },
+    {
+      "english": "I'm really thinking, deeply now.",
+      "hindi": "मैं सचमुच, गहराई से सोच रहा हूँ।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132580"
+    },
+    {
+      "english": "It makes me reflect, a lot.",
+      "hindi": "यह मुझे, बहुत सोचने पर मजबूर करता है।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132583"
+    },
+    {
+      "english": "My honest feeling, is this.",
+      "hindi": "मेरी सच्ची भावना, बस यही है।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132586"
+    },
+    {
+      "english": "This situation, tests patience.",
+      "hindi": "यह स्थिति, धैर्य की परीक्षा लेती है।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132591"
+    },
+    {
+      "english": "I feel a quiet calm, inside.",
+      "hindi": "मुझे अंदर, एक सुकून सा महसूस हो रहा है।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132594"
+    },
+    {
+      "english": "This moment, feels profound.",
+      "hindi": "यह पल, गहरा महसूस हो रहा है।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132596"
+    },
+    {
+      "english": "I'm trying to understand, myself.",
+      "hindi": "मैं खुद को, समझने की कोशिश कर रहा हूँ।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132599"
+    },
+    {
+      "english": "Expressing it, feels liberating.",
+      "hindi": "इसे व्यक्त करना, आजाद महसूस कराता है।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132602"
+    },
+    {
+      "english": "It's a moment, of quiet contemplation.",
+      "hindi": "यह, शांत चिंतन का क्षण है।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132605"
+    },
+    {
+      "english": "My inner voice, is speaking now.",
+      "hindi": "मेरी अंतरात्मा, अब बोल रही है।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132608"
+    },
+    {
+      "english": "This makes me pause, and think.",
+      "hindi": "यह मुझे, रुककर सोचने पर मजबूर करता है।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132611"
+    },
+    {
+      "english": "I feel an urge, to be honest.",
+      "hindi": "मुझे, ईमानदार होने की तीव्र इच्छा हो रही है।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132613"
+    },
+    {
+      "english": "How do you feel, really?",
+      "hindi": "तुम सचमुच, कैसा महसूस कर रहे हो?",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132616"
+    },
+    {
+      "english": "Let's acknowledge, the truth.",
+      "hindi": "चलो, सच्चाई को स्वीकार करें।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132619"
+    },
+    {
+      "english": "This requires, deep introspection.",
+      "hindi": "इसमें, गहरी आत्मनिरीक्षण की आवश्यकता है।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132622"
+    },
+    {
+      "english": "My genuine emotion, is this one.",
+      "hindi": "मेरी असली भावना, यही है।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132625"
+    },
+    {
+      "english": "It’s a feeling, of deep gratitude.",
+      "hindi": "यह, गहरी कृतज्ञता की भावना है।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132629"
+    },
+    {
+      "english": "I'm embracing, vulnerability now.",
+      "hindi": "मैं अब, भेद्यता को अपना रहा हूँ।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132632"
+    },
+    {
+      "english": "This situation, demands reflection.",
+      "hindi": "यह स्थिति, चिंतन की माँग करती है।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132635"
+    },
+    {
+      "english": "Let's speak from, the heart.",
+      "hindi": "चलो, दिल से बात करें।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132638"
+    },
+    {
+      "english": "I feel a sense, of release.",
+      "hindi": "मुझे, एक मुक्ति का एहसास हो रहा है।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132641"
+    },
+    {
+      "english": "This allows, for honest dialogue.",
+      "hindi": "यह, ईमानदार बातचीत की अनुमति देता है।",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-10-28T09:11:11.132644"
     }
   ],
-  "last_updated": "2026-10-27T08:32:35.429435"
+  "last_updated": "2026-10-28T09:11:11.132646"
 }
