@@ -8639,7 +8639,727 @@
       "hindi": "यह, ईमानदार बातचीत की अनुमति देता है।",
       "category": "Feelings & Emotions",
       "generated_at": "2026-10-28T09:11:11.132644"
+    },
+    {
+      "english": "Be kind, always.",
+      "hindi": "हमेशा, दयालु रहो।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682809"
+    },
+    {
+      "english": "That's very thoughtful of you.",
+      "hindi": "यह आपकी, बहुत अच्छी सोच है।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682823"
+    },
+    {
+      "english": "Thank you, for your help.",
+      "hindi": "धन्यवाद, आपकी मदद के लिए।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682826"
+    },
+    {
+      "english": "You are so generous.",
+      "hindi": "आप बहुत, उदार हैं।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682829"
+    },
+    {
+      "english": "I appreciate your kindness.",
+      "hindi": "मैं आपकी, दयालुता की सराहना करता हूँ।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682831"
+    },
+    {
+      "english": "That was a kind gesture.",
+      "hindi": "यह एक, नेक काम था।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682833"
+    },
+    {
+      "english": "Please, be gentle.",
+      "hindi": "कृपया, धीरे से।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682835"
+    },
+    {
+      "english": "Have a good day, friend.",
+      "hindi": "आपका दिन, शुभ हो, दोस्त।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682840"
+    },
+    {
+      "english": "You made my day.",
+      "hindi": "आपने मेरा, दिन बना दिया।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682843"
+    },
+    {
+      "english": "That's so sweet of you.",
+      "hindi": "आप बहुत, प्यारे हो।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682845"
+    },
+    {
+      "english": "Can I help you?",
+      "hindi": "क्या मैं, आपकी मदद कर सकता हूँ?",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682847"
+    },
+    {
+      "english": "Kindness costs nothing.",
+      "hindi": "दयालुता, महंगी नहीं होती।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682849"
+    },
+    {
+      "english": "Spread kindness, everywhere.",
+      "hindi": "दयालुता, फैलाओ, हर जगह।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682851"
+    },
+    {
+      "english": "It's nice to be nice.",
+      "hindi": "अच्छा होना, अच्छा लगता है।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682855"
+    },
+    {
+      "english": "Please, take care.",
+      "hindi": "कृपया, अपना ख्याल रखना।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682858"
+    },
+    {
+      "english": "You're very caring.",
+      "hindi": "आप बहुत, ध्यान रखते हो।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682860"
+    },
+    {
+      "english": "What a kind soul!",
+      "hindi": "कितनी, नेक आत्मा है!",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682861"
+    },
+    {
+      "english": "Be good, do good.",
+      "hindi": "अच्छे बनो, अच्छा करो।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682863"
+    },
+    {
+      "english": "Thank you, so much.",
+      "hindi": "आपका, बहुत धन्यवाद।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682865"
+    },
+    {
+      "english": "You are truly kind.",
+      "hindi": "आप सचमुच, दयालु हैं।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682867"
+    },
+    {
+      "english": "A little kindness, goes a long way.",
+      "hindi": "थोड़ी सी दयालुता, बहुत काम आती है।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682869"
+    },
+    {
+      "english": "That's very considerate.",
+      "hindi": "यह बहुत, विचारशील है।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682872"
+    },
+    {
+      "english": "How can I help?",
+      "hindi": "मैं कैसे, मदद कर सकता हूँ?",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682874"
+    },
+    {
+      "english": "You are an angel.",
+      "hindi": "आप एक, फरिश्ते हो।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682880"
+    },
+    {
+      "english": "Be kind to yourself too.",
+      "hindi": "खुद पर भी, दयालु रहो।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682882"
+    },
+    {
+      "english": "That was very decent of you.",
+      "hindi": "यह बहुत, अच्छा किया आपने।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682884"
+    },
+    {
+      "english": "Sharing is caring.",
+      "hindi": "बांटना, प्यार है।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682886"
+    },
+    {
+      "english": "A warm hug, for you.",
+      "hindi": "आपके लिए, एक गर्मजोशी भरी गले लगना।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682888"
+    },
+    {
+      "english": "What good deed, can I do today?",
+      "hindi": "आज मैं क्या अच्छा काम कर सकता हूँ?",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682890"
+    },
+    {
+      "english": "How did you learn, to be so kind?",
+      "hindi": "आप इतने दयालु बनना, कैसे सीखे?",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682893"
+    },
+    {
+      "english": "Is there a way, I can return this favor?",
+      "hindi": "क्या कोई तरीका है, जिससे मैं यह एहसान चुका सकूँ?",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682895"
+    },
+    {
+      "english": "Would you like some help, with that?",
+      "hindi": "क्या आप इसमें, थोड़ी मदद चाहेंगे?",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682897"
+    },
+    {
+      "english": "Where can I find, more people like you?",
+      "hindi": "आप जैसे और लोग, मुझे कहाँ मिलेंगे?",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682900"
+    },
+    {
+      "english": "What inspires, your generosity?",
+      "hindi": "आपकी उदारता, किस चीज से प्रेरित होती है?",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682902"
+    },
+    {
+      "english": "Do you believe, in paying it forward?",
+      "hindi": "क्या आप विश्वास करते हैं, आगे मदद करने में?",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682904"
+    },
+    {
+      "english": "Tell me more, about your good deeds.",
+      "hindi": "मुझे अपनी नेक कामों के बारे में, और बताएं।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682906"
+    },
+    {
+      "english": "Can I offer you, a cup of tea?",
+      "hindi": "क्या मैं आपको, एक कप चाय दे सकता हूँ?",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682908"
+    },
+    {
+      "english": "What's a small act, of kindness you saw?",
+      "hindi": "आपने दयालुता का, कौन सा छोटा काम देखा?",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682910"
+    },
+    {
+      "english": "How can we encourage, more kindness?",
+      "hindi": "हम और अधिक दयालुता, को कैसे प्रोत्साहित कर सकते हैं?",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682913"
+    },
+    {
+      "english": "Do you need directions, to anywhere?",
+      "hindi": "क्या आपको कहीं जाने का, रास्ता चाहिए?",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682915"
+    },
+    {
+      "english": "What made you, stop and help?",
+      "hindi": "आपने रुक कर मदद करने का, फैसला क्यों किया?",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682917"
+    },
+    {
+      "english": "Can I share, my food with you?",
+      "hindi": "क्या मैं अपना खाना, आपके साथ साझा कर सकता हूँ?",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682919"
+    },
+    {
+      "english": "What's the best advice, on being kind?",
+      "hindi": "दयालु होने पर, सबसे अच्छी सलाह क्या है?",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682923"
+    },
+    {
+      "english": "Do you want to join, our group?",
+      "hindi": "क्या आप हमारे समूह में, शामिल होना चाहेंगे?",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682925"
+    },
+    {
+      "english": "How can I be, a better friend?",
+      "hindi": "मैं एक बेहतर दोस्त, कैसे बन सकता हूँ?",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682929"
+    },
+    {
+      "english": "Did someone help you, recently?",
+      "hindi": "क्या हाल ही में, किसी ने आपकी मदद की?",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682931"
+    },
+    {
+      "english": "What's your favorite, way to show care?",
+      "hindi": "देखभाल दिखाने का, आपका पसंदीदा तरीका क्या है?",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682933"
+    },
+    {
+      "english": "Can I help you, carry that?",
+      "hindi": "क्या मैं उसे उठाने में, आपकी मदद कर सकता हूँ?",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682936"
+    },
+    {
+      "english": "What kindness, do you wish for?",
+      "hindi": "आप किस तरह की दयालुता, की कामना करते हैं?",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682938"
+    },
+    {
+      "english": "Should we help, that person?",
+      "hindi": "क्या हमें उस व्यक्ति की, मदद करनी चाहिए?",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682940"
+    },
+    {
+      "english": "What good deed, did you do?",
+      "hindi": "आपने क्या अच्छा काम, किया?",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682942"
+    },
+    {
+      "english": "How was your day, friend?",
+      "hindi": "आपका दिन कैसा था, दोस्त?",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682944"
+    },
+    {
+      "english": "What can we do, together?",
+      "hindi": "हम साथ मिलकर, क्या कर सकते हैं?",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682946"
+    },
+    {
+      "english": "Did you have a good experience?",
+      "hindi": "क्या आपका अनुभव, अच्छा रहा?",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682948"
+    },
+    {
+      "english": "Where is the nearest, help available?",
+      "hindi": "नजदीकी मदद, कहाँ मिलेगी?",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682950"
+    },
+    {
+      "english": "What kind gesture, surprised you?",
+      "hindi": "किस नेक काम ने, आपको आश्चर्यचकित किया?",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682954"
+    },
+    {
+      "english": "Can I offer, some advice?",
+      "hindi": "क्या मैं कुछ सलाह, दे सकता हूँ?",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682956"
+    },
+    {
+      "english": "Your positive energy, is inspiring.",
+      "hindi": "आपकी सकारात्मक ऊर्जा, प्रेरणादायक है।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682958"
+    },
+    {
+      "english": "Keep spreading, that good vibe.",
+      "hindi": "उस अच्छी भावना को, फैलाते रहो।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682960"
+    },
+    {
+      "english": "You're making a real difference.",
+      "hindi": "आप सचमुच बदलाव ला रहे हैं।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682962"
+    },
+    {
+      "english": "Believe in your own goodness.",
+      "hindi": "अपनी अच्छाई पर, विश्वास रखो।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682964"
+    },
+    {
+      "english": "Your efforts, are noticed.",
+      "hindi": "आपके प्रयासों को, सराहा जा रहा है।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682967"
+    },
+    {
+      "english": "That was a very thoughtful gesture.",
+      "hindi": "वह एक बहुत विचारशील कार्य था।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682969"
+    },
+    {
+      "english": "You have a generous spirit.",
+      "hindi": "आपकी आत्मा उदार है।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682971"
+    },
+    {
+      "english": "Your kindness shines through.",
+      "hindi": "आपकी दयालुता झलकती है।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682973"
+    },
+    {
+      "english": "Let's be the change, we want.",
+      "hindi": "आइए हम वह बदलाव बनें, जो हम चाहते हैं।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682975"
+    },
+    {
+      "english": "You have a big heart.",
+      "hindi": "आपका दिल बहुत बड़ा है।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682977"
+    },
+    {
+      "english": "Focus on the good, around you.",
+      "hindi": "अपने आसपास की अच्छाई पर, ध्यान केंद्रित करें।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682979"
+    },
+    {
+      "english": "What a kind soul, you are.",
+      "hindi": "आप कितने दयालु इंसान हैं।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682981"
+    },
+    {
+      "english": "Your actions speak volumes.",
+      "hindi": "आपके कार्य बहुत कुछ कहते हैं।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682983"
+    },
+    {
+      "english": "Sending good vibes, your way.",
+      "hindi": "आपके लिए, अच्छी भावनाएँ भेज रहा हूँ।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682985"
+    },
+    {
+      "english": "You inspire kindness, in others.",
+      "hindi": "आप दूसरों में, दयालुता जगाते हैं।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682988"
+    },
+    {
+      "english": "What a wonderful person, you are.",
+      "hindi": "आप कितने अद्भुत इंसान हैं।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682992"
+    },
+    {
+      "english": "Keep that positive outlook.",
+      "hindi": "उस सकारात्मक दृष्टिकोण को, बनाए रखें।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682994"
+    },
+    {
+      "english": "Your kindness is a gift.",
+      "hindi": "आपकी दयालुता एक उपहार है।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682995"
+    },
+    {
+      "english": "You make the world, brighter.",
+      "hindi": "आप दुनिया को, रोशन बनाते हैं।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682997"
+    },
+    {
+      "english": "Stay true, to your heart.",
+      "hindi": "अपने दिल के, सच्चे रहो।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.682999"
+    },
+    {
+      "english": "That was incredibly thoughtful.",
+      "hindi": "वह अविश्वसनीय रूप से विचारशील था।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683001"
+    },
+    {
+      "english": "You radiate positivity.",
+      "hindi": "आप सकारात्मकता बिखेरते हैं।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683003"
+    },
+    {
+      "english": "Let's choose kindness, always.",
+      "hindi": "आइए हमेशा, दयालुता चुनें।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683005"
+    },
+    {
+      "english": "You're a true inspiration.",
+      "hindi": "आप एक सच्ची प्रेरणा हैं।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683007"
+    },
+    {
+      "english": "Your good heart, is showing.",
+      "hindi": "आपका अच्छा दिल, दिख रहा है।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683009"
+    },
+    {
+      "english": "May your kindness, multiply.",
+      "hindi": "आपकी दयालुता, बढ़ती रहे।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683011"
+    },
+    {
+      "english": "That's a beautiful mindset.",
+      "hindi": "वह एक सुंदर मानसिकता है।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683013"
+    },
+    {
+      "english": "Your generosity is admirable.",
+      "hindi": "आपकी उदारता प्रशंसनीय है।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683015"
+    },
+    {
+      "english": "Choose to be kind, daily.",
+      "hindi": "रोज़ दयालु बनने का, चुनाव करें।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683017"
+    },
+    {
+      "english": "My heart feels full, seeing you happy.",
+      "hindi": "तुम्हें खुश देखकर, मेरा दिल भर आता है।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683020"
+    },
+    {
+      "english": "Sometimes, a quiet nod is enough.",
+      "hindi": "कभी-कभी, बस एक खामोश सिर हिलाना काफी है।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683024"
+    },
+    {
+      "english": "This moment feels really peaceful, doesn't it?",
+      "hindi": "यह पल बहुत सुकून भरा लगता है, है ना?",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683026"
+    },
+    {
+      "english": "Let's just be present, with each other.",
+      "hindi": "चलो, बस एक-दूसरे के साथ, मौजूद रहते हैं।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683029"
+    },
+    {
+      "english": "True connection, feels like home.",
+      "hindi": "सच्चा जुड़ाव, घर जैसा लगता है।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683031"
+    },
+    {
+      "english": "I'm learning so much, from your patience.",
+      "hindi": "मैं तुम्हारे धैर्य से, बहुत कुछ सीख रहा हूँ।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683033"
+    },
+    {
+      "english": "Your understanding, means the world to me.",
+      "hindi": "तुम्हारी समझ, मेरे लिए बहुत मायने रखती है।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683035"
+    },
+    {
+      "english": "Feeling grateful, for this quiet moment.",
+      "hindi": "इस शांत पल के लिए, आभारी महसूस कर रहा हूँ।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683037"
+    },
+    {
+      "english": "We all need a little grace, now and then.",
+      "hindi": "हम सभी को, कभी-कभी थोड़ी दयालुता चाहिए।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683040"
+    },
+    {
+      "english": "This feels like a genuine moment, you know?",
+      "hindi": "यह एक सच्चा पल लग रहा है, पता है?",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683042"
+    },
+    {
+      "english": "Letting go, can be an act of kindness.",
+      "hindi": "जाने देना भी, दयालुता का एक कार्य हो सकता है।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683044"
+    },
+    {
+      "english": "I value your honest feelings, always.",
+      "hindi": "मैं हमेशा, तुम्हारी सच्ची भावनाओं को महत्व देता हूँ।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683046"
+    },
+    {
+      "english": "Being kind, is also about self-care.",
+      "hindi": "दयालु होना, आत्म-देखभाल के बारे में भी है।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683050"
+    },
+    {
+      "english": "This quiet strength, is beautiful.",
+      "hindi": "यह खामोश ताकत, खूबसूरत है।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683052"
+    },
+    {
+      "english": "Are you feeling, heard and understood?",
+      "hindi": "क्या तुम्हें सुना और समझा गया, महसूस हो रहा है?",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683054"
+    },
+    {
+      "english": "Your vulnerability, makes you strong.",
+      "hindi": "तुम्हारी संवेदनशीलता, तुम्हें मजबूत बनाती है।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683056"
+    },
+    {
+      "english": "Let's be gentle, with ourselves too.",
+      "hindi": "चलो, खुद के साथ भी, कोमल रहें।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683059"
+    },
+    {
+      "english": "This open heart, is a rare thing.",
+      "hindi": "यह खुला दिल, एक दुर्लभ चीज़ है।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683061"
+    },
+    {
+      "english": "I appreciate your realness, deeply.",
+      "hindi": "मैं तुम्हारी असलियत की, गहराई से सराहना करता हूँ।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683063"
+    },
+    {
+      "english": "Finding peace, within the chaos.",
+      "hindi": "अराजकता के भीतर, शांति पाना।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683065"
+    },
+    {
+      "english": "Your empathy, is a gift.",
+      "hindi": "तुम्हारी सहानुभूति, एक उपहार है।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683069"
+    },
+    {
+      "english": "This is what true kindness feels like.",
+      "hindi": "यही सच्ची दयालुता का एहसास है।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683071"
+    },
+    {
+      "english": "Let's honor, our own feelings.",
+      "hindi": "चलो, अपनी भावनाओं का भी, सम्मान करें।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683075"
+    },
+    {
+      "english": "This calm presence, is so grounding.",
+      "hindi": "यह शांत उपस्थिति, बहुत सुकून देने वाली है।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683077"
+    },
+    {
+      "english": "Are you feeling, genuinely supported?",
+      "hindi": "क्या तुम्हें सचमुच, सहारा महसूस हो रहा है?",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683079"
+    },
+    {
+      "english": "My heart understands, your struggles.",
+      "hindi": "मेरा दिल, तुम्हारी मुश्किलों को समझता है।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683081"
+    },
+    {
+      "english": "This quiet moment, speaks volumes.",
+      "hindi": "यह खामोश पल, बहुत कुछ कहता है।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683083"
+    },
+    {
+      "english": "Being patient, with the process.",
+      "hindi": "प्रक्रिया के साथ, धैर्य रखना।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683085"
+    },
+    {
+      "english": "Your honesty, is deeply appreciated.",
+      "hindi": "तुम्हारी ईमानदारी की, गहराई से सराहना की जाती है।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683087"
+    },
+    {
+      "english": "Help others, when you can.",
+      "hindi": "जब आप कर सकें, दूसरों की मदद करें।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683089"
+    },
+    {
+      "english": "Share your smile, it's free.",
+      "hindi": "अपनी मुस्कान बाँटें, यह मुफ़्त है।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683092"
+    },
+    {
+      "english": "Offer help, don't wait.",
+      "hindi": "मदद की पेशकश करें, इंतज़ार न करें।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683094"
+    },
+    {
+      "english": "Small gestures, make big impacts.",
+      "hindi": "छोटे इशारे, बड़े प्रभाव डालते हैं।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683096"
+    },
+    {
+      "english": "Be kind, even when busy.",
+      "hindi": "व्यस्त होने पर भी, दयालु रहें।",
+      "category": "Kindness",
+      "generated_at": "2026-10-30T09:21:53.683100"
     }
   ],
-  "last_updated": "2026-10-28T09:11:11.132646"
+  "last_updated": "2026-10-30T09:21:53.683101"
 }
