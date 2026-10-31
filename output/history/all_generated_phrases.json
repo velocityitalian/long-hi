@@ -9359,7 +9359,727 @@
       "hindi": "व्यस्त होने पर भी, दयालु रहें।",
       "category": "Kindness",
       "generated_at": "2026-10-30T09:21:53.683100"
+    },
+    {
+      "english": "Thank you, very much.",
+      "hindi": "बहुत बहुत धन्यवाद।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.515988"
+    },
+    {
+      "english": "I appreciate it, really.",
+      "hindi": "मैं सचमुच इसकी सराहना करता हूँ।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516001"
+    },
+    {
+      "english": "That's so kind, of you.",
+      "hindi": "यह बहुत दयालुता है, आपकी।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516005"
+    },
+    {
+      "english": "You're a lifesaver, thanks!",
+      "hindi": "आप जीवन रक्षक हैं, धन्यवाद!",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516008"
+    },
+    {
+      "english": "I owe you one, big time.",
+      "hindi": "मैं आपका बहुत बड़ा आभारी हूँ।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516011"
+    },
+    {
+      "english": "This means a lot, to me.",
+      "hindi": "यह मेरे लिए बहुत मायने रखता है।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516014"
+    },
+    {
+      "english": "How thoughtful, of you!",
+      "hindi": "कितना विचारशील, आपका!",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516017"
+    },
+    {
+      "english": "I'm so thankful, truly.",
+      "hindi": "मैं सचमुच बहुत आभारी हूँ।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516022"
+    },
+    {
+      "english": "You saved my day, thank you.",
+      "hindi": "आपने मेरा दिन बचा लिया, धन्यवाद।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516026"
+    },
+    {
+      "english": "That was very helpful, thanks.",
+      "hindi": "यह बहुत मददगार था, धन्यवाद।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516029"
+    },
+    {
+      "english": "I can't thank you, enough.",
+      "hindi": "मैं आपको पर्याप्त धन्यवाद नहीं दे सकता।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516032"
+    },
+    {
+      "english": "You're too good, to me.",
+      "hindi": "आप मेरे लिए बहुत अच्छे हैं।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516035"
+    },
+    {
+      "english": "I'm indebted, to you.",
+      "hindi": "मैं आपका ऋणी हूँ।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516038"
+    },
+    {
+      "english": "Bless you, for that.",
+      "hindi": "उसके लिए आपको आशीर्वाद।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516043"
+    },
+    {
+      "english": "What a lovely gesture, thank you.",
+      "hindi": "कितना प्यारा इशारा है, धन्यवाद।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516046"
+    },
+    {
+      "english": "I'm really touched, by this.",
+      "hindi": "मैं इससे सचमुच भावुक हूँ।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516049"
+    },
+    {
+      "english": "You've been so supportive, thanks.",
+      "hindi": "आपने बहुत समर्थन किया है, धन्यवाद।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516052"
+    },
+    {
+      "english": "I'm grateful, for your help.",
+      "hindi": "मैं आपकी मदद के लिए आभारी हूँ।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516055"
+    },
+    {
+      "english": "That's incredibly generous, thank you.",
+      "hindi": "यह अविश्वसनीय रूप से उदार है, धन्यवाद।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516058"
+    },
+    {
+      "english": "I appreciate your effort, truly.",
+      "hindi": "मैं आपके प्रयास की सराहना करता हूँ, सचमुच।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516061"
+    },
+    {
+      "english": "You're a true friend, thanks.",
+      "hindi": "आप एक सच्चे दोस्त हैं, धन्यवाद।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516064"
+    },
+    {
+      "english": "This is wonderful, thank you.",
+      "hindi": "यह अद्भुत है, धन्यवाद।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516066"
+    },
+    {
+      "english": "I'm happy, to have you.",
+      "hindi": "मैं खुश हूँ, आपको पाकर।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516069"
+    },
+    {
+      "english": "Your kindness, is noticed.",
+      "hindi": "आपकी दयालुता, ध्यान दी जाती है।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516072"
+    },
+    {
+      "english": "I'm thankful, every day.",
+      "hindi": "मैं हर दिन आभारी हूँ।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516074"
+    },
+    {
+      "english": "You're the best, honestly.",
+      "hindi": "आप सचमुच सबसे अच्छे हैं।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516079"
+    },
+    {
+      "english": "I'm so lucky, you know.",
+      "hindi": "मैं बहुत भाग्यशाली हूँ, आप जानते हैं।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516082"
+    },
+    {
+      "english": "Thanks for everything, really.",
+      "hindi": "सब कुछ के लिए धन्यवाद, सचमुच।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516084"
+    },
+    {
+      "english": "How did you know, I needed this?",
+      "hindi": "आपको कैसे पता चला, मुझे इसकी ज़रूरत थी?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516089"
+    },
+    {
+      "english": "Can I help, you in return?",
+      "hindi": "क्या मैं बदले में, आपकी मदद कर सकता हूँ?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516092"
+    },
+    {
+      "english": "What motivated, you to do this?",
+      "hindi": "आपको यह करने, के लिए किस बात ने प्रेरित किया?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516095"
+    },
+    {
+      "english": "Did you think, about this for me?",
+      "hindi": "क्या आपने मेरे लिए, इस बारे में सोचा?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516098"
+    },
+    {
+      "english": "Your help, was perfectly timed.",
+      "hindi": "आपकी मदद, बिल्कुल सही समय पर थी।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516101"
+    },
+    {
+      "english": "Did this take, much of your time?",
+      "hindi": "क्या इसमें, आपका बहुत समय लगा?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516104"
+    },
+    {
+      "english": "What made you, think of me?",
+      "hindi": "आपको मेरी याद, किस वजह से आई?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516106"
+    },
+    {
+      "english": "How can I, ever repay this?",
+      "hindi": "मैं इस एहसान, का बदला कैसे चुका सकता हूँ?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516109"
+    },
+    {
+      "english": "Is this a gift, from you?",
+      "hindi": "क्या यह आपके तरफ़ से, एक तोहफ़ा है?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516112"
+    },
+    {
+      "english": "Tell me, what you need next time.",
+      "hindi": "बताइए, अगली बार आपको क्या चाहिए।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516115"
+    },
+    {
+      "english": "Was it difficult, to arrange this?",
+      "hindi": "क्या इसे व्यवस्थित करने, में मुश्किल हुई?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516117"
+    },
+    {
+      "english": "Should I have, asked you first?",
+      "hindi": "क्या मुझे, पहले आपसे पूछना चाहिए था?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516122"
+    },
+    {
+      "english": "You always, know what to do.",
+      "hindi": "आप हमेशा, जानते हैं कि क्या करना है।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516125"
+    },
+    {
+      "english": "What can I offer, in exchange?",
+      "hindi": "मैं बदले में, क्या दे सकता हूँ?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516127"
+    },
+    {
+      "english": "Did you go, out of your way?",
+      "hindi": "क्या आपने, अपने रास्ते से हटकर काम किया?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516130"
+    },
+    {
+      "english": "How can I, show my thanks?",
+      "hindi": "मैं अपना आभार, कैसे जता सकता हूँ?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516133"
+    },
+    {
+      "english": "Are you sure, you didn't have to?",
+      "hindi": "क्या आप पक्का हैं, कि आपको ऐसा नहीं करना था?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516136"
+    },
+    {
+      "english": "What is your, favorite way to help?",
+      "hindi": "मदद करने का, आपका पसंदीदा तरीका क्या है?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516138"
+    },
+    {
+      "english": "Can I learn, from your generosity?",
+      "hindi": "क्या मैं, आपकी उदारता से सीख सकता हूँ?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516141"
+    },
+    {
+      "english": "Why are you, so helpful always?",
+      "hindi": "आप हमेशा, इतने मददगार क्यों हैं?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516144"
+    },
+    {
+      "english": "Did you plan, this thoughtful gesture?",
+      "hindi": "क्या आपने, इस विचारशील हावभाव की योजना बनाई?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516147"
+    },
+    {
+      "english": "What else, can I thank you for?",
+      "hindi": "मैं आपको, और किस बात के लिए धन्यवाद दे सकता हूँ?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516149"
+    },
+    {
+      "english": "Is there a, better way to say thanks?",
+      "hindi": "धन्यवाद कहने का, कोई बेहतर तरीका है?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516152"
+    },
+    {
+      "english": "How do you, manage to be so kind?",
+      "hindi": "आप इतने दयालु, कैसे बन पाते हैं?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516155"
+    },
+    {
+      "english": "Did this require, special effort?",
+      "hindi": "क्या इसके लिए, विशेष प्रयास की आवश्यकता थी?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516157"
+    },
+    {
+      "english": "What's the best, compliment for you?",
+      "hindi": "आपके लिए, सबसे अच्छी तारीफ़ क्या है?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516160"
+    },
+    {
+      "english": "Can I ask, for your advice again?",
+      "hindi": "क्या मैं, आपकी सलाह फिर से माँग सकता हूँ?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516163"
+    },
+    {
+      "english": "Did you anticipate, my needs?",
+      "hindi": "क्या आपने, मेरी ज़रूरतों का अनुमान लगाया?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516165"
+    },
+    {
+      "english": "How should I, express my gratitude?",
+      "hindi": "मुझे अपना आभार, कैसे व्यक्त करना चाहिए?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516170"
+    },
+    {
+      "english": "You inspire me, greatly.",
+      "hindi": "आप मुझे, बहुत प्रेरित करते हैं।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516173"
+    },
+    {
+      "english": "Your positivity, is contagious.",
+      "hindi": "आपकी सकारात्मकता, संक्रामक है।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516175"
+    },
+    {
+      "english": "Keep shining, bright star.",
+      "hindi": "चमकते रहो, चमकते सितारे।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516178"
+    },
+    {
+      "english": "You are capable, of anything.",
+      "hindi": "आप कुछ भी, करने में सक्षम हैं।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516183"
+    },
+    {
+      "english": "Your effort, is admirable.",
+      "hindi": "आपका प्रयास, सराहनीय है।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516185"
+    },
+    {
+      "english": "Great job, on this one.",
+      "hindi": "बहुत बढ़िया, इस पर।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516188"
+    },
+    {
+      "english": "You have a good heart.",
+      "hindi": "आपका दिल, बहुत अच्छा है।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516190"
+    },
+    {
+      "english": "Stay strong, and positive.",
+      "hindi": "मजबूत, और सकारात्मक रहो।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516193"
+    },
+    {
+      "english": "You make things, better.",
+      "hindi": "आप चीजों को, बेहतर बनाते हैं।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516196"
+    },
+    {
+      "english": "What a great, attitude!",
+      "hindi": "क्या बढ़िया, रवैया है!",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516199"
+    },
+    {
+      "english": "You bring, so much joy.",
+      "hindi": "आप बहुत, खुशी लाते हैं।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516202"
+    },
+    {
+      "english": "Your presence, is a gift.",
+      "hindi": "आपकी उपस्थिति, एक उपहार है।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516207"
+    },
+    {
+      "english": "Keep up, the good work.",
+      "hindi": "अच्छा काम, करते रहो।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516209"
+    },
+    {
+      "english": "You're a source, of strength.",
+      "hindi": "आप शक्ति का, स्रोत हैं।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516212"
+    },
+    {
+      "english": "This mindset, is winning.",
+      "hindi": "यह सोच, जीत रही है।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516215"
+    },
+    {
+      "english": "Your belief, is powerful.",
+      "hindi": "आपका विश्वास, शक्तिशाली है।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516217"
+    },
+    {
+      "english": "You're doing, amazing work.",
+      "hindi": "आप अद्भुत, काम कर रहे हैं।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516220"
+    },
+    {
+      "english": "That's a great, perspective.",
+      "hindi": "यह एक बढ़िया, नजरिया है।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516223"
+    },
+    {
+      "english": "You create, positive vibes.",
+      "hindi": "आप सकारात्मक, ऊर्जा बनाते हैं।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516226"
+    },
+    {
+      "english": "Your optimism, is infectious.",
+      "hindi": "आपका आशावाद, संक्रामक है।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516229"
+    },
+    {
+      "english": "You're a true, motivator.",
+      "hindi": "आप एक सच्चे, प्रेरक हैं।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516232"
+    },
+    {
+      "english": "This spirit, is fantastic.",
+      "hindi": "यह जज्बा, शानदार है।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516234"
+    },
+    {
+      "english": "You light up, the room.",
+      "hindi": "आप कमरे को, रोशन करते हैं।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516237"
+    },
+    {
+      "english": "Your energy, is amazing.",
+      "hindi": "आपकी ऊर्जा, अद्भुत है।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516239"
+    },
+    {
+      "english": "You make, dreams happen.",
+      "hindi": "आप, सपनों को सच करते हैं।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516242"
+    },
+    {
+      "english": "This progress, is awesome.",
+      "hindi": "यह प्रगति, शानदार है।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516244"
+    },
+    {
+      "english": "My heart, feels full of thanks.",
+      "hindi": "मेरा दिल, आभार से भर गया है।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516247"
+    },
+    {
+      "english": "This kindness, truly touched me.",
+      "hindi": "इस दयालुता ने, मुझे सचमुच छुआ।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516250"
+    },
+    {
+      "english": "I appreciate, your honest effort.",
+      "hindi": "मैं आपके, ईमानदार प्रयास की सराहना करता हूँ।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516252"
+    },
+    {
+      "english": "Thank you, for your patience with me.",
+      "hindi": "मेरे साथ, आपके धैर्य के लिए धन्यवाद।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516256"
+    },
+    {
+      "english": "Your support, means the world.",
+      "hindi": "आपका समर्थन, मेरे लिए सब कुछ है।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516258"
+    },
+    {
+      "english": "I'm reflecting, on your gift.",
+      "hindi": "मैं आपके उपहार पर, विचार कर रहा हूँ।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516261"
+    },
+    {
+      "english": "This situation, made me grateful.",
+      "hindi": "इस स्थिति ने, मुझे आभारी बना दिया।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516264"
+    },
+    {
+      "english": "I'm so glad, I met you.",
+      "hindi": "मैं बहुत खुश हूँ, कि आपसे मिला।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516267"
+    },
+    {
+      "english": "I'm learning, a lot from this.",
+      "hindi": "मैं इससे, बहुत कुछ सीख रहा हूँ।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516272"
+    },
+    {
+      "english": "This gesture, was very thoughtful.",
+      "hindi": "यह इशारा, बहुत विचारशील था।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516275"
+    },
+    {
+      "english": "I feel lucky, to have you.",
+      "hindi": "मैं भाग्यशाली महसूस करता हूँ, कि आप मेरे साथ हैं।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516278"
+    },
+    {
+      "english": "This moment, I won't forget.",
+      "hindi": "यह पल, मैं नहीं भूलूंगा।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516282"
+    },
+    {
+      "english": "I'm truly thankful, for everything.",
+      "hindi": "मैं सचमुच, हर चीज के लिए आभारी हूँ।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516285"
+    },
+    {
+      "english": "Your guidance, is invaluable.",
+      "hindi": "आपका मार्गदर्शन, अनमोल है।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516288"
+    },
+    {
+      "english": "I'm growing, because of you.",
+      "hindi": "मैं आपके कारण, बढ़ रहा हूँ।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516291"
+    },
+    {
+      "english": "This has been, a great learning.",
+      "hindi": "यह एक, बड़ी सीख रही है।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516293"
+    },
+    {
+      "english": "I'm feeling, genuine appreciation.",
+      "hindi": "मैं सच्ची, सराहना महसूस कर रहा हूँ।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516296"
+    },
+    {
+      "english": "Your understanding, means a lot.",
+      "hindi": "आपकी समझ, बहुत मायने रखती है।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516299"
+    },
+    {
+      "english": "This experience, taught me patience.",
+      "hindi": "इस अनुभव ने, मुझे धैर्य सिखाया।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516302"
+    },
+    {
+      "english": "I'm so touched, by your actions.",
+      "hindi": "आपके कार्यों से, मैं बहुत भावुक हूँ।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516305"
+    },
+    {
+      "english": "Your support, gives me hope.",
+      "hindi": "आपका समर्थन, मुझे आशा देता है।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516308"
+    },
+    {
+      "english": "I'm humbled, by your kindness.",
+      "hindi": "मैं आपकी दयालुता से, विनम्र हूँ।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516310"
+    },
+    {
+      "english": "This thoughtfulness, is remarkable.",
+      "hindi": "यह विचारशीलता, उल्लेखनीय है।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516313"
+    },
+    {
+      "english": "I value, your sincere advice.",
+      "hindi": "मैं आपकी, सच्ची सलाह को महत्व देता हूँ।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516316"
+    },
+    {
+      "english": "This generosity, is inspiring.",
+      "hindi": "यह उदारता, प्रेरणादायक है।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516318"
+    },
+    {
+      "english": "I'm reflecting, on this positive change.",
+      "hindi": "मैं इस सकारात्मक बदलाव पर, विचार कर रहा हूँ।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516321"
+    },
+    {
+      "english": "This habit, makes life better, truly.",
+      "hindi": "यह आदत, ज़िन्दगी बेहतर बनाती है, सचमुच।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516324"
+    },
+    {
+      "english": "Glad, we could sort this out.",
+      "hindi": "खुशी है, कि हमने यह सुलझा लिया।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516327"
+    },
+    {
+      "english": "Your suggestion, really helped, thank you.",
+      "hindi": "आपके सुझाव ने, सच में मदद की, धन्यवाद।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516330"
+    },
+    {
+      "english": "Thanks for listening, really needed that.",
+      "hindi": "सुनने के लिए शुक्रिया, सच में इसकी ज़रूरत थी।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516333"
+    },
+    {
+      "english": "This routine, I’m sticking to it, thanks.",
+      "hindi": "यह रूटीन, मैं इसे जारी रखूँगा/रखूँगी, धन्यवाद।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516337"
+    },
+    {
+      "english": "Learned a lot, from this interaction.",
+      "hindi": "बहुत कुछ सीखा, इस बातचीत से।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516340"
+    },
+    {
+      "english": "Appreciate, your practical advice.",
+      "hindi": "सराहता हूँ, आपकी व्यावहारिक सलाह।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516343"
+    },
+    {
+      "english": "Thanks for the clear explanation, got it!",
+      "hindi": "स्पष्ट समझाने के लिए धन्यवाद, समझ गया/गई!",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516346"
+    },
+    {
+      "english": "This strategy, worked wonders, thank you.",
+      "hindi": "यह रणनीति, कमाल कर गई, धन्यवाद।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516351"
+    },
+    {
+      "english": "Glad, we could collaborate on this.",
+      "hindi": "खुशी है, कि हम इस पर साथ काम कर पाए।",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516354"
+    },
+    {
+      "english": "Your quick fix, saved the day!",
+      "hindi": "आपके त्वरित समाधान ने, दिन बचा लिया!",
+      "category": "Gratitude",
+      "generated_at": "2026-10-31T09:08:45.516357"
     }
   ],
-  "last_updated": "2026-10-30T09:21:53.683101"
+  "last_updated": "2026-10-31T09:08:45.516358"
 }
