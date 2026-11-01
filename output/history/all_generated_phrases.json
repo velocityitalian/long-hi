@@ -10079,7 +10079,727 @@
       "hindi": "आपके त्वरित समाधान ने, दिन बचा लिया!",
       "category": "Gratitude",
       "generated_at": "2026-10-31T09:08:45.516357"
+    },
+    {
+      "english": "Hello, I have a reservation.",
+      "hindi": "नमस्ते, मेरी बुकिंग है।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997870"
+    },
+    {
+      "english": "Can I see the room, please?",
+      "hindi": "क्या मैं कमरा देख सकता हूँ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997884"
+    },
+    {
+      "english": "This room is great!",
+      "hindi": "यह कमरा बहुत अच्छा है!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997887"
+    },
+    {
+      "english": "Is breakfast included?",
+      "hindi": "क्या नाश्ता शामिल है?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997890"
+    },
+    {
+      "english": "Where is the Wi-Fi password?",
+      "hindi": "वाई-फाई का पासवर्ड कहाँ है?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997892"
+    },
+    {
+      "english": "I need another towel.",
+      "hindi": "मुझे एक और तौलिया चाहिए।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997894"
+    },
+    {
+      "english": "The air conditioning works well.",
+      "hindi": "एयर कंडीशनिंग अच्छे से काम कर रही है।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997896"
+    },
+    {
+      "english": "Could you call a taxi?",
+      "hindi": "क्या आप टैक्सी बुला सकते हैं?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997901"
+    },
+    {
+      "english": "When is checkout time?",
+      "hindi": "चेकआउट का समय क्या है?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997905"
+    },
+    {
+      "english": "This view is amazing!",
+      "hindi": "यह नज़ारा शानदार है!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997908"
+    },
+    {
+      "english": "I’m very comfortable here.",
+      "hindi": "मैं यहाँ बहुत आराम से हूँ।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997910"
+    },
+    {
+      "english": "Can I get a late checkout?",
+      "hindi": "क्या मुझे देर से चेकआउट मिल सकता है?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997913"
+    },
+    {
+      "english": "The bed is very soft.",
+      "hindi": "बिस्तर बहुत नरम है।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997915"
+    },
+    {
+      "english": "I love this hotel!",
+      "hindi": "मुझे यह होटल बहुत पसंद है!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997917"
+    },
+    {
+      "english": "Is there a swimming pool?",
+      "hindi": "क्या यहाँ स्विमिंग पूल है?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997919"
+    },
+    {
+      "english": "The staff is very helpful.",
+      "hindi": "स्टाफ बहुत मददगार है।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997921"
+    },
+    {
+      "english": "I need a quiet room.",
+      "hindi": "मुझे एक शांत कमरा चाहिए।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997922"
+    },
+    {
+      "english": "What time does the restaurant open?",
+      "hindi": "रेस्तरां कितने बजे खुलता है?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997925"
+    },
+    {
+      "english": "Can I have an extra pillow?",
+      "hindi": "क्या मुझे एक अतिरिक्त तकिया मिल सकता है?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997927"
+    },
+    {
+      "english": "This is just perfect.",
+      "hindi": "यह एकदम सही है।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997928"
+    },
+    {
+      "english": "I’d like to extend my stay.",
+      "hindi": "मैं अपना प्रवास बढ़ाना चाहूँगा।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997931"
+    },
+    {
+      "english": "The room is very clean.",
+      "hindi": "कमरा बहुत साफ़ है।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997933"
+    },
+    {
+      "english": "Do you have a map?",
+      "hindi": "क्या आपके पास नक्शा है?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997935"
+    },
+    {
+      "english": "This is a lovely place.",
+      "hindi": "यह एक प्यारी जगह है।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997938"
+    },
+    {
+      "english": "I have a complaint.",
+      "hindi": "मेरी एक शिकायत है।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997940"
+    },
+    {
+      "english": "Can I have the room service menu?",
+      "hindi": "क्या मुझे रूम सर्विस का मेन्यू मिल सकता है?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997942"
+    },
+    {
+      "english": "This is better than I expected.",
+      "hindi": "यह उम्मीद से बेहतर है।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997946"
+    },
+    {
+      "english": "I need a wake-up call.",
+      "hindi": "मुझे वेक-अप कॉल चाहिए।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997948"
+    },
+    {
+      "english": "How much is the room per night?",
+      "hindi": "एक रात का किराया कितना है?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997950"
+    },
+    {
+      "english": "This is my happy place.",
+      "hindi": "यह मेरा पसंदीदा स्थान है।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997952"
+    },
+    {
+      "english": "Excuse me, could you help me?",
+      "hindi": "माफ़ कीजिए, क्या आप मेरी मदद कर सकते हैं?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997954"
+    },
+    {
+      "english": "Do you have any available rooms?",
+      "hindi": "क्या आपके पास कोई खाली कमरे हैं?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997956"
+    },
+    {
+      "english": "What's the price for tonight?",
+      "hindi": "आज रात का किराया क्या है?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997958"
+    },
+    {
+      "english": "Can I book a room for two nights?",
+      "hindi": "क्या मैं दो रात के लिए कमरा बुक कर सकता हूँ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997960"
+    },
+    {
+      "english": "Is this room quiet?",
+      "hindi": "क्या यह कमरा शांत है?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997963"
+    },
+    {
+      "english": "Could I see another room?",
+      "hindi": "क्या मैं दूसरा कमरा देख सकता हूँ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997965"
+    },
+    {
+      "english": "What amenities are included?",
+      "hindi": "कौन सी सुविधाएं शामिल हैं?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997967"
+    },
+    {
+      "english": "Is there free Wi-Fi here?",
+      "hindi": "क्या यहाँ मुफ़्त वाई-फ़ाई है?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997969"
+    },
+    {
+      "english": "Can you recommend a good restaurant nearby?",
+      "hindi": "क्या आप पास का कोई अच्छा रेस्तरां बता सकते हैं?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997972"
+    },
+    {
+      "english": "Where can I exchange money?",
+      "hindi": "मैं पैसे कहाँ बदल सकता हूँ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997974"
+    },
+    {
+      "english": "How do I get to the train station?",
+      "hindi": "मैं रेलवे स्टेशन कैसे पहुँचूँ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997978"
+    },
+    {
+      "english": "Is breakfast served in the room?",
+      "hindi": "क्या नाश्ता कमरे में परोसा जाता है?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997980"
+    },
+    {
+      "english": "When does the hotel close?",
+      "hindi": "होटल कब बंद होता है?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997981"
+    },
+    {
+      "english": "Could you arrange a tour for me?",
+      "hindi": "क्या आप मेरे लिए एक टूर का इंतज़ाम कर सकते हैं?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997983"
+    },
+    {
+      "english": "Is there a luggage storage facility?",
+      "hindi": "क्या सामान रखने की सुविधा है?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997985"
+    },
+    {
+      "english": "What time is checkout?",
+      "hindi": "चेकआउट का समय क्या है?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997987"
+    },
+    {
+      "english": "Can I get a receipt?",
+      "hindi": "क्या मुझे रसीद मिल सकती है?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997989"
+    },
+    {
+      "english": "My key isn't working.",
+      "hindi": "मेरी चाबी काम नहीं कर रही है।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997991"
+    },
+    {
+      "english": "I need help with my bags.",
+      "hindi": "मुझे मेरे बैग्स में मदद चाहिए।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997993"
+    },
+    {
+      "english": "Is there a shuttle service?",
+      "hindi": "क्या शटल सेवा उपलब्ध है?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997995"
+    },
+    {
+      "english": "Can I leave my luggage here?",
+      "hindi": "क्या मैं अपना सामान यहाँ छोड़ सकता हूँ?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.997997"
+    },
+    {
+      "english": "What's the policy on pets?",
+      "hindi": "पालतू जानवरों के बारे में क्या नियम है?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998000"
+    },
+    {
+      "english": "Can I get a wake-up call tomorrow?",
+      "hindi": "क्या आप कल मुझे जगा सकते हैं?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998002"
+    },
+    {
+      "english": "I'd like to check out now.",
+      "hindi": "मैं अब चेकआउट करना चाहूँगा।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998005"
+    },
+    {
+      "english": "Is room service available 24 hours?",
+      "hindi": "क्या रूम सर्विस 24 घंटे उपलब्ध है?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998006"
+    },
+    {
+      "english": "Can you recommend a local attraction?",
+      "hindi": "क्या आप किसी स्थानीय आकर्षण की सलाह दे सकते हैं?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998008"
+    },
+    {
+      "english": "Where is the nearest ATM?",
+      "hindi": "नज़दीकी एटीएम कहाँ है?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998010"
+    },
+    {
+      "english": "Is there a doctor on call?",
+      "hindi": "क्या कोई डॉक्टर उपलब्ध है?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998012"
+    },
+    {
+      "english": "Can I have a non-smoking room?",
+      "hindi": "क्या मुझे धूम्रपान-मुक्त कमरा मिल सकता है?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998014"
+    },
+    {
+      "english": "I have a reservation under the name...",
+      "hindi": "मेरा रिज़र्वेशन इस नाम से है...",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998017"
+    },
+    {
+      "english": "This place feels like home, truly.",
+      "hindi": "यह जगह घर जैसी लगती है, सचमुच।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998019"
+    },
+    {
+      "english": "Make yourself comfortable, please.",
+      "hindi": "आराम से रहिये, प्लीज़।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998021"
+    },
+    {
+      "english": "Just take your time, no rush.",
+      "hindi": "बस आराम से, कोई जल्दी नहीं।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998023"
+    },
+    {
+      "english": "The vibe here is just right.",
+      "hindi": "यहाँ का माहौल, बस सही है।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998025"
+    },
+    {
+      "english": "Settling in nicely, thanks.",
+      "hindi": "आराम से जम रहा हूँ/रही हूँ, शुक्रिया।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998027"
+    },
+    {
+      "english": "This room has good energy.",
+      "hindi": "इस कमरे में अच्छी वाइब है।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998029"
+    },
+    {
+      "english": "Feeling quite at ease here.",
+      "hindi": "यहाँ बहुत सुकून मिल रहा है।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998031"
+    },
+    {
+      "english": "Like a hidden gem, this is.",
+      "hindi": "यह तो छुपी रुस्तम निकली।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998033"
+    },
+    {
+      "english": "My little corner of peace.",
+      "hindi": "मेरा सुकून का कोना, यहाँ।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998035"
+    },
+    {
+      "english": "This is just what I needed.",
+      "hindi": "बस यही चाहिए था मुझे।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998037"
+    },
+    {
+      "english": "Hope you have a good stay.",
+      "hindi": "उम्मीद है आपका ठहरना अच्छा रहे।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998039"
+    },
+    {
+      "english": "Everything's taken care of, right?",
+      "hindi": "सब कुछ ठीक चल रहा है ना?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998042"
+    },
+    {
+      "english": "Let's get settled, finally.",
+      "hindi": "चलो, आखिरकार जम जाते हैं।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998046"
+    },
+    {
+      "english": "This is a cozy spot.",
+      "hindi": "यह जगह बहुत आरामदायक है।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998048"
+    },
+    {
+      "english": "Making the most of it.",
+      "hindi": "इसका पूरा फायदा उठा रहा हूँ/रही हूँ।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998050"
+    },
+    {
+      "english": "Feels like a small vacation.",
+      "hindi": "छोटे वेकेशन जैसा लग रहा है।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998052"
+    },
+    {
+      "english": "Nothing beats this comfort.",
+      "hindi": "इस आराम के आगे कुछ नहीं।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998054"
+    },
+    {
+      "english": "A pleasant surprise, truly.",
+      "hindi": "एक सुखद आश्चर्य, सच में।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998056"
+    },
+    {
+      "english": "My temporary haven, you see.",
+      "hindi": "मेरा अस्थायी स्वर्ग, आप समझिये।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998058"
+    },
+    {
+      "english": "Hope for a peaceful night.",
+      "hindi": "एक शांत रात की उम्मीद है।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998062"
+    },
+    {
+      "english": "This is quite the setup.",
+      "hindi": "यह तो ज़बरदस्त व्यवस्था है।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998063"
+    },
+    {
+      "english": "All set for a good rest.",
+      "hindi": "अच्छे आराम के लिए सब तैयार।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998065"
+    },
+    {
+      "english": "Feels like I'm living the dream.",
+      "hindi": "लग रहा है, सपना जी रहा हूँ।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998067"
+    },
+    {
+      "english": "This is a nice change.",
+      "hindi": "यह एक अच्छा बदलाव है।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998069"
+    },
+    {
+      "english": "Unwinding completely, here.",
+      "hindi": "पूरी तरह से सुकून पा रहा हूँ/रही हूँ।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998071"
+    },
+    {
+      "english": "Could not ask for more.",
+      "hindi": "और क्या माँग सकता/सकती हूँ।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998073"
+    },
+    {
+      "english": "Enjoying this little escape.",
+      "hindi": "इस छोटे से पल का मज़ा ले रहा हूँ/रही हूँ।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998075"
+    },
+    {
+      "english": "A home away from home.",
+      "hindi": "घर से दूर, घर जैसा।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998077"
+    },
+    {
+      "english": "This feels just perfect.",
+      "hindi": "यह बिल्कुल सही महसूस हो रहा है।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998079"
+    },
+    {
+      "english": "This atmosphere, it calms me.",
+      "hindi": "यह माहौल, मुझे सुकून देता है।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998083"
+    },
+    {
+      "english": "I'm reflecting, on my journey.",
+      "hindi": "मैं सोच रहा हूँ, अपनी यात्रा पर।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998085"
+    },
+    {
+      "english": "This quiet, it's so needed.",
+      "hindi": "यह शांति, बहुत ज़रूरी थी।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998087"
+    },
+    {
+      "english": "Let's just be, for a while.",
+      "hindi": "बस, कुछ देर आराम करते हैं।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998089"
+    },
+    {
+      "english": "This view, it touches my soul.",
+      "hindi": "यह नज़ारा, दिल को छूता है।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998092"
+    },
+    {
+      "english": "I'm finding peace, within these walls.",
+      "hindi": "मुझे शांति मिल रही है, इन दीवारों में।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998094"
+    },
+    {
+      "english": "Taking it slow, savoring it.",
+      "hindi": "धीरे-धीरे ले रहा हूँ, इसका आनंद।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998096"
+    },
+    {
+      "english": "This feeling, it's genuine.",
+      "hindi": "यह एहसास, बहुत सच्चा है।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998099"
+    },
+    {
+      "english": "My mind is at rest, truly.",
+      "hindi": "मेरा मन शांत है, सचमुच।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998101"
+    },
+    {
+      "english": "It's a slow unwind, I feel.",
+      "hindi": "मैं धीरे-धीरे खुल रहा हूँ, ऐसा लगता है।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998103"
+    },
+    {
+      "english": "Such simple joys, you know?",
+      "hindi": "कितने सीधे-सादे सुख हैं, पता है?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998105"
+    },
+    {
+      "english": "I'm letting go, of worries.",
+      "hindi": "मैं चिंताओं को जाने दे रहा हूँ।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998107"
+    },
+    {
+      "english": "This place, it holds memories.",
+      "hindi": "यह जगह, यादें समेटे हुए है।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998109"
+    },
+    {
+      "english": "Just being present, matters most.",
+      "hindi": "बस मौजूद रहना, सबसे ज़रूरी है।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998111"
+    },
+    {
+      "english": "I feel so centered, here.",
+      "hindi": "मैं यहाँ, बहुत केंद्रित महसूस कर रहा हूँ।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998113"
+    },
+    {
+      "english": "What a relief, this quiet.",
+      "hindi": "कितनी राहत है, इस शांति में।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998117"
+    },
+    {
+      "english": "Deep breaths, are essential.",
+      "hindi": "गहरी साँसें लेना, ज़रूरी है।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998119"
+    },
+    {
+      "english": "This comfort, it's profound.",
+      "hindi": "यह आराम, बहुत गहरा है।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998123"
+    },
+    {
+      "english": "I'm truly absorbing, the calm.",
+      "hindi": "मैं सचमुच, शांति सोख रहा हूँ।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998125"
+    },
+    {
+      "english": "It's a gentle pause, for me.",
+      "hindi": "यह मेरे लिए, एक हल्का ठहराव है।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998128"
+    },
+    {
+      "english": "Finding solace, in simplicity.",
+      "hindi": "सरलता में सुकून ढूँढ रहा हूँ।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998132"
+    },
+    {
+      "english": "This quietude, speaks volumes.",
+      "hindi": "यह खामोशी, बहुत कुछ कहती है।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998134"
+    },
+    {
+      "english": "I'm letting my guard down, finally.",
+      "hindi": "मैं आखिरकार, अपनी ढाल नीचे रख रहा हूँ।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998136"
+    },
+    {
+      "english": "This feeling, it lingers softly.",
+      "hindi": "यह एहसास, धीरे से टिका रहता है।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998138"
+    },
+    {
+      "english": "A moment of pure reflection.",
+      "hindi": "शुद्ध चिंतन का एक पल।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998140"
+    },
+    {
+      "english": "My heart feels lighter, somehow.",
+      "hindi": "मेरा दिल हल्का महसूस कर रहा है, किसी तरह।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998142"
+    },
+    {
+      "english": "This peace is palpable, I swear.",
+      "hindi": "यह शांति महसूस हो रही है, मैं कसम खाता हूँ।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998144"
+    },
+    {
+      "english": "Soaking in the tranquility.",
+      "hindi": "सुकून में डूब रहा हूँ।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998146"
+    },
+    {
+      "english": "This is truly restorative.",
+      "hindi": "यह सचमुच आरामदायक है।",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998148"
+    },
+    {
+      "english": "Excuse me, where is the lift?",
+      "hindi": "माफ़ कीजिए, लिफ़्ट कहाँ है?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998150"
+    },
+    {
+      "english": "Could you get me a taxi, please?",
+      "hindi": "क्या आप मेरे लिए टैक्सी मँगवा सकते हैं?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-01T09:56:53.998152"
     }
   ],
-  "last_updated": "2026-10-31T09:08:45.516358"
+  "last_updated": "2026-11-01T09:56:53.998154"
 }
