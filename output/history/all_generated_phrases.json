@@ -10799,7 +10799,727 @@
       "hindi": "क्या आप मेरे लिए टैक्सी मँगवा सकते हैं?",
       "category": "Hotel & Accommodation",
       "generated_at": "2026-11-01T09:56:53.998152"
+    },
+    {
+      "english": "Keep trying, don't give up.",
+      "hindi": "कोशिश करते रहो, हार मत मानो।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222812"
+    },
+    {
+      "english": "One step at a time.",
+      "hindi": "एक बार में, एक कदम।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222828"
+    },
+    {
+      "english": "It's tough, but I'll manage.",
+      "hindi": "मुश्किल है, पर मैं संभाल लूँगा/लूँगी।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222832"
+    },
+    {
+      "english": "Don't lose hope, it'll be okay.",
+      "hindi": "हिम्मत मत हारो, सब ठीक हो जाएगा।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222835"
+    },
+    {
+      "english": "Just keep pushing forward.",
+      "hindi": "बस आगे बढ़ते रहो।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222837"
+    },
+    {
+      "english": "Failure is a stepping stone.",
+      "hindi": "असफलता, एक सीढ़ी है।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222840"
+    },
+    {
+      "english": "Persistence pays off, eventually.",
+      "hindi": "लगे रहो, फल ज़रूर मिलेगा।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222843"
+    },
+    {
+      "english": "I won't quit this easily.",
+      "hindi": "मैं इतनी आसानी से नहीं छोडूंगा/छोड़ूंगी।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222849"
+    },
+    {
+      "english": "Every effort counts, remember that.",
+      "hindi": "हर कोशिश मायने रखती है, याद रखना।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222853"
+    },
+    {
+      "english": "Stay focused on your goal.",
+      "hindi": "अपने लक्ष्य पर ध्यान केंद्रित रखो।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222855"
+    },
+    {
+      "english": "This is a test of patience.",
+      "hindi": "यह धैर्य की परीक्षा है।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222857"
+    },
+    {
+      "english": "Don't get discouraged by setbacks.",
+      "hindi": "बाधाओं से निराश मत हो।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222860"
+    },
+    {
+      "english": "It takes time, be patient.",
+      "hindi": "इसमें समय लगता है, धैर्य रखो।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222863"
+    },
+    {
+      "english": "We must endure this challenge.",
+      "hindi": "हमें इस चुनौती को सहना होगा।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222865"
+    },
+    {
+      "english": "Never underestimate your own strength.",
+      "hindi": "अपनी ताकत को कभी कम मत आँको।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222868"
+    },
+    {
+      "english": "This is not the end.",
+      "hindi": "यह अंत नहीं है।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222870"
+    },
+    {
+      "english": "Keep pushing your limits.",
+      "hindi": "अपनी सीमाओं को आगे बढ़ाओ।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222872"
+    },
+    {
+      "english": "Tomorrow is another day to try.",
+      "hindi": "कल कोशिश करने का एक और दिन है।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222874"
+    },
+    {
+      "english": "Hang in there, it'll get better.",
+      "hindi": "डटे रहो, सब बेहतर हो जाएगा।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222877"
+    },
+    {
+      "english": "The journey is long, keep moving.",
+      "hindi": "सफ़र लंबा है, चलते रहो।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222880"
+    },
+    {
+      "english": "Don't give up on your dreams.",
+      "hindi": "अपने सपनों को मत छोड़ो।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222882"
+    },
+    {
+      "english": "It's a marathon, not a sprint.",
+      "hindi": "यह मैराथन है, स्प्रिंट नहीं।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222885"
+    },
+    {
+      "english": "We'll overcome this difficulty.",
+      "hindi": "हम इस मुश्किल से पार पा लेंगे।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222888"
+    },
+    {
+      "english": "Stay resilient, bounce back.",
+      "hindi": "लचीले रहो, फिर से खड़े हो जाओ।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222891"
+    },
+    {
+      "english": "One more try, that's all.",
+      "hindi": "एक और कोशिश, बस।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222897"
+    },
+    {
+      "english": "Let's keep working at it.",
+      "hindi": "चलो इस पर काम करते रहें।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222900"
+    },
+    {
+      "english": "What's your strategy, to keep going?",
+      "hindi": "आपका क्या तरीका है, चलते रहने का?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222903"
+    },
+    {
+      "english": "Any advice, for someone struggling?",
+      "hindi": "संघर्ष कर रहे किसी के लिए, कोई सलाह?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222905"
+    },
+    {
+      "english": "When is it okay, to take a break?",
+      "hindi": "कब रुकना ठीक है, एक विराम के लिए?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222908"
+    },
+    {
+      "english": "Do you believe, in second chances?",
+      "hindi": "क्या आप मानते हैं, दूसरे मौकों में?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222910"
+    },
+    {
+      "english": "What helps you, when you feel stuck?",
+      "hindi": "जब आप अटके हुए महसूस करें, क्या मदद करता है?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222915"
+    },
+    {
+      "english": "Tell me, what keeps you going?",
+      "hindi": "बताएं, आपको क्या आगे बढ़ाता है?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222918"
+    },
+    {
+      "english": "Is it hard, to start over again?",
+      "hindi": "क्या यह मुश्किल है, फिर से शुरू करना?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222920"
+    },
+    {
+      "english": "How do you handle, unexpected problems?",
+      "hindi": "अप्रत्याशित समस्याओं से, आप कैसे निपटते हैं?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222923"
+    },
+    {
+      "english": "What's your secret, to inner strength?",
+      "hindi": "आपकी आंतरिक शक्ति का, आपका रहस्य क्या है?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222926"
+    },
+    {
+      "english": "Do we really need, this much effort?",
+      "hindi": "क्या हमें सचमुच चाहिए, इतना प्रयास?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222928"
+    },
+    {
+      "english": "Can you share, a moment of doubt?",
+      "hindi": "क्या आप साझा कर सकते हैं, संदेह का एक क्षण?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222931"
+    },
+    {
+      "english": "What does 'never give up' mean, to you?",
+      "hindi": "'कभी हार न मानो' का क्या मतलब है, आपके लिए?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222934"
+    },
+    {
+      "english": "How do you find, the will to continue?",
+      "hindi": "जारी रखने की इच्छा, आप कैसे पाते हैं?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222936"
+    },
+    {
+      "english": "What if the goal, seems too far?",
+      "hindi": "क्या हो अगर लक्ष्य, बहुत दूर लगे?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222938"
+    },
+    {
+      "english": "Do you think, persistence is key?",
+      "hindi": "क्या आपको लगता है, दृढ़ता कुंजी है?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222940"
+    },
+    {
+      "english": "How do you recover, from mistakes?",
+      "hindi": "गलतियों से, आप कैसे उबरते हैं?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222943"
+    },
+    {
+      "english": "Is it important, to ask for help?",
+      "hindi": "क्या यह महत्वपूर्ण है, मदद मांगना?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222945"
+    },
+    {
+      "english": "What fuels your, determination?",
+      "hindi": "आपके दृढ़ संकल्प को, क्या बढ़ावा देता है?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222947"
+    },
+    {
+      "english": "Can we learn, from hardship?",
+      "hindi": "क्या हम सीख सकते हैं, कठिनाई से?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222949"
+    },
+    {
+      "english": "What's a good mantra, for tough times?",
+      "hindi": "कठिन समय के लिए, एक अच्छा मंत्र क्या है?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222952"
+    },
+    {
+      "english": "Is it worth it, to keep going?",
+      "hindi": "क्या यह इसके लायक है, चलते रहना?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222955"
+    },
+    {
+      "english": "What inspires you, to persevere?",
+      "hindi": "आपको दृढ़ रहने के लिए, क्या प्रेरित करता है?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222957"
+    },
+    {
+      "english": "Do you believe, in gradual progress?",
+      "hindi": "क्या आप मानते हैं, क्रमिक प्रगति में?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222959"
+    },
+    {
+      "english": "How do you manage, disappointment?",
+      "hindi": "निराशा का, आप प्रबंधन कैसे करते हैं?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222961"
+    },
+    {
+      "english": "What's your outlook, on challenges?",
+      "hindi": "चुनौतियों पर, आपका दृष्टिकोण क्या है?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222964"
+    },
+    {
+      "english": "When should we, change our approach?",
+      "hindi": "हमें कब, अपना तरीका बदलना चाहिए?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222966"
+    },
+    {
+      "english": "How do you find, the energy to push?",
+      "hindi": "आगे बढ़ने की ऊर्जा, आप कैसे पाते हैं?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222968"
+    },
+    {
+      "english": "What keeps you, from quitting?",
+      "hindi": "क्या आपको छोड़ने से, रोकता है?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222972"
+    },
+    {
+      "english": "Believe in your effort, always.",
+      "hindi": "अपनी मेहनत पर, हमेशा विश्वास रखो।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222974"
+    },
+    {
+      "english": "This challenge, you can conquer.",
+      "hindi": "यह चुनौती, तुम पार कर सकते हो।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222977"
+    },
+    {
+      "english": "Patience brings, sweet rewards.",
+      "hindi": "सब्र का फल, मीठा होता है।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222979"
+    },
+    {
+      "english": "Your hard work, will pay off.",
+      "hindi": "तुम्हारी कड़ी मेहनत, रंग लाएगी।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222982"
+    },
+    {
+      "english": "Each failure, is a lesson learned.",
+      "hindi": "हर असफलता, एक सीखा हुआ सबक है।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222984"
+    },
+    {
+      "english": "Don't lose hope, stay positive.",
+      "hindi": "आशा मत छोड़ो, सकारात्मक रहो।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222987"
+    },
+    {
+      "english": "Your determination, is inspiring.",
+      "hindi": "तुम्हारा दृढ़ संकल्प, प्रेरणादायक है।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222989"
+    },
+    {
+      "english": "You've got this, keep striving.",
+      "hindi": "तुम यह कर सकते हो, प्रयास जारी रखो।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222992"
+    },
+    {
+      "english": "Embrace the struggle, it builds you.",
+      "hindi": "संघर्ष को गले लगाओ, यह तुम्हें बनाता है।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222996"
+    },
+    {
+      "english": "One more step, closer to success.",
+      "hindi": "एक और कदम, सफलता के करीब।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.222998"
+    },
+    {
+      "english": "Don't quit now, you're so close.",
+      "hindi": "अभी हार मत मानो, तुम बहुत करीब हो।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223001"
+    },
+    {
+      "english": "Learn from setbacks, grow stronger.",
+      "hindi": "हार से सीखो, मज़बूत बनो।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223005"
+    },
+    {
+      "english": "Keep your head up, keep pushing.",
+      "hindi": "सिर ऊँचा रखो, आगे बढ़ते रहो।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223007"
+    },
+    {
+      "english": "Perseverance is the key, unlock it.",
+      "hindi": "दृढ़ता ही कुंजी है, उसे खोलो।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223009"
+    },
+    {
+      "english": "Never doubt, your potential.",
+      "hindi": "अपनी क्षमता पर, कभी शक मत करो।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223012"
+    },
+    {
+      "english": "You are resilient, bounce back.",
+      "hindi": "तुम लचीले हो, फिर से खड़े हो जाओ।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223014"
+    },
+    {
+      "english": "Keep faith, in your journey.",
+      "hindi": "अपनी यात्रा में, विश्वास बनाए रखो।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223016"
+    },
+    {
+      "english": "Your persistence, will lead you.",
+      "hindi": "तुम्हारी निरंतरता, तुम्हें रास्ता दिखाएगी।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223019"
+    },
+    {
+      "english": "Don't give up, the race is long.",
+      "hindi": "हिम्मत मत हारो, दौड़ लम्बी है।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223022"
+    },
+    {
+      "english": "Keep trying, until you succeed.",
+      "hindi": "कोशिश करते रहो, जब तक सफल न हो।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223024"
+    },
+    {
+      "english": "Don't break, under pressure.",
+      "hindi": "दबाव में, टूटो मत।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223027"
+    },
+    {
+      "english": "The struggle, is part of the journey.",
+      "hindi": "संघर्ष, यात्रा का हिस्सा है।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223029"
+    },
+    {
+      "english": "When the going gets tough, tough get going.",
+      "hindi": "जब मुश्किल हो, तब और मज़बूत बनो।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223032"
+    },
+    {
+      "english": "Keep digging, treasure awaits.",
+      "hindi": "खोदते रहो, खज़ाना इंतज़ार कर रहा है।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223034"
+    },
+    {
+      "english": "Don't get discouraged, keep pushing.",
+      "hindi": "निराश मत हो, आगे बढ़ते रहो।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223037"
+    },
+    {
+      "english": "Even mountains, move slowly.",
+      "hindi": "पहाड़ भी, धीरे-धीरे हिलते हैं।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223039"
+    },
+    {
+      "english": "Hold on, brighter days ahead.",
+      "hindi": "रुके रहो, अच्छे दिन आने वाले हैं।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223041"
+    },
+    {
+      "english": "A little progress, each day.",
+      "hindi": "हर दिन, थोड़ा-थोड़ा सुधार।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223043"
+    },
+    {
+      "english": "The storm, will eventually pass.",
+      "hindi": "तूफ़ान, आखिर गुज़र ही जाएगा।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223046"
+    },
+    {
+      "english": "Don't get stuck, keep moving.",
+      "hindi": "अटके मत रहो, चलते रहो।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223049"
+    },
+    {
+      "english": "Patience is a virtue, remember that.",
+      "hindi": "धैर्य एक गुण है, याद रखना।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223051"
+    },
+    {
+      "english": "Fall seven times, stand up eight.",
+      "hindi": "सात बार गिरो, आठ बार उठो।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223054"
+    },
+    {
+      "english": "Keep the faith, strong and alive.",
+      "hindi": "विश्वास रखो, मज़बूत और ज़िंदा।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223057"
+    },
+    {
+      "english": "Inch by inch, life is a cinch.",
+      "hindi": "धीरे-धीरे, ज़िंदगी आसान है।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223059"
+    },
+    {
+      "english": "Don't look back, keep forward.",
+      "hindi": "पीछे मुड़कर मत देखो, आगे बढ़ो।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223063"
+    },
+    {
+      "english": "The end justifies, the means.",
+      "hindi": "अंत, साधनों को सही ठहराता है।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223065"
+    },
+    {
+      "english": "Your effort, is not in vain.",
+      "hindi": "तुम्हारी मेहनत, बेकार नहीं जाएगी।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223075"
+    },
+    {
+      "english": "Don't give up, the dawn will break.",
+      "hindi": "हार मत मानो, सुबह ज़रूर होगी।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223080"
+    },
+    {
+      "english": "Keep your spirit, burning bright.",
+      "hindi": "अपनी आत्मा को, जलता हुआ रखो।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223083"
+    },
+    {
+      "english": "The path may be long, but worth it.",
+      "hindi": "रास्ता लम्बा हो सकता है, पर इसके लायक है।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223085"
+    },
+    {
+      "english": "Keep pushing, the finish line nears.",
+      "hindi": "धक्का देते रहो, अंत करीब आ रहा है।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223087"
+    },
+    {
+      "english": "My heart feels, a bit tired, you know?",
+      "hindi": "मेरा दिल, थोड़ा थका हुआ महसूस कर रहा है, पता है?",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223090"
+    },
+    {
+      "english": "Sometimes, I just need, a moment of peace.",
+      "hindi": "कभी-कभी, मुझे बस चाहिए, शांति का एक पल।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223093"
+    },
+    {
+      "english": "Honestly, I'm not sure, what comes next.",
+      "hindi": "ईमानदारी से, मुझे यकीन नहीं है, आगे क्या होगा।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223095"
+    },
+    {
+      "english": "It's hard, but I'm trying, my best.",
+      "hindi": "यह मुश्किल है, पर मैं कोशिश कर रही हूँ, अपना सर्वश्रेष्ठ।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223098"
+    },
+    {
+      "english": "I'm learning, to be kinder, to myself.",
+      "hindi": "मैं सीख रही हूँ, खुद के प्रति, अधिक दयालु बनना।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223101"
+    },
+    {
+      "english": "This journey, has its ups and downs.",
+      "hindi": "इस यात्रा के, अपने उतार-चढ़ाव हैं।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223103"
+    },
+    {
+      "english": "I feel the weight, but I'll carry on.",
+      "hindi": "मुझे वज़न महसूस हो रहा है, पर मैं आगे बढ़ूँगी।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223106"
+    },
+    {
+      "english": "My emotions, are valid, you see.",
+      "hindi": "मेरी भावनाएँ, मान्य हैं, आप देखिए।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223108"
+    },
+    {
+      "english": "Letting go, is also a form, of strength.",
+      "hindi": "छोड़ना भी, एक प्रकार की, ताकत है।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223111"
+    },
+    {
+      "english": "I'm finding strength, within myself.",
+      "hindi": "मैं अपने अंदर, शक्ति पा रही हूँ।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223114"
+    },
+    {
+      "english": "This quiet strength, it's growing.",
+      "hindi": "यह शांत शक्ति, यह बढ़ रही है।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223116"
+    },
+    {
+      "english": "My feelings, are complex, sometimes.",
+      "hindi": "मेरी भावनाएँ, कभी-कभी, जटिल होती हैं।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223118"
+    },
+    {
+      "english": "My heart whispers, 'keep going'.",
+      "hindi": "मेरा दिल फुसफुसाता है, 'चलते रहो'।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223121"
+    },
+    {
+      "english": "I'm reflecting, on my progress.",
+      "hindi": "मैं अपने प्रगति पर, विचार कर रही हूँ।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223124"
+    },
+    {
+      "english": "This vulnerability, it feels real.",
+      "hindi": "यह भेद्यता, यह वास्तविक लगती है।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223126"
+    },
+    {
+      "english": "I’m exploring, my inner world.",
+      "hindi": "मैं अपनी आंतरिक दुनिया, खोज रही हूँ।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223129"
+    },
+    {
+      "english": "My soul needs, a gentle touch.",
+      "hindi": "मेरी आत्मा को, एक कोमल स्पर्श चाहिए।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223131"
+    },
+    {
+      "english": "I'm finding peace, in the quiet.",
+      "hindi": "मैं शांति पा रही हूँ, खामोशी में।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223134"
+    },
+    {
+      "english": "This feeling, is temporary, I know.",
+      "hindi": "यह भावना, अस्थायी है, मैं जानती हूँ।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223136"
+    },
+    {
+      "english": "My spirit, is learning, to be patient.",
+      "hindi": "मेरी आत्मा, धैर्य रखना, सीख रही है।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223139"
+    },
+    {
+      "english": "I’m accepting, where I am now.",
+      "hindi": "मैं स्वीकार कर रही हूँ, जहाँ मैं अभी हूँ।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223142"
+    },
+    {
+      "english": "This struggle, it shapes me, you see.",
+      "hindi": "यह संघर्ष, मुझे आकार देता है, आप देखिए।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223151"
+    },
+    {
+      "english": "My heart needs, honesty, always.",
+      "hindi": "मेरे दिल को, हमेशा, ईमानदारी चाहिए।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223158"
+    },
+    {
+      "english": "I feel hopeful, deep inside.",
+      "hindi": "मुझे उम्मीद महसूस हो रही है, अंदर गहराई से।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223161"
+    },
+    {
+      "english": "This quiet determination, it’s powerful.",
+      "hindi": "यह शांत दृढ़ संकल्प, यह शक्तिशाली है।",
+      "category": "Perseverance",
+      "generated_at": "2026-11-02T10:21:39.223166"
     }
   ],
-  "last_updated": "2026-11-01T09:56:53.998154"
+  "last_updated": "2026-11-02T10:21:39.223169"
 }
