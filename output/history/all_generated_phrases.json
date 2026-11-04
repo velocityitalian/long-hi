@@ -12239,7 +12239,727 @@
       "hindi": "अपना दिन शुरू करो, एक अच्छी मंशा से।",
       "category": "Happiness",
       "generated_at": "2026-11-03T10:23:32.624736"
+    },
+    {
+      "english": "Okay, I’ll do it, no worries.",
+      "hindi": "ठीक है, मैं करूँगा, कोई बात नहीं।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381096"
+    },
+    {
+      "english": "Wish me luck, I’m going in.",
+      "hindi": "मेरे लिए शुभकामनाएँ, मैं जा रहा हूँ।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381109"
+    },
+    {
+      "english": "I’m nervous, but I’ll try.",
+      "hindi": "मैं घबराया हूँ, लेकिन कोशिश करूँगा।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381113"
+    },
+    {
+      "english": "Come on, I can handle this.",
+      "hindi": "चलो, मैं इसे संभाल सकता हूँ।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381117"
+    },
+    {
+      "english": "Just breathe, say it, go!",
+      "hindi": "बस साँस लो, बोलो, चलो!",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381120"
+    },
+    {
+      "english": "I won’t back down, not today.",
+      "hindi": "मैं पीछे नहीं हटूँगा, आज नहीं।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381125"
+    },
+    {
+      "english": "If it’s scary, I’ll face it.",
+      "hindi": "अगर डर लगे, मैं सामना करूँगा।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381129"
+    },
+    {
+      "english": "I’m not stopping, even if it’s hard.",
+      "hindi": "मैं नहीं रुकूँगा, चाहे मुश्किल हो।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381135"
+    },
+    {
+      "english": "Really? I’ll try anyway, okay?",
+      "hindi": "सच में? फिर भी मैं कोशिश करूँगा, ठीक है?",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381140"
+    },
+    {
+      "english": "I can’t do it alone, but I’ll start.",
+      "hindi": "मैं अकेले नहीं कर सकता, पर शुरू करूँगा।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381144"
+    },
+    {
+      "english": "Today I speak up, no hiding.",
+      "hindi": "आज मैं बोलूँगा, छुपूँगा नहीं।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381147"
+    },
+    {
+      "english": "I messed up, but I’ll recover.",
+      "hindi": "गलती हो गई, पर मैं संभल जाऊँगा।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381150"
+    },
+    {
+      "english": "No drama, I’ll stay calm.",
+      "hindi": "कोई ड्रामा नहीं, मैं शांत रहूँगा।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381154"
+    },
+    {
+      "english": "One step now, courage later.",
+      "hindi": "पहले एक कदम, बाद में हिम्मत।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381156"
+    },
+    {
+      "english": "I’m doing it, even with jitters.",
+      "hindi": "मैं कर रहा हूँ, घबराहट के बावजूद।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381160"
+    },
+    {
+      "english": "Don’t panic, we’ve got this.",
+      "hindi": "घबराओ मत, हम कर लेंगे।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381163"
+    },
+    {
+      "english": "I’ll own my choice, whatever happens.",
+      "hindi": "मैं अपने फैसले को अपनाऊँगा, जो भी हो।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381166"
+    },
+    {
+      "english": "Let’s go, I’m ready.",
+      "hindi": "चलो, मैं तैयार हूँ।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381170"
+    },
+    {
+      "english": "I’ll try again, promise.",
+      "hindi": "मैं फिर कोशिश करूँगा, वादा।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381173"
+    },
+    {
+      "english": "Stop overthinking, just move.",
+      "hindi": "ओवरथिंक बंद करो, बस आगे बढ़ो।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381176"
+    },
+    {
+      "english": "Small talk later, I’ll be brave now.",
+      "hindi": "छोटी बातें बाद में, अब मैं बहादुर हूँ।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381179"
+    },
+    {
+      "english": "I’m scared, but I won’t freeze.",
+      "hindi": "मुझे डर है, लेकिन मैं जमूँगा नहीं।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381183"
+    },
+    {
+      "english": "Thanks for waiting, I’m coming.",
+      "hindi": "रुकने के लिए धन्यवाद, मैं आ रहा हूँ।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381186"
+    },
+    {
+      "english": "I’ll say it straight, politely.",
+      "hindi": "मैं साफ-साफ कहूँगा, शालीनता से।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381189"
+    },
+    {
+      "english": "I can handle the awkward moment.",
+      "hindi": "मैं उस अजीब पल को संभाल लूँगा।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381192"
+    },
+    {
+      "english": "No excuses, I’ll show up.",
+      "hindi": "कोई बहाना नहीं, मैं पहुँचूँगा।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381197"
+    },
+    {
+      "english": "I’ll deal with it, one by one.",
+      "hindi": "मैं इसे संभाल लूँगा, एक-एक करके।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381200"
+    },
+    {
+      "english": "I’m taking the risk, let’s do.",
+      "hindi": "मैं जोखिम ले रहा हूँ, चलो करते हैं।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381205"
+    },
+    {
+      "english": "If you fall, stand back up.",
+      "hindi": "अगर गिरो, तो फिर उठो।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381208"
+    },
+    {
+      "english": "I’m proud of myself, keep going.",
+      "hindi": "मुझे अपने ऊपर गर्व है, आगे बढ़ो।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381211"
+    },
+    {
+      "english": "What’s the kindest next step, in Hindi?",
+      "hindi": "Hindi में, सबसे पहला अच्छा कदम क्या है?",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381215"
+    },
+    {
+      "english": "Can you help me ask this politely?",
+      "hindi": "क्या आप मुझे इसे विनम्रता से पूछना सिखा सकते हैं?",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381218"
+    },
+    {
+      "english": "Should I practice first, or speak now?",
+      "hindi": "मुझे पहले अभ्यास करना चाहिए, या अभी बोलूँ?",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381221"
+    },
+    {
+      "english": "When do I use 'aap', and 'tum'?",
+      "hindi": "मैं 'aap' और 'tum' कब इस्तेमाल करूँ?",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381224"
+    },
+    {
+      "english": "How do I say, 'I need a moment'?",
+      "hindi": "मैं 'मुझे एक पल चाहिए' कैसे कहूँ?",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381230"
+    },
+    {
+      "english": "Do you have any advice for beginners?",
+      "hindi": "शुरुआत करने वालों के लिए आपके पास कोई सलाह है?",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381232"
+    },
+    {
+      "english": "What should I answer, if I freeze?",
+      "hindi": "अगर मैं रुक जाऊँ, तो मुझे क्या जवाब देना चाहिए?",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381235"
+    },
+    {
+      "english": "Could you repeat that, a little slower?",
+      "hindi": "क्या आप वो फिर से बोल सकते हैं, थोड़ा धीरे?",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381238"
+    },
+    {
+      "english": "Is it okay, to ask for clarification?",
+      "hindi": "स्पष्टीकरण माँगना ठीक है?",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381241"
+    },
+    {
+      "english": "What’s a simple way to start a chat?",
+      "hindi": "बातचीत शुरू करने का आसान तरीका क्या है?",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381244"
+    },
+    {
+      "english": "Can I get your feedback, please?",
+      "hindi": "क्या आप मुझे अपना फीडबैक दे सकते हैं, प्लीज़?",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381247"
+    },
+    {
+      "english": "How can I sound more confident, naturally?",
+      "hindi": "मैं स्वाभाविक रूप से ज्यादा आत्मविश्वासी कैसे लगूँ?",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381250"
+    },
+    {
+      "english": "Should I ask questions, or just listen?",
+      "hindi": "क्या मुझे सवाल पूछने चाहिए, या बस सुनना चाहिए?",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381252"
+    },
+    {
+      "english": "What’s the best question to break the ice?",
+      "hindi": "बर्फ तोड़ने के लिए सबसे अच्छा सवाल क्या है?",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381256"
+    },
+    {
+      "english": "Can you correct my sentence, gently?",
+      "hindi": "क्या आप मेरी वाक्य को धीरे से सही कर देंगे?",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381258"
+    },
+    {
+      "english": "Where do I place 'please' in Hindi?",
+      "hindi": "मैं 'प्लीज़' हिंदी में कहाँ लगाऊँ?",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381261"
+    },
+    {
+      "english": "What if I don’t understand, should I ask?",
+      "hindi": "अगर मुझे समझ न आए, तो क्या मैं पूछूँ?",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381265"
+    },
+    {
+      "english": "Can we practice a short dialogue together?",
+      "hindi": "क्या हम साथ में एक छोटा डायलॉग प्रैक्टिस करें?",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381267"
+    },
+    {
+      "english": "Would you mind speaking one more time?",
+      "hindi": "क्या आप एक बार और बोलेंगे?",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381270"
+    },
+    {
+      "english": "Which words should I memorize first, please?",
+      "hindi": "पहले कौन से शब्द याद करूँ, प्लीज़?",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381273"
+    },
+    {
+      "english": "How do I politely disagree in Hindi?",
+      "hindi": "मैं हिंदी में विनम्र तरीके से असहमति कैसे दिखाऊँ?",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381276"
+    },
+    {
+      "english": "What’s your suggestion for improving daily?",
+      "hindi": "रोज़ बेहतर होने के लिए आपकी क्या सलाह है?",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381279"
+    },
+    {
+      "english": "Can you teach me, in a simple way?",
+      "hindi": "क्या आप मुझे आसान तरीके से सिखा सकते हैं?",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381282"
+    },
+    {
+      "english": "What should I say when I’m unsure?",
+      "hindi": "जब मुझे पक्का नहीं पता हो, तो मुझे क्या कहना चाहिए?",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381285"
+    },
+    {
+      "english": "Do you think this question sounds okay?",
+      "hindi": "क्या आपको लगता है, यह सवाल सही लगता है?",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381287"
+    },
+    {
+      "english": "Can we make it shorter, so I manage?",
+      "hindi": "क्या हम इसे छोटा कर सकते हैं, ताकि मैं कर सकूँ?",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381290"
+    },
+    {
+      "english": "What topic should I ask about first?",
+      "hindi": "पहले मुझे किस विषय पर पूछना चाहिए?",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381293"
+    },
+    {
+      "english": "How do I ask for help, without sounding rude?",
+      "hindi": "मैं मदद कैसे माँगूँ, बिना रूखे लगे?",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381296"
+    },
+    {
+      "english": "Can you give me one example sentence?",
+      "hindi": "क्या आप मुझे एक उदाहरण वाक्य दे सकते हैं?",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381298"
+    },
+    {
+      "english": "What’s the fastest way to build courage?",
+      "hindi": "हिम्मत बढ़ाने का सबसे तेज़ तरीका क्या है?",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381303"
+    },
+    {
+      "english": "Darna kya, kaam pe lag jao, yaar.",
+      "hindi": "डरना क्या, काम पे लग जाओ, यार।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381306"
+    },
+    {
+      "english": "Aage badho, darr ko side karo.",
+      "hindi": "आगे बढ़ो, डर को साइड करो।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381309"
+    },
+    {
+      "english": "Himmat rakho, sab theek ho jayega.",
+      "hindi": "हिम्मत रखो, सब ठीक हो जाएगा।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381312"
+    },
+    {
+      "english": "Jaisi soch, waisi himmat, bas try karo.",
+      "hindi": "जैसी सोच, वैसी हिम्मत, बस ट्राय करो।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381315"
+    },
+    {
+      "english": "Rukna nahi, aaj hi nikal pado.",
+      "hindi": "रुकना नहीं, आज ही निकल पड़ो।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381318"
+    },
+    {
+      "english": "Der kis baat ki, abhi bol do.",
+      "hindi": "डेर किस बात की, अभी बोल दो।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381321"
+    },
+    {
+      "english": "Chalo, himmat se kaam shuru karte hain.",
+      "hindi": "चलो, हिम्मत से काम शुरू करते हैं।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381323"
+    },
+    {
+      "english": "Bas thoda sa zor, phir sab easy.",
+      "hindi": "बस थोड़ा सा जोर, फिर सब आसान।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381326"
+    },
+    {
+      "english": "Dil bada rakho, dar ko mat ghusne do.",
+      "hindi": "दिल बड़ा रखो, डर को मत घुसने दो।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381329"
+    },
+    {
+      "english": "Ghabrao mat, sabr se nikal jaoge.",
+      "hindi": "घबराओ मत, सब्र से निकल जाओगे।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381332"
+    },
+    {
+      "english": "Jo hona hai, hoga, tum chalo aage.",
+      "hindi": "जो होना है, होगा, तुम चलो आगे।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381335"
+    },
+    {
+      "english": "Zindagi ek baar hai, try karke dekho.",
+      "hindi": "ज़िंदगी एक बार है, ट्राय करके देखो।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381338"
+    },
+    {
+      "english": "Aasman chhoona hai, base line se start karo.",
+      "hindi": "आसमान छूना है, बेस लाइन से शुरू करो।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381341"
+    },
+    {
+      "english": "Dar hat, kaam jit—pehle try, phir proof.",
+      "hindi": "डर हट, काम जीत—पहले ट्राय, फिर प्रूफ।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381344"
+    },
+    {
+      "english": "Haar se mat daro, seekh ke aage badho.",
+      "hindi": "हार से मत डरो, सीख के आगे बढ़ो।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381347"
+    },
+    {
+      "english": "Jyada socho mat, step lo, phir dekho.",
+      "hindi": "ज्यादा सोचो मत, स्टेप लो, फिर देखो।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381350"
+    },
+    {
+      "english": "Aankh mein ankhen, bol do, ho jayega.",
+      "hindi": "आँख में आँखें, बोल दो, हो जाएगा।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381356"
+    },
+    {
+      "english": "Hausla rakho, waqt apna rasta banata hai.",
+      "hindi": "हौसला रखो, वक़्त अपना रास्ता बनाता है।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381359"
+    },
+    {
+      "english": "Aaj ka darr, kal ka sabak banega.",
+      "hindi": "आज का डर, कल का सबक बनेगा।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381362"
+    },
+    {
+      "english": "Jhukna padta hai, par rukhna nahi.",
+      "hindi": "झुकना पड़ता है, पर रुकना नहीं।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381365"
+    },
+    {
+      "english": "Chinta chhodo, focus banao, kaam karo.",
+      "hindi": "चिंता छोड़ो, फोकस बनाओ, काम करो।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381368"
+    },
+    {
+      "english": "Agar dil kahe, wahi sahi hai.",
+      "hindi": "अगर दिल कहे, वही सही है।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381371"
+    },
+    {
+      "english": "Bas ek baar, fir se himmat juta.",
+      "hindi": "बस एक बार, फिर से हिम्मत जुटा।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381373"
+    },
+    {
+      "english": "Jo karna hai karo, baad mein plan.",
+      "hindi": "जो करना है करो, बाद में प्लान।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381376"
+    },
+    {
+      "english": "Zubaan kholo, darr khud piche hat jaye.",
+      "hindi": "ज़ुबान खोलो, डर खुद पीछे हट जाए।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381379"
+    },
+    {
+      "english": "Matlab pe aao, bas koshish karo.",
+      "hindi": "मतलब पे आओ, बस कोशिश करो।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381381"
+    },
+    {
+      "english": "Sahi waqt ka wait nahi, apna waqt banao.",
+      "hindi": "सही वक्त का वेट नहीं, अपना वक्त बनाओ।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381384"
+    },
+    {
+      "english": "Jeet chhoti ho ya badi, try zaroor.",
+      "hindi": "जीत छोटी हो या बड़ी, ट्राय ज़रूर।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381387"
+    },
+    {
+      "english": "Dar ke aage, josh ko saath rakho.",
+      "hindi": "डर के आगे, जोश को साथ रखो।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381390"
+    },
+    {
+      "english": "Kal pe chhodo, aaj hi himmat banao.",
+      "hindi": "कल पे छोड़ो, आज ही हिम्मत बनाओ।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381392"
+    },
+    {
+      "english": "I’m scared, but I’ll say it anyway.",
+      "hindi": "मैं डर रहा/रही हूँ, पर फिर भी कहूँगा/कहूँगी।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381398"
+    },
+    {
+      "english": "My heart shakes, yet my voice stays steady.",
+      "hindi": "मेरा दिल कांपता है, लेकिन मेरी आवाज़ स्थिर रहती है।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381403"
+    },
+    {
+      "english": "Today, I’m honest about my fear.",
+      "hindi": "आज मैं अपने डर के बारे में ईमानदार हूँ।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381406"
+    },
+    {
+      "english": "It’s okay to feel nervous, just breathe.",
+      "hindi": "घबराना ठीक है, बस सांस लो।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381410"
+    },
+    {
+      "english": "I won’t pretend, I’ll handle it slowly.",
+      "hindi": "मैं दिखावा नहीं करूँगा/करूँगी, धीरे-धीरे संभालूँगा/संभालूँगी।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381413"
+    },
+    {
+      "english": "Even small progress feels like courage.",
+      "hindi": "छोटी-छोटी प्रगति भी हिम्मत लगती है।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381417"
+    },
+    {
+      "english": "I’ll pause, reflect, then take one step.",
+      "hindi": "मैं रुकूँगा/रुकूँगी, सोचूँगा/सोचूँगी, फिर एक कदम लूँगा/लूँगी।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381420"
+    },
+    {
+      "english": "I respect my pace, courage isn’t rush.",
+      "hindi": "मैं अपनी रफ़्तार का सम्मान करता/करती हूँ, हिम्मत में जल्दी नहीं।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381424"
+    },
+    {
+      "english": "I can be brave and still be tender.",
+      "hindi": "मैं बहादुर भी रह सकता/सकती हूँ, और संवेदनशील भी।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381428"
+    },
+    {
+      "english": "I don’t need confidence first, I need practice.",
+      "hindi": "मुझे पहले कॉन्फिडेंस नहीं, पहले प्रैक्टिस चाहिए।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381432"
+    },
+    {
+      "english": "When I stumble, I’ll try again softly.",
+      "hindi": "मैं ठोकर खाऊँ, तो भी धीरे से फिर कोशिश करूँगा/करूँगी।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381435"
+    },
+    {
+      "english": "My fear is loud, but my goals are louder.",
+      "hindi": "मेरा डर तेज़ है, लेकिन मेरे लक्ष्य उससे ज़्यादा तेज़ हैं।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381438"
+    },
+    {
+      "english": "I’ll tell myself, ‘It’s just a phase.’",
+      "hindi": "मैं खुद से कहूँगा/कहूँगी, ‘ये बस एक दौर है।’",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381441"
+    },
+    {
+      "english": "I’m learning to be honest, not fearless.",
+      "hindi": "मैं निडर बनना नहीं, सच बोलना सीख रहा/रही हूँ।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381445"
+    },
+    {
+      "english": "My courage grows when I stay present.",
+      "hindi": "जब मैं पल में रहता/रहती हूँ, मेरी हिम्मत बढ़ती है।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381448"
+    },
+    {
+      "english": "I can cry, and still move forward.",
+      "hindi": "मैं रो सकता/सकती हूँ, फिर भी आगे बढ़ सकता/सकती हूँ।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381451"
+    },
+    {
+      "english": "I trust myself more than my panic.",
+      "hindi": "मैं अपनी समझ पर भरोसा करता/करती हूँ, घबराहट से ज़्यादा।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381453"
+    },
+    {
+      "english": "Let me be calm, then I’ll speak.",
+      "hindi": "पहले मैं शांत रहूँ, फिर मैं बोलूँगा/बोलूँगी।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381457"
+    },
+    {
+      "english": "I won’t judge my feelings, I’ll guide them.",
+      "hindi": "मैं अपने एहसासों को जज नहीं करूँगा/करूँगी, मैं उन्हें दिशा दूँगा/दूँगी।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381460"
+    },
+    {
+      "english": "Sometimes the brave thing is waiting.",
+      "hindi": "कभी-कभी बहादुरी, बस इंतज़ार करना होती है।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381463"
+    },
+    {
+      "english": "I’ll admit I’m unsure, then decide.",
+      "hindi": "मैं मान लूँगा/मान लूँगी कि मुझे नहीं पता, फिर फैसला करूँगा/करूँगी।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381466"
+    },
+    {
+      "english": "Even silence can be my courage.",
+      "hindi": "चुप्पी भी मेरी हिम्मत बन सकती है।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381469"
+    },
+    {
+      "english": "I’ll protect my peace, by speaking softly.",
+      "hindi": "मैं अपनी शांति की रक्षा करूँगा/करूँगी, धीरे से बोलकर।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381472"
+    },
+    {
+      "english": "I’m proud I showed up, even shaky.",
+      "hindi": "मुझे गर्व है कि मैं आया/आई, भले ही मैं डगमगा रहा/रही था/थी।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381475"
+    },
+    {
+      "english": "I’ll breathe first, then choose the right words.",
+      "hindi": "पहले मैं सांस लूँगा/लूँगी, फिर सही शब्द चुनूँगा/चुनूँगी।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381479"
+    },
+    {
+      "english": "My courage is learning, not being perfect.",
+      "hindi": "मेरी हिम्मत सीखना है, परफेक्ट होना नहीं।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381482"
+    },
+    {
+      "english": "I’ll say the truth, even if it hurts.",
+      "hindi": "मैं सच कहूँगा/कहूँगी, भले ही दर्द हो।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381487"
+    },
+    {
+      "english": "I can’t control fear, but I can act.",
+      "hindi": "मैं डर को कंट्रोल नहीं कर सकता/सकती, पर मैं काम कर सकता/सकती हूँ।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381491"
+    },
+    {
+      "english": "I stay patient, progress comes in its time.",
+      "hindi": "मैं धैर्य रखता/रखती हूँ, प्रगति अपने समय पर आती है।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381494"
+    },
+    {
+      "english": "Let me be brave, one honest moment at once.",
+      "hindi": "मैं बहादुर रहूँ, एक-एक ईमानदार पल करके।",
+      "category": "Courage",
+      "generated_at": "2026-11-04T10:14:47.381497"
     }
   ],
-  "last_updated": "2026-11-03T10:23:32.624738"
+  "last_updated": "2026-11-04T10:14:47.381499"
 }
