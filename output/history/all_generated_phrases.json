@@ -12959,7 +12959,727 @@
       "hindi": "मैं बहादुर रहूँ, एक-एक ईमानदार पल करके।",
       "category": "Courage",
       "generated_at": "2026-11-04T10:14:47.381497"
+    },
+    {
+      "english": "I need cash, right now, please.",
+      "hindi": "मुझे अभी कैश चाहिए, प्लीज़।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930227"
+    },
+    {
+      "english": "Is there an ATM nearby, please?",
+      "hindi": "क्या पास में एटीएम है, प्लीज़?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930242"
+    },
+    {
+      "english": "My card is not working, what now?",
+      "hindi": "मेरी कार्ड काम नहीं कर रही, अब क्या करें?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930246"
+    },
+    {
+      "english": "Please check my balance, quickly.",
+      "hindi": "कृपया मेरा बैलेंस जल्दी चेक करिए।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930248"
+    },
+    {
+      "english": "Did the payment go through, or not?",
+      "hindi": "पेमेंट हो गई, या नहीं?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930251"
+    },
+    {
+      "english": "I got charged extra, why?",
+      "hindi": "मुझसे ज़्यादा कट गया, क्यों?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930253"
+    },
+    {
+      "english": "Show me the mini statement, please.",
+      "hindi": "मुझे मिनी स्टेटमेंट दिखाइए, प्लीज़।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930256"
+    },
+    {
+      "english": "I want to deposit cash, today.",
+      "hindi": "मुझे आज कैश जमा करना है।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930260"
+    },
+    {
+      "english": "Can I transfer money right now?",
+      "hindi": "क्या मैं अभी पैसे ट्रांसफर कर सकता/सकती हूँ?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930263"
+    },
+    {
+      "english": "Wait, did you send it already?",
+      "hindi": "रुको, क्या आपने भेज दिया?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930265"
+    },
+    {
+      "english": "Where did my money go, honestly?",
+      "hindi": "मेरे पैसे कहाँ चले गए, सच में?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930267"
+    },
+    {
+      "english": "This transaction seems suspicious, stop.",
+      "hindi": "ये ट्रांजैक्शन शक वाला लग रहा है, रोकिए।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930270"
+    },
+    {
+      "english": "I need change, I don't have small bills.",
+      "hindi": "मेरे पास छोटे पैसे नहीं हैं, चेंज चाहिए।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930272"
+    },
+    {
+      "english": "Please reduce the fees, if possible.",
+      "hindi": "कृपया फीस कम कर दीजिए, अगर हो सके।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930274"
+    },
+    {
+      "english": "Is this interest rate fixed, or variable?",
+      "hindi": "ये ब्याज दर फिक्स है, या बदलती है?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930277"
+    },
+    {
+      "english": "How long will the refund take?",
+      "hindi": "रिफंड आने में कितना समय लगेगा?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930279"
+    },
+    {
+      "english": "I paid by UPI, it should work.",
+      "hindi": "मैंने UPI से भुगतान किया है, चलना चाहिए।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930281"
+    },
+    {
+      "english": "My UPI PIN is wrong, again.",
+      "hindi": "मेरा UPI पिन फिर गलत हो गया।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930283"
+    },
+    {
+      "english": "Don't worry, it will reverse automatically.",
+      "hindi": "चिंता मत करो, ये अपने आप रिवर्स हो जाएगा।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930285"
+    },
+    {
+      "english": "Can I block this card immediately?",
+      "hindi": "क्या मैं ये कार्ड तुरंत ब्लॉक कर सकता/सकती हूँ?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930287"
+    },
+    {
+      "english": "I need a new debit card, please.",
+      "hindi": "मुझे नया डेबिट कार्ड चाहिए, प्लीज़।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930289"
+    },
+    {
+      "english": "What is the daily withdrawal limit?",
+      "hindi": "दैनिक कैश निकालने की लिमिट क्या है?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930291"
+    },
+    {
+      "english": "I forgot my PIN, how can I reset?",
+      "hindi": "मेरा पिन भूल गया, मैं कैसे रीसेट करूँ?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930293"
+    },
+    {
+      "english": "Let's check your account activity once.",
+      "hindi": "चलो, एक बार खाते की एक्टिविटी देख लेते हैं।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930296"
+    },
+    {
+      "english": "I’m short on cash, can you wait?",
+      "hindi": "मेरे पास कैश कम है, क्या आप रुक सकते हैं?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930301"
+    },
+    {
+      "english": "That ATM ate my card, seriously!",
+      "hindi": "ये एटीएम ने मेरा कार्ड खा लिया, सच में!",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930303"
+    },
+    {
+      "english": "Can you resend the payment receipt?",
+      "hindi": "क्या आप पेमेंट की रसीद फिर भेज सकते हैं?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930305"
+    },
+    {
+      "english": "I got an SMS, is it real?",
+      "hindi": "मुझे SMS आया है, क्या वो असली है?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930307"
+    },
+    {
+      "english": "Please tell me the exact charges.",
+      "hindi": "कृपया मुझे सटीक चार्जेज़ बताइए।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930309"
+    },
+    {
+      "english": "Let's save money, not waste it.",
+      "hindi": "पैसे बचाते हैं, बेकार नहीं करते।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930311"
+    },
+    {
+      "english": "How do I check my bank statement here?",
+      "hindi": "मैं यहाँ अपना बैंक स्टेटमेंट कैसे देखूँ?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930316"
+    },
+    {
+      "english": "What documents do I need for a bank account?",
+      "hindi": "बैंक खाता खोलने के लिए क्या-क्या दस्तावेज़ चाहिए?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930318"
+    },
+    {
+      "english": "Can you explain this interest calculation, please?",
+      "hindi": "क्या आप यह ब्याज का हिसाब समझा सकते हैं?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930320"
+    },
+    {
+      "english": "Is there a minimum balance requirement?",
+      "hindi": "क्या न्यूनतम बैलेंस रखना ज़रूरी है?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930322"
+    },
+    {
+      "english": "Which account is best for salary payments?",
+      "hindi": "सैलरी के लिए कौन सा खाता सबसे अच्छा है?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930325"
+    },
+    {
+      "english": "Do you offer zero-balance accounts for students?",
+      "hindi": "क्या आप छात्रों के लिए ज़ीरो-बैलेंस खाता देते हैं?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930328"
+    },
+    {
+      "english": "How can I link my phone number to my account?",
+      "hindi": "मैं अपने फोन नंबर को खाते से कैसे लिंक करूँ?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930330"
+    },
+    {
+      "english": "Can I set up alerts for every transaction?",
+      "hindi": "क्या मैं हर ट्रांज़ैक्शन के लिए अलर्ट सेट कर सकता हूँ?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930332"
+    },
+    {
+      "english": "What’s the difference between savings and current account?",
+      "hindi": "सेविंग अकाउंट और करेंट अकाउंट में क्या फर्क है?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930337"
+    },
+    {
+      "english": "Is there any charge for online banking?",
+      "hindi": "ऑनलाइन बैंकिंग के लिए कोई शुल्क है?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930341"
+    },
+    {
+      "english": "How do I activate mobile banking?",
+      "hindi": "मैं मोबाइल बैंकिंग कैसे चालू करूँ?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930343"
+    },
+    {
+      "english": "What happens if I pay a bill late?",
+      "hindi": "अगर मैं बिल देर से भरूँ, तो क्या होता है?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930346"
+    },
+    {
+      "english": "Can I ask for a loan pre-approval?",
+      "hindi": "क्या मैं लोन के लिए प्री-अप्रूवल ले सकता हूँ?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930348"
+    },
+    {
+      "english": "What documents are needed for a personal loan?",
+      "hindi": "पर्सनल लोन के लिए कौन से दस्तावेज़ चाहिए?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930350"
+    },
+    {
+      "english": "How much EMI can I comfortably afford?",
+      "hindi": "मैं आराम से कितना EMI दे सकता हूँ?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930352"
+    },
+    {
+      "english": "Is processing fee charged upfront?",
+      "hindi": "प्रोसेसिंग फीस पहले ही कटती है?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930354"
+    },
+    {
+      "english": "Can I increase my credit limit later?",
+      "hindi": "क्या बाद में मैं क्रेडिट लिमिट बढ़ा सकता हूँ?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930357"
+    },
+    {
+      "english": "What’s the due date for my card payment?",
+      "hindi": "मेरे कार्ड की पेमेंट की ड्यू डेट क्या है?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930359"
+    },
+    {
+      "english": "If I pay partially, will interest apply?",
+      "hindi": "अगर मैं आंशिक भुगतान करूँ, तो ब्याज लगेगा?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930361"
+    },
+    {
+      "english": "Can you suggest the best savings plan?",
+      "hindi": "क्या आप मुझे सबसे अच्छा सेविंग प्लान सुझा सकते हैं?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930364"
+    },
+    {
+      "english": "Should I choose fixed deposit or recurring deposit?",
+      "hindi": "मुझे फिक्स्ड डिपॉज़िट चुनना चाहिए, या RD?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930366"
+    },
+    {
+      "english": "What’s the lock-in period for this scheme?",
+      "hindi": "इस स्कीम का लॉक-इन पीरियड कितना है?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930368"
+    },
+    {
+      "english": "Is this rate valid for the entire tenure?",
+      "hindi": "क्या यह दर पूरे समय के लिए वही रहती है?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930370"
+    },
+    {
+      "english": "How do I avoid hidden charges while transferring?",
+      "hindi": "ट्रांसफर करते समय मैं छुपे शुल्क कैसे टालूँ?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930372"
+    },
+    {
+      "english": "Can you confirm the beneficiary details for me?",
+      "hindi": "क्या आप मेरे लिए बेनेफिशियरी डिटेल्स कन्फर्म कर देंगे?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930374"
+    },
+    {
+      "english": "What’s your turnaround time for account opening?",
+      "hindi": "खाता खोलने में आपका समय कितना लगता है?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930377"
+    },
+    {
+      "english": "If I change jobs, what should I update?",
+      "hindi": "अगर मेरी नौकरी बदल जाए, तो मुझे क्या अपडेट करना होगा?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930379"
+    },
+    {
+      "english": "How can I upgrade my account limits safely?",
+      "hindi": "मैं अपनी अकाउंट लिमिट्स सुरक्षित कैसे अपग्रेड करूँ?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930381"
+    },
+    {
+      "english": "What’s the best way to save, without stress?",
+      "hindi": "बिना टेंशन, पैसे बचाने का सबसे अच्छा तरीका क्या है?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930384"
+    },
+    {
+      "english": "Let’s plan my finances together, what do you advise?",
+      "hindi": "चलो, मैं अपनी फाइनेंस प्लान करूँ, आप क्या सलाह देंगे?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930387"
+    },
+    {
+      "english": "Cash matters, but timing matters more.",
+      "hindi": "पैसा मायने रखता है, पर टाइमिंग ज़्यादा।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930389"
+    },
+    {
+      "english": "Pocket light, tension heavy, plan fast.",
+      "hindi": "जेब हल्की, टेंशन भारी, जल्दी प्लान।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930392"
+    },
+    {
+      "english": "Money comes in, but habits decide.",
+      "hindi": "पैसा आता है, पर आदतें तय करती हैं।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930397"
+    },
+    {
+      "english": "First pay yourself, then everything else.",
+      "hindi": "पहले खुद को पैसे दो, फिर बाकी।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930399"
+    },
+    {
+      "english": "Don’t burn the budget, control spending.",
+      "hindi": "बजट मत जलाओ, खर्च कंट्रोल करो।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930402"
+    },
+    {
+      "english": "Small leaks, big losses, plug now.",
+      "hindi": "छोटा रिसाव, बड़ा नुकसान, अब रोको।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930405"
+    },
+    {
+      "english": "Let savings grow, don’t touch it.",
+      "hindi": "बचत बढ़ने दो, हाथ मत लगाओ।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930407"
+    },
+    {
+      "english": "Pay on time, stay stress-free.",
+      "hindi": "समय पर भुगतान करो, टेंशन फ्री रहो।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930411"
+    },
+    {
+      "english": "If it’s urgent, pay now, else later.",
+      "hindi": "अगर ज़रूरी है तो अभी भुगतान, नहीं तो बाद में।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930414"
+    },
+    {
+      "english": "Keep track daily, don’t guess.",
+      "hindi": "हर दिन हिसाब रखो, अंदाज़ा मत लगाओ।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930417"
+    },
+    {
+      "english": "Borrow wisely, repay on time.",
+      "hindi": "सोच-समझकर उधार लो, समय पर लौटाओ।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930419"
+    },
+    {
+      "english": "Credit builds, but late hurts a lot.",
+      "hindi": "क्रेडिट बनता है, लेकिन देर से बहुत नुकसान।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930421"
+    },
+    {
+      "english": "Check the fine print, avoid surprises.",
+      "hindi": "बारीक शर्तें देखो, सरप्राइज़ से बचो।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930423"
+    },
+    {
+      "english": "Interest adds up, so compare rates.",
+      "hindi": "ब्याज जुड़ता जाता है, इसलिए रेट्स तुलना करो।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930425"
+    },
+    {
+      "english": "Don’t chase quick money, think long-term.",
+      "hindi": "जल्दी पैसे के पीछे मत भागो, लॉन्ग-टर्म सोचो।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930428"
+    },
+    {
+      "english": "Your bank balance is your real comfort.",
+      "hindi": "बैंक बैलेंस ही असली आराम है।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930431"
+    },
+    {
+      "english": "A penny saved is a rupee earned.",
+      "hindi": "एक पैसा बचाया, एक रुपया कमाया।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930433"
+    },
+    {
+      "english": "Don’t rely on luck, rely on cashflow.",
+      "hindi": "किस्मत पर नहीं, कैशफ्लो पर भरोसा।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930435"
+    },
+    {
+      "english": "When funds are tight, cut extra.",
+      "hindi": "जब पैसे तंग हों, तो बेकार खर्च काटो।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930438"
+    },
+    {
+      "english": "Keep receipts safe, they save you later.",
+      "hindi": "रसीदें संभालकर रखो, बाद में काम आएंगी।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930440"
+    },
+    {
+      "english": "No hurry, verify first, then transfer.",
+      "hindi": "जल्दी नहीं, पहले जांचो, फिर ट्रांसफर।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930442"
+    },
+    {
+      "english": "Set it aside today, thank yourself later.",
+      "hindi": "आज अलग रखो, बाद में खुद को धन्यवाद।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930444"
+    },
+    {
+      "english": "Paying small regularly builds big safety.",
+      "hindi": "छोटा-छोटा नियमित भुगतान, बड़ी सुरक्षा।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930446"
+    },
+    {
+      "english": "If you miss, regret grows, so act.",
+      "hindi": "चूक गए तो पछतावा बढ़ता है, इसलिए करो।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930448"
+    },
+    {
+      "english": "Too many EMIs, breathe slow, plan better.",
+      "hindi": "बहुत सारे EMI, धीरे सोचो, बेहतर प्लान।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930450"
+    },
+    {
+      "english": "Borrowed time is costly, manage it.",
+      "hindi": "उधार का समय महँगा पड़ता है, संभालो।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930453"
+    },
+    {
+      "english": "Risky offers? Distance yourself, think twice.",
+      "hindi": "जोखिम वाली ऑफर? दूर रहो, दो बार सोचो।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930455"
+    },
+    {
+      "english": "Rupee rolling means money working.",
+      "hindi": "रुपया घूम रहा है, मतलब पैसा काम कर रहा।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930457"
+    },
+    {
+      "english": "Keep it simple, save today for tomorrow.",
+      "hindi": "सादा रखो, आज बचाओ, कल के लिए।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930459"
+    },
+    {
+      "english": "I feel better when my bills are sorted, slowly.",
+      "hindi": "मेरे लिए अच्छा लगता है, जब बिल sorted हों, धीरे-धीरे।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930462"
+    },
+    {
+      "english": "Honestly, I’m learning patience with my money.",
+      "hindi": "ईमानदारी से, मैं अपने पैसे के साथ धैर्य सीख रहा/रही हूँ।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930465"
+    },
+    {
+      "english": "I overthink transfers, so I double-check everything.",
+      "hindi": "मैं transfers पर ज्यादा सोचता/सोचती हूँ, इसलिए सब दोबारा देखता/देखती हूँ।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930467"
+    },
+    {
+      "english": "It hurts a bit, but I’m saving anyway.",
+      "hindi": "थोड़ा दुख होता है, पर मैं फिर भी बचत कर रहा/रही हूँ।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930470"
+    },
+    {
+      "english": "I keep my emotions separate from my account.",
+      "hindi": "मैं अपनी भावनाएँ खाते से अलग रखता/रखती हूँ।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930474"
+    },
+    {
+      "english": "Some months, I choose calm over extra spending.",
+      "hindi": "कुछ महीनों में, मैं extra खर्च से ज्यादा शांति चुनता/चुनती हूँ।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930481"
+    },
+    {
+      "english": "I’m not chasing fast wins, just steady peace.",
+      "hindi": "मैं तेज जीत नहीं भाग रहा/रही, बस स्थिर शांति चाहता/चाहती हूँ।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930484"
+    },
+    {
+      "english": "When I’m anxious, I pause and check balance.",
+      "hindi": "जब मैं घबराता/घबराती हूँ, मैं रुककर balance देखता/देखती हूँ।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930487"
+    },
+    {
+      "english": "Savings doesn’t feel exciting, but it feels safe.",
+      "hindi": "बचत रोमांचक नहीं लगती, लेकिन सुरक्षित लगती है।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930490"
+    },
+    {
+      "english": "I learned, slow progress is still progress.",
+      "hindi": "मैंने सीख लिया, धीमी प्रगति भी प्रगति होती है।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930492"
+    },
+    {
+      "english": "I don’t panic, I track, then I decide.",
+      "hindi": "मैं घबराता/घबराती नहीं, मैं ट्रैक करता/करती हूँ, फिर फैसला करता/करती हूँ।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930496"
+    },
+    {
+      "english": "Honestly, I want money to work quietly.",
+      "hindi": "ईमानदारी से, मैं चाहता/चाहती हूँ कि पैसा चुपचाप काम करे।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930499"
+    },
+    {
+      "english": "I feel proud when my spending stays honest.",
+      "hindi": "जब मेरा खर्च ईमानदार रहता है, मुझे गर्व होता है।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930501"
+    },
+    {
+      "english": "It’s tough, but I’m building better habits.",
+      "hindi": "ये मुश्किल है, पर मैं बेहतर आदतें बना रहा/रही हूँ।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930504"
+    },
+    {
+      "english": "Sometimes I need reminders, not just formulas.",
+      "hindi": "कभी-कभी मुझे रिमाइंडर चाहिए, सिर्फ फॉर्मूला नहीं।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930506"
+    },
+    {
+      "english": "I’m okay with waiting, if it’s worth it.",
+      "hindi": "मैं इंतज़ार कर सकता/सकती हूँ, अगर ये वाकई सही है।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930509"
+    },
+    {
+      "english": "My goal is calm, not complicated banking.",
+      "hindi": "मेरा लक्ष्य शांति है, जटिल बैंकिंग नहीं।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930511"
+    },
+    {
+      "english": "I try to accept small losses, then reset.",
+      "hindi": "मैं छोटी गलतियों को स्वीकार करता/करती हूँ, फिर रीसेट करता/करती हूँ।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930513"
+    },
+    {
+      "english": "I don’t want surprises, I want clarity.",
+      "hindi": "मुझे सरप्राइज़ नहीं चाहिए, मुझे क्लैरिटी चाहिए।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930515"
+    },
+    {
+      "english": "I’m learning to budget like a friend.",
+      "hindi": "मैं बजट बनाना सीख रहा/रही हूँ, दोस्त की तरह।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930518"
+    },
+    {
+      "english": "When interest drops, I breathe and adapt.",
+      "hindi": "जब ब्याज घटता है, मैं सांस लेता/लेती हूँ, और एडाप्ट करता/करती हूँ।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930520"
+    },
+    {
+      "english": "I used to rush, now I choose slow checks.",
+      "hindi": "मैं पहले जल्दी करता/करती थी, अब मैं धीमी जांच चुनता/चुनती हूँ।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930523"
+    },
+    {
+      "english": "Sometimes I just need to feel in control.",
+      "hindi": "कभी-कभी मुझे बस खुद को कंट्रोल में महसूस करना होता है।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930525"
+    },
+    {
+      "english": "I’m okay with simple accounts, less stress.",
+      "hindi": "मैं आसान खाते रखने में खुश हूँ, कम टेंशन।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930528"
+    },
+    {
+      "english": "I don’t judge myself, I plan from here.",
+      "hindi": "मैं खुद को जज नहीं करता/करती, मैं यहीं से प्लान करता/करती हूँ।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930533"
+    },
+    {
+      "english": "My heart relaxes when I pay myself first.",
+      "hindi": "जब मैं सबसे पहले खुद को देता/देती हूँ, मेरा दिल शांत होता है।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930535"
+    },
+    {
+      "english": "I’m proud I paused, before I borrowed.",
+      "hindi": "मुझे गर्व है, मैं उधार लेने से पहले रुक गया/गई।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930537"
+    },
+    {
+      "english": "I trust the process, even when results feel late.",
+      "hindi": "मैं प्रक्रिया पर भरोसा करता/करती हूँ, चाहे नतीजे देर से लगें।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930540"
+    },
+    {
+      "english": "I don’t spend to fill feelings, ever.",
+      "hindi": "मैं कभी भी भावनाएँ भरने के लिए खर्च नहीं करता/करती।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930542"
+    },
+    {
+      "english": "Today, I choose honesty, not impulse buying.",
+      "hindi": "आज, मैं ईमानदारी चुनता/चुनती हूँ, इम्पल्स खरीदारी नहीं।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930544"
+    },
+    {
+      "english": "At the ATM, cover the keypad, always.",
+      "hindi": "ATM पर, कीपैड ढककर रखें, हमेशा।",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-05T10:08:00.930547"
     }
   ],
-  "last_updated": "2026-11-04T10:14:47.381499"
+  "last_updated": "2026-11-05T10:08:00.930549"
 }
