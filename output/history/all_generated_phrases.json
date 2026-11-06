@@ -13679,7 +13679,727 @@
       "hindi": "ATM पर, कीपैड ढककर रखें, हमेशा।",
       "category": "Banking & Money",
       "generated_at": "2026-11-05T10:08:00.930547"
+    },
+    {
+      "english": "I can do it, just wait.",
+      "hindi": "मैं कर सकता हूँ, बस रुको।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474150"
+    },
+    {
+      "english": "Stay strong, don’t lose hope.",
+      "hindi": "मजबूत रहो, उम्मीद मत छोड़ो।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474165"
+    },
+    {
+      "english": "Hold on, I’m coming right now.",
+      "hindi": "रुको, मैं अभी आता हूँ।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474168"
+    },
+    {
+      "english": "Be brave, it’ll get easier.",
+      "hindi": "हिम्मत रखो, ये आसान हो जाएगा।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474171"
+    },
+    {
+      "english": "I’m trying, don’t rush me.",
+      "hindi": "मैं कोशिश कर रहा हूँ, जल्दी मत करो।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474174"
+    },
+    {
+      "english": "Calm down, breathe, then speak.",
+      "hindi": "शांत हो जाओ, सांस लो, फिर बोलो।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474176"
+    },
+    {
+      "english": "Give me a second, please.",
+      "hindi": "मुझे एक सेकंड दो, प्लीज।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474178"
+    },
+    {
+      "english": "That’s strong, I like it.",
+      "hindi": "ये तो दमदार है, मुझे पसंद आया।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474183"
+    },
+    {
+      "english": "Let’s do it, right now.",
+      "hindi": "चलो करते हैं, अभी।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474196"
+    },
+    {
+      "english": "Mind your strength, don’t overdo it.",
+      "hindi": "अपनी ताकत संभालो, ज्यादा मत करो।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474199"
+    },
+    {
+      "english": "I’ve got you, stay close.",
+      "hindi": "मैं साथ हूँ, पास रहो।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474203"
+    },
+    {
+      "english": "Be patient, results take time.",
+      "hindi": "धीरज रखो, नतीजे समय लेते हैं।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474205"
+    },
+    {
+      "english": "Sorry, I’m not ready yet.",
+      "hindi": "माफ़ करना, मैं अभी तैयार नहीं हूँ।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474208"
+    },
+    {
+      "english": "That’s a good start, keep it.",
+      "hindi": "ये अच्छी शुरुआत है, ऐसे ही रखो।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474212"
+    },
+    {
+      "english": "Try again, don’t give up.",
+      "hindi": "फिर से कोशिश करो, हार मत मानो।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474214"
+    },
+    {
+      "english": "I can feel it, we’re getting stronger.",
+      "hindi": "मुझे महसूस हो रहा है, हम मजबूत हो रहे हैं।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474217"
+    },
+    {
+      "english": "Just focus, one step at a time.",
+      "hindi": "बस ध्यान दो, एक-एक कदम।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474219"
+    },
+    {
+      "english": "I’m on it, give me a moment.",
+      "hindi": "मैं कर रहा हूँ, बस एक मिनट।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474222"
+    },
+    {
+      "english": "It’s okay, you’ll bounce back.",
+      "hindi": "ठीक है, तुम संभल जाओगे।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474224"
+    },
+    {
+      "english": "Wake up, time to get moving.",
+      "hindi": "जागो, चलने का समय है।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474227"
+    },
+    {
+      "english": "Keep your head up, seriously.",
+      "hindi": "हिम्मत बनाए रखो, सच में।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474229"
+    },
+    {
+      "english": "Be careful, take it slow.",
+      "hindi": "सावधान रहो, धीरे-धीरे करो।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474231"
+    },
+    {
+      "english": "I believe in you, absolutely.",
+      "hindi": "मुझे तुम पर पूरा भरोसा है।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474235"
+    },
+    {
+      "english": "Let it go, don’t carry stress.",
+      "hindi": "छोड़ दो, तनाव मत ढोओ।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474237"
+    },
+    {
+      "english": "What’s the plan, and when?",
+      "hindi": "प्लान क्या है, और कब?",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474240"
+    },
+    {
+      "english": "I’m done, we’ll talk after.",
+      "hindi": "मैं तैयार हूँ, फिर बात करेंगे।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474242"
+    },
+    {
+      "english": "Respect your limits, push smarter.",
+      "hindi": "अपनी सीमाएँ समझो, समझदारी से आगे बढ़ो।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474245"
+    },
+    {
+      "english": "That took effort, well done!",
+      "hindi": "ये मेहनत लगी, बहुत बढ़िया!",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474247"
+    },
+    {
+      "english": "How can I build strength, safely?",
+      "hindi": "मैं ताकत कैसे बढ़ाऊँ, सुरक्षित तरीके से?",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474249"
+    },
+    {
+      "english": "What should I ask my trainer today?",
+      "hindi": "आज मुझे अपने ट्रेनर से क्या पूछना चाहिए?",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474251"
+    },
+    {
+      "english": "Do you think this workout is enough?",
+      "hindi": "क्या आपको लगता है, ये वर्कआउट काफी है?",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474253"
+    },
+    {
+      "english": "Which one builds strength faster, cardio or weights?",
+      "hindi": "ताकत तेज़ किससे बढ़ती है, कार्डियो या वज़न?",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474256"
+    },
+    {
+      "english": "Can you check my form, please?",
+      "hindi": "क्या आप मेरी फॉर्म देख सकते हैं, प्लीज़?",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474258"
+    },
+    {
+      "english": "Why do my muscles feel tired so soon?",
+      "hindi": "मेरी मसल्स इतनी जल्दी थक क्यों जाती हैं?",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474260"
+    },
+    {
+      "english": "Should I increase reps, or add weight?",
+      "hindi": "क्या मुझे रेप्स बढ़ाने चाहिए, या वज़न?",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474262"
+    },
+    {
+      "english": "What’s a good warm-up for strength days?",
+      "hindi": "ताकत वाले दिन के लिए अच्छा वॉर्म-अप क्या है?",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474265"
+    },
+    {
+      "english": "How often should I train for real progress?",
+      "hindi": "सच में प्रोग्रेस के लिए मुझे कितनी बार ट्रेन करना चाहिए?",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474270"
+    },
+    {
+      "english": "What time do you feel strongest, usually?",
+      "hindi": "आपको आम तौर पर सबसे ताकत कब महसूस होती है?",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474272"
+    },
+    {
+      "english": "I feel weak today, what should I do?",
+      "hindi": "आज मुझे कमज़ोरी लग रही है, मैं क्या करूँ?",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474274"
+    },
+    {
+      "english": "Can we adjust the plan, just for today?",
+      "hindi": "क्या हम प्लान आज के लिए थोड़ा बदल सकते हैं?",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474276"
+    },
+    {
+      "english": "Is soreness normal, or am I overdoing it?",
+      "hindi": "दर्द होना नॉर्मल है, या मैं ज़्यादा कर रहा हूँ?",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474278"
+    },
+    {
+      "english": "What’s the best advice for beginners here?",
+      "hindi": "यहाँ शुरुआत करने वालों के लिए सबसे अच्छा सुझाव क्या है?",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474283"
+    },
+    {
+      "english": "How do you stay consistent, even on bad days?",
+      "hindi": "आप बुरे दिनों में भी consistent कैसे रहते हैं?",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474285"
+    },
+    {
+      "english": "Should I stretch after workouts, or before?",
+      "hindi": "वर्कआउट के बाद स्ट्रेच करूँ, या पहले?",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474287"
+    },
+    {
+      "english": "What snack helps build strength, not just energy?",
+      "hindi": "ताकत बढ़ाने वाला स्नैक कौन सा है, सिर्फ़ एनर्जी नहीं?",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474290"
+    },
+    {
+      "english": "Do you recommend protein timing for beginners?",
+      "hindi": "क्या आप शुरुआती लोगों के लिए प्रोटीन टाइमिंग सुझाते हैं?",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474292"
+    },
+    {
+      "english": "Can I train light today, and still progress?",
+      "hindi": "क्या मैं आज हल्का ट्रेन करूँ, फिर भी प्रोग्रेस कर सकता हूँ?",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474294"
+    },
+    {
+      "english": "What do you do when motivation drops?",
+      "hindi": "जब मोटिवेशन गिरता है, आप क्या करते हैं?",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474296"
+    },
+    {
+      "english": "Quick question, what’s your favorite strength exercise?",
+      "hindi": "एक छोटा सवाल, आपकी पसंदीदा स्ट्रेंथ एक्सरसाइज़ कौन सी है?",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474299"
+    },
+    {
+      "english": "How can I track progress without overthinking?",
+      "hindi": "मैं ओवरथिंक किए बिना प्रोग्रेस कैसे ट्रैक करूँ?",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474302"
+    },
+    {
+      "english": "Is rest day really necessary for strength?",
+      "hindi": "क्या रेस्ट डे सच में ताकत के लिए ज़रूरी है?",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474304"
+    },
+    {
+      "english": "What’s a smart goal for this week?",
+      "hindi": "इस हफ्ते के लिए एक समझदारी वाला लक्ष्य क्या रखें?",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474306"
+    },
+    {
+      "english": "Can we talk about form, not just weight?",
+      "hindi": "क्या हम वज़न से ज़्यादा फॉर्म पर बात कर सकते हैं?",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474308"
+    },
+    {
+      "english": "How much water should I drink today?",
+      "hindi": "आज मुझे कितना पानी पीना चाहिए?",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474310"
+    },
+    {
+      "english": "What signs mean I’m building real strength?",
+      "hindi": "कौन से संकेत बताते हैं कि मैं सच में ताकत बना रहा हूँ?",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474313"
+    },
+    {
+      "english": "Should I train same muscles twice a week?",
+      "hindi": "क्या मुझे हफ्ते में दो बार वही मसल्स ट्रेन करनी चाहिए?",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474315"
+    },
+    {
+      "english": "What’s your take on slow reps for strength?",
+      "hindi": "ताकत के लिए स्लो रेप्स पर आपका क्या विचार है?",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474318"
+    },
+    {
+      "english": "Can you share one habit for stronger days?",
+      "hindi": "क्या आप मजबूत दिनों के लिए एक आदत बता सकते हैं?",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474319"
+    },
+    {
+      "english": "You’ve got this, one step at a time.",
+      "hindi": "तुम कर सकते हो, एक-एक कदम करके।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474322"
+    },
+    {
+      "english": "Small wins today, big strength tomorrow.",
+      "hindi": "आज छोटे जीत, कल बड़ी ताकत।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474325"
+    },
+    {
+      "english": "Stay calm, your effort is building strength.",
+      "hindi": "शांत रहो, तुम्हारी मेहनत ताकत बना रही है।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474327"
+    },
+    {
+      "english": "Tell yourself, I’m stronger than yesterday.",
+      "hindi": "खुद से कहो, मैं कल से ज़्यादा मजबूत हूँ।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474330"
+    },
+    {
+      "english": "Good job, keep showing up consistently.",
+      "hindi": "बहुत बढ़िया, रोज़ आते रहो लगातार।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474332"
+    },
+    {
+      "english": "Mindset first, then the reps follow.",
+      "hindi": "पहले सोच, फिर रिप्स।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474334"
+    },
+    {
+      "english": "Don’t rush, trust the process, you’ll grow.",
+      "hindi": "जल्दी मत करो, प्रक्रिया पर भरोसा रखो, तुम बढ़ोगे।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474337"
+    },
+    {
+      "english": "Every workout is practice for your future.",
+      "hindi": "हर वर्कआउट, तुम्हारे भविष्य की ट्रेनिंग है।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474339"
+    },
+    {
+      "english": "Your body learns, even on slow days.",
+      "hindi": "तुम्हारा शरीर सीखता है, धीमे दिनों में भी।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474341"
+    },
+    {
+      "english": "Be proud, you’re doing the work.",
+      "hindi": "गर्व करो, तुम काम कर रहे हो।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474346"
+    },
+    {
+      "english": "You’re building discipline, not just muscles.",
+      "hindi": "तुम अनुशासन बना रहे हो, सिर्फ मांसपेशी नहीं।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474349"
+    },
+    {
+      "english": "Breathe, reset, and go again.",
+      "hindi": "साँस लो, रीसेट करो, और फिर शुरू करो।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474352"
+    },
+    {
+      "english": "No excuses, just smart consistency.",
+      "hindi": "बहाने नहीं, बस समझदारी से लगातार।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474354"
+    },
+    {
+      "english": "Strong thoughts create strong actions.",
+      "hindi": "मजबूत सोच से मजबूत काम होते हैं।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474356"
+    },
+    {
+      "english": "Keep going, even small effort counts.",
+      "hindi": "चलते रहो, थोड़ी मेहनत भी मायने रखती है।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474359"
+    },
+    {
+      "english": "Today’s challenge makes you tougher.",
+      "hindi": "आज की चुनौती तुम्हें और मजबूत बनाती है।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474363"
+    },
+    {
+      "english": "Say it: I train for myself.",
+      "hindi": "बोलो, मैं खुद के लिए ट्रेन करता हूँ।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474365"
+    },
+    {
+      "english": "You don’t need luck, you need routine.",
+      "hindi": "किस्मत नहीं, रूटीन चाहिए।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474368"
+    },
+    {
+      "english": "Stay positive, effort always pays off.",
+      "hindi": "पॉज़िटिव रहो, मेहनत हमेशा फल देती है।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474370"
+    },
+    {
+      "english": "Celebrate effort, not just results.",
+      "hindi": "सिर्फ नतीजे नहीं, मेहनत का जश्न मनाओ।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474373"
+    },
+    {
+      "english": "When doubt talks, you move anyway.",
+      "hindi": "जब शक बोले, तब भी तुम आगे बढ़ो।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474375"
+    },
+    {
+      "english": "Your future self is watching you now.",
+      "hindi": "तुम्हारा भविष्य वाला खुद अभी देख रहा है।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474377"
+    },
+    {
+      "english": "One more set, then you’ll feel proud.",
+      "hindi": "एक और सेट, फिर गर्व आएगा।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474381"
+    },
+    {
+      "english": "Be gentle with yourself, stay consistent.",
+      "hindi": "अपने साथ नरमी रखो, पर लगातार रहो।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474384"
+    },
+    {
+      "english": "Use discipline, not mood, to start.",
+      "hindi": "शुरू करने के लिए मूड नहीं, अनुशासन इस्तेमाल करो।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474386"
+    },
+    {
+      "english": "Trust your pace, steady wins strength.",
+      "hindi": "अपनी गति पर भरोसा रखो, धीरे-धीरे जीत है।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474390"
+    },
+    {
+      "english": "Say yes to today’s small challenge.",
+      "hindi": "आज की छोटी चुनौती के लिए हाँ बोलो।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474393"
+    },
+    {
+      "english": "You’re stronger than your excuses.",
+      "hindi": "तुम अपने बहानों से ज़्यादा मजबूत हो।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474395"
+    },
+    {
+      "english": "Keep your head in the game, always.",
+      "hindi": "हर समय खेल में दिमाग रखो।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474397"
+    },
+    {
+      "english": "Honestly, I’m feeling scared, but I start anyway,",
+      "hindi": "ईमानदारी से, मैं डर रहा हूँ, फिर भी मैं शुरू करता हूँ,",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474400"
+    },
+    {
+      "english": "Some days feel heavy, so I go slow,",
+      "hindi": "कुछ दिन भारी लगते हैं, इसलिए मैं धीरे जाता हूँ,",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474403"
+    },
+    {
+      "english": "I don’t chase hype, I trust quiet effort,",
+      "hindi": "मैं हाइप नहीं भागता, मैं शांत मेहनत पर भरोसा करता हूँ,",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474405"
+    },
+    {
+      "english": "I keep promises to myself, even tired,",
+      "hindi": "मैं अपने लिए वादे निभाता हूँ, भले थका होऊँ,",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474408"
+    },
+    {
+      "english": "No big speech, just steady work today,",
+      "hindi": "कोई बड़ा भाषण नहीं, आज बस लगातार काम,",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474410"
+    },
+    {
+      "english": "I admit it, I’m not perfect, still improving,",
+      "hindi": "मैं मानता हूँ, मैं परफेक्ट नहीं, फिर भी बेहतर हो रहा हूँ,",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474413"
+    },
+    {
+      "english": "Patience is my secret weapon, especially on days,",
+      "hindi": "धैर्य मेरा गुप्त हथियार है, खासकर उन दिनों,",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474415"
+    },
+    {
+      "english": "I listen to my body, then choose wisely,",
+      "hindi": "मैं अपने शरीर की सुनता हूँ, फिर समझदारी से चुनता हूँ,",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474417"
+    },
+    {
+      "english": "I don’t hate rest, I respect it,",
+      "hindi": "मैं आराम से नफरत नहीं करता, मैं उसका सम्मान करता हूँ,",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474420"
+    },
+    {
+      "english": "Even if I’m slow, I’m still honest,",
+      "hindi": "भले मैं धीमा हूँ, मैं फिर भी सच रहता हूँ,",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474422"
+    },
+    {
+      "english": "When I feel doubt, I breathe and continue,",
+      "hindi": "जब मुझे शक होता है, मैं सांस लेता हूँ और जारी रखता हूँ,",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474425"
+    },
+    {
+      "english": "Today I’m building resilience, not just muscles,",
+      "hindi": "आज मैं रेज़िलिएंस बना रहा हूँ, सिर्फ मसल्स नहीं,",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474428"
+    },
+    {
+      "english": "I talk to myself, kindly, then move forward,",
+      "hindi": "मैं खुद से बात करता हूँ, प्यार से, फिर आगे बढ़ता हूँ,",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474430"
+    },
+    {
+      "english": "I can’t control everything, so I train,",
+      "hindi": "मैं सब कुछ कंट्रोल नहीं कर सकता, इसलिए मैं ट्रेन करता हूँ,",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474433"
+    },
+    {
+      "english": "It’s okay to struggle, strength starts there,",
+      "hindi": "संघर्ष करना ठीक है, ताकत वहीं से शुरू होती है,",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474435"
+    },
+    {
+      "english": "I show up imperfectly, and that counts,",
+      "hindi": "मैं अपूर्ण रूप में भी आता हूँ, और ये मायने रखता है,",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474438"
+    },
+    {
+      "english": "My brain can complain, my body still works,",
+      "hindi": "मेरा दिमाग शिकायत करे, मेरा शरीर फिर भी काम करे,",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474440"
+    },
+    {
+      "english": "I track feelings, not only numbers,",
+      "hindi": "मैं सिर्फ नंबर नहीं, अपने फीलिंग्स भी नोट करता हूँ,",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474442"
+    },
+    {
+      "english": "I’m learning, and that’s real progress,",
+      "hindi": "मैं सीख रहा हूँ, और यही असली प्रोग्रेस है,",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474452"
+    },
+    {
+      "english": "Sometimes I’m emotional, and I still train,",
+      "hindi": "कभी मैं इमोशनल होता हूँ, और फिर भी ट्रेन करता हूँ,",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474455"
+    },
+    {
+      "english": "I don’t need perfect days, just honest effort,",
+      "hindi": "मुझे परफेक्ट दिन नहीं चाहिए, बस ईमानदार मेहनत,",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474458"
+    },
+    {
+      "english": "I respect small steps, because they add up,",
+      "hindi": "मैं छोटे कदमों का सम्मान करता हूँ, क्योंकि वे जुड़ते हैं,",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474460"
+    },
+    {
+      "english": "I pause, check in, then choose my next move,",
+      "hindi": "मैं रुकता हूँ, अंदर चेक करता हूँ, फिर अगला कदम चुनता हूँ,",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474463"
+    },
+    {
+      "english": "I don’t compare, I improve at my speed,",
+      "hindi": "मैं तुलना नहीं करता, मैं अपनी रफ्तार से बेहतर होता हूँ,",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474465"
+    },
+    {
+      "english": "Even my mood gets stronger with movement,",
+      "hindi": "मेरी मूड भी मूवमेंट से मजबूत होती है,",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474468"
+    },
+    {
+      "english": "I forgive the missed day, then restart calmly,",
+      "hindi": "मैं छूटे दिन को माफ करता हूँ, फिर शांत होकर फिर से शुरू,",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474474"
+    },
+    {
+      "english": "I stay with the process, even when it’s boring,",
+      "hindi": "मैं प्रोसेस के साथ रहता हूँ, भले वो बोरिंग लगे,",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474477"
+    },
+    {
+      "english": "My strength grows when I’m consistent and kind,",
+      "hindi": "मेरी ताकत बढ़ती है, जब मैं लगातार और दयालु रहता हूँ,",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474480"
+    },
+    {
+      "english": "I say, “not today,” to panic, and train,",
+      "hindi": "मैं घबराहट को कहता हूँ, “आज नहीं,” और ट्रेन करता हूँ,",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474483"
+    },
+    {
+      "english": "After I finish, I feel proud, quietly,",
+      "hindi": "जब मैं खत्म करता हूँ, मुझे गर्व होता है, चुपचाप,",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474486"
+    },
+    {
+      "english": "Before training, warm up, breathe, then start.",
+      "hindi": "ट्रेनिंग से पहले, वॉर्मअप करो, सांस लो, फिर शुरू करो।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474488"
+    },
+    {
+      "english": "After workouts, drink water, cool down slowly.",
+      "hindi": "वर्कआउट के बाद, पानी पीओ, धीरे-धीरे कूल डाउन करो।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474491"
+    },
+    {
+      "english": "If you’re sore, rest, stretch, and recover.",
+      "hindi": "अगर दर्द हो, आराम करो, स्ट्रेच करो, और रिकवर करो।",
+      "category": "Strength",
+      "generated_at": "2026-11-06T12:09:35.474494"
     }
   ],
-  "last_updated": "2026-11-05T10:08:00.930549"
+  "last_updated": "2026-11-06T12:09:35.474495"
 }
