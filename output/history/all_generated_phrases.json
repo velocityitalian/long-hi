@@ -14399,7 +14399,727 @@
       "hindi": "अगर दर्द हो, आराम करो, स्ट्रेच करो, और रिकवर करो।",
       "category": "Strength",
       "generated_at": "2026-11-06T12:09:35.474494"
+    },
+    {
+      "english": "Wait a second, I’m checking now.",
+      "hindi": "एक सेकंड रुको, मैं अभी चेक कर रहा हूँ।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348506"
+    },
+    {
+      "english": "Just a moment, please, don’t worry.",
+      "hindi": "बस एक पल, कृपया, चिंता मत करो।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348521"
+    },
+    {
+      "english": "Hold on, I’ll be right there.",
+      "hindi": "रुको ज़रा, मैं अभी वहाँ पहुँचता हूँ।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348524"
+    },
+    {
+      "english": "Slow down, you’ll get it soon.",
+      "hindi": "धीरे चलो, तुम्हें जल्दी समझ आ जाएगा।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348527"
+    },
+    {
+      "english": "Let it pass, everything settles down.",
+      "hindi": "छोड़ो, सब कुछ धीरे-धीरे ठीक हो जाता है।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348530"
+    },
+    {
+      "english": "Calm down, we’ll handle it.",
+      "hindi": "शांत हो जाओ, हम इसे संभाल लेंगे।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348533"
+    },
+    {
+      "english": "Give me a minute, I’ll answer.",
+      "hindi": "मुझे एक मिनट दो, मैं जवाब देता हूँ।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348535"
+    },
+    {
+      "english": "Don’t panic, just stay calm.",
+      "hindi": "घबराओ मत, बस शांत रहो।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348540"
+    },
+    {
+      "english": "Wait, I need to finish this.",
+      "hindi": "रुको, मुझे ये पूरा करना है।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348543"
+    },
+    {
+      "english": "It’s okay, take it easy.",
+      "hindi": "ठीक है, आराम से करो।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348546"
+    },
+    {
+      "english": "Let’s wait and see what happens.",
+      "hindi": "चलो, देखते हैं क्या होता है।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348548"
+    },
+    {
+      "english": "Patience, this won’t take long.",
+      "hindi": "धैर्य रखो, ये ज़्यादा समय नहीं लेगा।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348551"
+    },
+    {
+      "english": "Just keep trying, you’re close.",
+      "hindi": "बस कोशिश करते रहो, तुम करीब हो।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348553"
+    },
+    {
+      "english": "Wait a bit, it’s coming soon.",
+      "hindi": "थोड़ा रुको, ये जल्द आ रहा है।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348556"
+    },
+    {
+      "english": "I’ll be quick, stay with me.",
+      "hindi": "मैं जल्दी करूँगा, मेरे साथ रहो।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348558"
+    },
+    {
+      "english": "Relax, we have time.",
+      "hindi": "आराम से, हमारे पास समय है।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348560"
+    },
+    {
+      "english": "Don’t rush, we’ll do it together.",
+      "hindi": "जल्दी मत करो, हम साथ में करेंगे।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348563"
+    },
+    {
+      "english": "Be cool, it’ll work out.",
+      "hindi": "कूल रहो, ये ठीक हो जाएगा।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348567"
+    },
+    {
+      "english": "Just wait here, I’m on my way.",
+      "hindi": "यहीं रुको, मैं रास्ते में हूँ।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348570"
+    },
+    {
+      "english": "Please bear with me, I’m learning.",
+      "hindi": "मेरी बात सुनो, मैं सीख रहा हूँ।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348574"
+    },
+    {
+      "english": "Hold steady, don’t give up.",
+      "hindi": "जमे रहो, हार मत मानो।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348576"
+    },
+    {
+      "english": "Let’s pause, then we continue.",
+      "hindi": "रुको, फिर हम आगे बढ़ते हैं।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348579"
+    },
+    {
+      "english": "It’s taking longer than expected.",
+      "hindi": "ये उम्मीद से ज़्यादा समय ले रहा है।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348581"
+    },
+    {
+      "english": "Wait, I’m almost done here.",
+      "hindi": "रुको, मैं यहाँ बस लगभग खत्म कर चुका हूँ।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348584"
+    },
+    {
+      "english": "Stay patient, progress is building.",
+      "hindi": "धैर्य रखो, प्रगति हो रही है।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348588"
+    },
+    {
+      "english": "Okay, wait for my signal.",
+      "hindi": "ठीक है, मेरे सिग्नल का इंतज़ार करो।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348590"
+    },
+    {
+      "english": "Can you repeat that, slowly, please?",
+      "hindi": "क्या आप यह दोबारा, धीरे से, बोल सकते हैं?",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348593"
+    },
+    {
+      "english": "What’s the best way to practice patiently?",
+      "hindi": "धैर्य से अभ्यास करने का सबसे अच्छा तरीका क्या है?",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348596"
+    },
+    {
+      "english": "May I ask, what should I do next?",
+      "hindi": "मैं पूछूं, अब मुझे अगला क्या करना चाहिए?",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348598"
+    },
+    {
+      "english": "Can you help me, step by step?",
+      "hindi": "क्या आप मेरी मदद करेंगे, एक-एक कदम करके?",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348601"
+    },
+    {
+      "english": "Should I wait here or go inside?",
+      "hindi": "मैं यहाँ रुकूं, या अंदर चला जाऊँ?",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348603"
+    },
+    {
+      "english": "Where do I find the form, exactly?",
+      "hindi": "मुझे फॉर्म कहाँ मिलेगा, ठीक-ठीक?",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348606"
+    },
+    {
+      "english": "Who do I contact for this request?",
+      "hindi": "इस रिक्वेस्ट के लिए मैं किससे संपर्क करूं?",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348608"
+    },
+    {
+      "english": "Is it okay if I take my time?",
+      "hindi": "अगर मैं अपना समय लूं, तो ठीक है?",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348610"
+    },
+    {
+      "english": "Could you say it again, in simpler words?",
+      "hindi": "क्या आप फिर से बता सकते हैं, आसान शब्दों में?",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348614"
+    },
+    {
+      "english": "Do you have patience tips for beginners?",
+      "hindi": "शुरुआत करने वालों के लिए धैर्य की टिप्स हैं?",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348617"
+    },
+    {
+      "english": "What usually works when you feel stuck?",
+      "hindi": "जब अटक जाऊं, तब आमतौर पर क्या काम करता है?",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348619"
+    },
+    {
+      "english": "Can you give me a quick guideline?",
+      "hindi": "क्या आप मुझे एक छोटी गाइडलाइन दे सकते हैं?",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348621"
+    },
+    {
+      "english": "Should I write it down, or remember?",
+      "hindi": "क्या मुझे लिख लेना चाहिए, या याद रखें?",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348623"
+    },
+    {
+      "english": "I’m trying, can you be a bit patient?",
+      "hindi": "मैं कोशिश कर रहा हूं, क्या आप थोड़े धैर्य रखेंगे?",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348626"
+    },
+    {
+      "english": "How do you stay calm during delays?",
+      "hindi": "देरी में आप कैसे शांत रहते हैं?",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348628"
+    },
+    {
+      "english": "What’s the next step after this?",
+      "hindi": "इसके बाद अगला कदम क्या है?",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348630"
+    },
+    {
+      "english": "Can we slow it down for a moment?",
+      "hindi": "क्या हम एक पल के लिए धीमा कर सकते हैं?",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348632"
+    },
+    {
+      "english": "Where is the nearest help desk, please?",
+      "hindi": "सबसे नज़दीकी हेल्प डेस्क कहाँ है, कृपया?",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348634"
+    },
+    {
+      "english": "What do you recommend for daily practice?",
+      "hindi": "दैनिक अभ्यास के लिए आप क्या सलाह देंगे?",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348636"
+    },
+    {
+      "english": "Is there a faster option, or not?",
+      "hindi": "क्या कोई तेज़ विकल्प है, या नहीं?",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348638"
+    },
+    {
+      "english": "Can I get your advice on this?",
+      "hindi": "क्या मुझे इस पर आपकी सलाह मिल सकती है?",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348640"
+    },
+    {
+      "english": "How do I avoid repeating the same mistake?",
+      "hindi": "मैं वही गलती दोहराने से कैसे बचूं?",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348643"
+    },
+    {
+      "english": "What should I do if it doesn’t work?",
+      "hindi": "अगर ये काम नहीं करे, तो मैं क्या करूं?",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348645"
+    },
+    {
+      "english": "Can we check the details together?",
+      "hindi": "क्या हम मिलकर डिटेल्स देख लें?",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348647"
+    },
+    {
+      "english": "Do you have a contact number for updates?",
+      "hindi": "अपडेट के लिए आपका कांटैक्ट नंबर है?",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348649"
+    },
+    {
+      "english": "Is today’s process straightforward, or complicated?",
+      "hindi": "आज की प्रक्रिया सीधी है, या मुश्किल?",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348654"
+    },
+    {
+      "english": "Can I ask one more question, please?",
+      "hindi": "क्या मैं एक और सवाल पूछ सकता हूँ, कृपया?",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348656"
+    },
+    {
+      "english": "What’s a realistic timeline for this?",
+      "hindi": "इसका यथार्थ समय-सीमा क्या है?",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348659"
+    },
+    {
+      "english": "If I wait, will it improve later?",
+      "hindi": "अगर मैं रुकूं, तो बाद में बेहतर होगा?",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348663"
+    },
+    {
+      "english": "Breathe, slowly, you’re doing fine.",
+      "hindi": "साँस लो, धीरे-धीरे, तुम ठीक कर रहे हो।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348665"
+    },
+    {
+      "english": "Small steps today, big results tomorrow.",
+      "hindi": "आज छोटे कदम, कल बड़े नतीजे।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348668"
+    },
+    {
+      "english": "Patience means focus, not sitting idle.",
+      "hindi": "धैर्य का मतलब है, फोकस रखना, सुस्त नहीं।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348670"
+    },
+    {
+      "english": "You can’t rush growth, it ripens.",
+      "hindi": "तुम ग्रोथ को नहीं भगा सकते, वो पकती है।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348673"
+    },
+    {
+      "english": "Stay steady, your effort will show.",
+      "hindi": "स्थिर रहो, तुम्हारी मेहनत दिखेगी।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348675"
+    },
+    {
+      "english": "Even delays teach you, keep going.",
+      "hindi": "देरी भी सिखाती है, चलते रहो।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348678"
+    },
+    {
+      "english": "Tell yourself, I’ve got time and skill.",
+      "hindi": "खुद से कहो, मेरे पास समय और ताकत है।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348680"
+    },
+    {
+      "english": "Trust the process, it works quietly.",
+      "hindi": "प्रोसेस पर भरोसा करो, वो चुपचाप काम करता है।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348682"
+    },
+    {
+      "english": "Wait a bit, your answer is coming.",
+      "hindi": "थोड़ा रुक जाओ, जवाब आ रहा है।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348685"
+    },
+    {
+      "english": "Be kind to yourself, learn at your pace.",
+      "hindi": "अपने साथ नरमी रखो, अपनी रफ्तार से सीखो।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348687"
+    },
+    {
+      "english": "One day at a time, that’s enough.",
+      "hindi": "एक दिन एक बार, बस इतना काफी है।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348690"
+    },
+    {
+      "english": "Focus on today, results follow later.",
+      "hindi": "आज पर फोकस करो, नतीजे बाद में मिलेंगे।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348692"
+    },
+    {
+      "english": "Keep showing up, consistency beats speed.",
+      "hindi": "रोज़ आते रहो, लगातार रहना तेज़ी से बेहतर है।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348694"
+    },
+    {
+      "english": "Calm mind, clear thoughts, then patience wins.",
+      "hindi": "शांत दिमाग, साफ़ सोच, फिर धैर्य जीतता है।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348697"
+    },
+    {
+      "english": "You’re building strength, not wasting time.",
+      "hindi": "तुम ताकत बना रहे हो, समय बर्बाद नहीं।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348699"
+    },
+    {
+      "english": "Practice now, improvement will come naturally.",
+      "hindi": "अभी अभ्यास करो, सुधार अपने आप आएगा।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348701"
+    },
+    {
+      "english": "When it’s slow, stay brave and steady.",
+      "hindi": "जब धीमा हो, तो बहादुर और स्थिर रहो।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348704"
+    },
+    {
+      "english": "Your progress has a quiet rhythm.",
+      "hindi": "तुम्हारी तरक्की की एक धीमी रिद्म होती है।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348706"
+    },
+    {
+      "english": "Small victories today, bigger confidence tomorrow.",
+      "hindi": "आज छोटी जीत, कल बड़ा आत्मविश्वास।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348708"
+    },
+    {
+      "english": "It’s okay to pause, then continue.",
+      "hindi": "रुक जाना ठीक है, फिर आगे बढ़ो।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348711"
+    },
+    {
+      "english": "Don’t fight delay, use it wisely.",
+      "hindi": "देरी से लड़ो नहीं, उसे समझदारी से इस्तेमाल करो।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348713"
+    },
+    {
+      "english": "Keep your goals close, your pace steady.",
+      "hindi": "लक्ष्य पास रखो, रफ्तार स्थिर।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348715"
+    },
+    {
+      "english": "Even if it’s tough, you learn.",
+      "hindi": "भले मुश्किल हो, तुम सीखते हो।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348718"
+    },
+    {
+      "english": "Give yourself credit, you’re practicing right.",
+      "hindi": "अपने आप को श्रेय दो, तुम सही अभ्यास कर रहे हो।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348721"
+    },
+    {
+      "english": "Stay positive, your next step will appear.",
+      "hindi": "सकारात्मक रहो, अगला कदम दिखेगा।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348723"
+    },
+    {
+      "english": "Patience is power, keep it in your pocket.",
+      "hindi": "धैर्य ताकत है, उसे अपने साथ रखो।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348725"
+    },
+    {
+      "english": "Slow progress is still progress, trust it.",
+      "hindi": "धीमी प्रगति भी प्रगति है, भरोसा रखो।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348728"
+    },
+    {
+      "english": "Whenever doubt hits, return to practice.",
+      "hindi": "जब शक आए, वापस अभ्यास पर लौटो।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348730"
+    },
+    {
+      "english": "You’re not late, you’re building experience.",
+      "hindi": "तुम देर नहीं कर रहे, तुम अनुभव बना रहे हो।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348735"
+    },
+    {
+      "english": "I feel calm when I slow down, really.",
+      "hindi": "जब मैं धीमा करता हूँ, सच में मन शांत होता है।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348740"
+    },
+    {
+      "english": "My heart needs honesty, not hurry.",
+      "hindi": "मेरे दिल को ईमानदारी चाहिए, जल्दी नहीं।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348742"
+    },
+    {
+      "english": "I pause, then I decide with clarity.",
+      "hindi": "मैं रुकता हूँ, फिर साफ़ सोचकर निर्णय लेता हूँ।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348744"
+    },
+    {
+      "english": "Some days, waiting is part of healing.",
+      "hindi": "कुछ दिनों में, इंतज़ार भी ठीक होने का हिस्सा होता है।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348746"
+    },
+    {
+      "english": "I admit it, I get impatient sometimes.",
+      "hindi": "मैं मानता हूँ, कभी-कभी मैं बेचैन हो जाता हूँ।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348749"
+    },
+    {
+      "english": "I’m learning to trust my own pace.",
+      "hindi": "मैं अपनी रफ्तार पर भरोसा करना सीख रहा हूँ।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348751"
+    },
+    {
+      "english": "When progress is slow, I stay gentle.",
+      "hindi": "जब प्रगति धीमी हो, मैं अपने साथ नरमी रखता हूँ।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348753"
+    },
+    {
+      "english": "I reflect quietly, then start again.",
+      "hindi": "मैं चुपचाप सोचता हूँ, फिर फिर से शुरू करता हूँ।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348755"
+    },
+    {
+      "english": "Patience is courage, not weakness, for me.",
+      "hindi": "मेरे लिए धैर्य हिम्मत है, कमजोरी नहीं।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348758"
+    },
+    {
+      "english": "I don’t punish myself for taking time.",
+      "hindi": "मैं समय लेने के लिए खुद को सज़ा नहीं देता।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348760"
+    },
+    {
+      "english": "I let the moment pass, without stress.",
+      "hindi": "मैं उस पल को निकलने देता हूँ, बिना तनाव के।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348763"
+    },
+    {
+      "english": "I want results, but I choose calm first.",
+      "hindi": "मुझे नतीजे चाहिए, पर मैं पहले शांति चुनता हूँ।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348765"
+    },
+    {
+      "english": "I’m okay with delays, they build depth.",
+      "hindi": "मुझे देरी ठीक लगती है, वो समझदारी बढ़ाती है।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348768"
+    },
+    {
+      "english": "Right now, I focus on my mindset.",
+      "hindi": "अभी मैं अपने मनोभाव पर ध्यान देता हूँ।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348774"
+    },
+    {
+      "english": "I hear my fear, then I continue.",
+      "hindi": "मैं अपनी डर की आवाज़ सुनता हूँ, फिर भी चलता रहता हूँ।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348776"
+    },
+    {
+      "english": "I’m not stuck, I’m recalibrating.",
+      "hindi": "मैं अटका नहीं हूँ, मैं खुद को फिर से सेट कर रहा हूँ।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348779"
+    },
+    {
+      "english": "Truthfully, I need time to feel ready.",
+      "hindi": "सच बताऊँ तो, मुझे तैयार महसूस करने के लिए समय चाहिए।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348781"
+    },
+    {
+      "english": "I stay present, and feelings soften slowly.",
+      "hindi": "मैं वर्तमान में रहता हूँ, और भावनाएँ धीरे-धीरे नरम पड़ती हैं।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348784"
+    },
+    {
+      "english": "Even frustration can teach me patience.",
+      "hindi": "निराशा भी मुझे धैर्य सिखा सकती है।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348786"
+    },
+    {
+      "english": "I choose honesty, my progress follows.",
+      "hindi": "मैं ईमानदारी चुनता हूँ, मेरी प्रगति साथ चलती है।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348788"
+    },
+    {
+      "english": "I trust small signs, they matter a lot.",
+      "hindi": "मैं छोटे संकेतों पर भरोसा करता हूँ, वो बहुत मायने रखते हैं।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348791"
+    },
+    {
+      "english": "When I doubt, I return to calm work.",
+      "hindi": "जब शक होता है, मैं शांत काम पर लौट आता हूँ।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348793"
+    },
+    {
+      "english": "I give my emotions space, then act.",
+      "hindi": "मैं अपनी भावनाओं को जगह देता हूँ, फिर काम करता हूँ।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348795"
+    },
+    {
+      "english": "I don’t compare my path, I learn.",
+      "hindi": "मैं अपनी राह की तुलना नहीं करता, मैं सीखता हूँ।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348797"
+    },
+    {
+      "english": "I’m building patience, one honest day at a time.",
+      "hindi": "मैं धैर्य बना रहा हूँ, एक ईमानदार दिन एक समय में।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348800"
+    },
+    {
+      "english": "Sometimes I need quiet, then answers come.",
+      "hindi": "कभी-कभी मुझे सुकून चाहिए, फिर जवाब मिलते हैं।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348802"
+    },
+    {
+      "english": "I accept uncertainty, and keep moving forward.",
+      "hindi": "मैं अनिश्चितता स्वीकार करता हूँ, और आगे बढ़ता हूँ।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348804"
+    },
+    {
+      "english": "I’m allowed to feel, and still wait.",
+      "hindi": "मुझे महसूस करने का हक़ है, और फिर भी इंतज़ार करना है।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348807"
+    },
+    {
+      "english": "Slow doesn’t mean wrong, it means maturing.",
+      "hindi": "धीमा होना गलत नहीं, इसका मतलब परिपक्व होना है।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348809"
+    },
+    {
+      "english": "I reflect on lessons, not only outcomes.",
+      "hindi": "मैं सिर्फ़ नतीजों पर नहीं, सीखों पर सोचता हूँ।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348811"
+    },
+    {
+      "english": "Breathe once, then respond calmly, not fast.",
+      "hindi": "एक बार सांस लो, फिर शांत जवाब दो।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348816"
+    },
+    {
+      "english": "If it’s stuck, step back, try again.",
+      "hindi": "अगर अटका है, थोड़ा पीछे हटो, फिर कोशिश करो।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348818"
+    },
+    {
+      "english": "Waiting in line, keep your focus steady.",
+      "hindi": "लाइन में इंतज़ार करते हुए, ध्यान स्थिर रखो।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348820"
+    },
+    {
+      "english": "Ask once, then give time for replies.",
+      "hindi": "एक बार पूछो, फिर जवाब के लिए समय दो।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348823"
+    },
+    {
+      "english": "When plans change, stay flexible, keep going.",
+      "hindi": "जब प्लान बदलें, लचीले रहो, आगे बढ़ो।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348825"
+    },
+    {
+      "english": "Don’t rush traffic, leave early, stay calm.",
+      "hindi": "ट्रैफिक में जल्दी मत करो, जल्दी निकलो, शांत रहो।",
+      "category": "Patience",
+      "generated_at": "2026-11-07T09:29:21.348828"
     }
   ],
-  "last_updated": "2026-11-06T12:09:35.474495"
+  "last_updated": "2026-11-07T09:29:21.348829"
 }
