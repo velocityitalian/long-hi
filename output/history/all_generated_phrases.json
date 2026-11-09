@@ -15839,7 +15839,727 @@
       "hindi": "जवाब देने से पहले रुको, फिर धीरे बोलो।",
       "category": "Inner Peace",
       "generated_at": "2026-11-08T09:45:39.426619"
+    },
+    {
+      "english": "Hey, I missed you, really.",
+      "hindi": "Hey, मुझे सच में तुम्हारी याद आई।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304670"
+    },
+    {
+      "english": "You look amazing, seriously.",
+      "hindi": "तुम तो कमाल लग रहे हो, सच में।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304687"
+    },
+    {
+      "english": "Tell me, what are you thinking?",
+      "hindi": "बताओ ना, तुम क्या सोच रहे हो?",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304689"
+    },
+    {
+      "english": "I’m smiling, because of you.",
+      "hindi": "तुम्हारी वजह से, मैं मुस्कुरा रहा/रही हूँ।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304691"
+    },
+    {
+      "english": "Don’t go, please, stay.",
+      "hindi": "मत जाओ ना, प्लीज़, रुक जाओ।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304693"
+    },
+    {
+      "english": "Can we meet today, please?",
+      "hindi": "आज मिल सकते हैं, प्लीज़?",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304695"
+    },
+    {
+      "english": "Just one message, and I’m happy.",
+      "hindi": "बस एक मैसेज, और मैं खुश हो जाता/जाती हूँ।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304697"
+    },
+    {
+      "english": "I feel safe, when you’re near.",
+      "hindi": "जब तुम पास होते हो, मुझे सुरक्षा लगती है।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304701"
+    },
+    {
+      "english": "Are you free right now, love?",
+      "hindi": "अभी फ्री हो, जान?",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304704"
+    },
+    {
+      "english": "I’m here, don’t worry, okay?",
+      "hindi": "मैं यहाँ हूँ, चिंता मत करो, ठीक है?",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304706"
+    },
+    {
+      "english": "Wait, I want to hold your hand.",
+      "hindi": "रुको ना, मैं तुम्हारा हाथ पकड़ना चाहता/चाहती हूँ।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304708"
+    },
+    {
+      "english": "You make my day better, instantly.",
+      "hindi": "तुम मेरी दिन को बेहतर कर देते हो, तुरंत।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304710"
+    },
+    {
+      "english": "Say my name, just like that.",
+      "hindi": "मेरा नाम बोलो ना, ऐसे ही।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304712"
+    },
+    {
+      "english": "I’m obsessed, with your smile.",
+      "hindi": "मैं तुम्हारी मुस्कान पर फिदा हूँ।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304714"
+    },
+    {
+      "english": "Be honest, do you like me?",
+      "hindi": "सच-सच बताओ, क्या तुम्हें मैं पसंद हूँ?",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304716"
+    },
+    {
+      "english": "That was cute, I liked it.",
+      "hindi": "ये तो बहुत प्यारा था, मुझे अच्छा लगा।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304718"
+    },
+    {
+      "english": "Let’s talk, right now, please.",
+      "hindi": "चलो बात करते हैं, अभी, प्लीज़।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304720"
+    },
+    {
+      "english": "I’m jealous, a little, okay?",
+      "hindi": "मुझे थोड़ा जलन हो रही है, ठीक है?",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304722"
+    },
+    {
+      "english": "Thanks for being with me, always.",
+      "hindi": "हमेशा मेरे साथ रहने के लिए, धन्यवाद।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304724"
+    },
+    {
+      "english": "I’m proud of you, so much.",
+      "hindi": "मैं तुम पर बहुत गर्व करता/करती हूँ।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304726"
+    },
+    {
+      "english": "You’re my favorite, no joke.",
+      "hindi": "तुम ही मेरे दिल के सबसे पसंद हो, नो जोक।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304728"
+    },
+    {
+      "english": "Hold on, I’m coming to you.",
+      "hindi": "रुको, मैं तुम्हारे पास आ रहा/रही हूँ।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304730"
+    },
+    {
+      "english": "I’m yours, slowly, happily.",
+      "hindi": "मैं तुम्हारा हूँ, धीरे-धीरे, खुशी से।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304731"
+    },
+    {
+      "english": "What do you want, tell me.",
+      "hindi": "तुम्हें क्या चाहिए, बताओ।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304734"
+    },
+    {
+      "english": "I like how you care, it shows.",
+      "hindi": "तुम कैसे ख्याल रखते हो, वो दिखता है।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304736"
+    },
+    {
+      "english": "Good morning, my love, how are you?",
+      "hindi": "सुप्रभात, मेरी जान, कैसे हो?",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304738"
+    },
+    {
+      "english": "Don’t overthink, I’m with you.",
+      "hindi": "ज्यादा मत सोचो, मैं तुम्हारे साथ हूँ।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304739"
+    },
+    {
+      "english": "Tonight, let’s stay close, okay?",
+      "hindi": "आज रात, चलो करीब रहें, ठीक है?",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304741"
+    },
+    {
+      "english": "Can I ask you something, please?",
+      "hindi": "क्या मैं आपसे कुछ पूछूं, प्लीज़?",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304743"
+    },
+    {
+      "english": "What’s your love language, tell me?",
+      "hindi": "आपकी लव लैंग्वेज़ क्या है, बताओ?",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304745"
+    },
+    {
+      "english": "Do you like calls, or just messages?",
+      "hindi": "तुम्हें कॉल पसंद हैं, या सिर्फ़ मैसेज?",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304747"
+    },
+    {
+      "english": "When do you feel most cared for?",
+      "hindi": "तुम्हें सबसे ज़्यादा केयर कब लगता है?",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304748"
+    },
+    {
+      "english": "Should we plan a small date this week?",
+      "hindi": "क्या हम इस हफ्ते एक छोटी डेट प्लान करें?",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304750"
+    },
+    {
+      "english": "Are you okay, did something happen?",
+      "hindi": "तुम ठीक हो, कुछ हुआ क्या?",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304752"
+    },
+    {
+      "english": "What makes you smile, tell me honestly.",
+      "hindi": "तुम्हें क्या देखकर मुस्कुराते हो, सच-सच बताओ।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304754"
+    },
+    {
+      "english": "Can we talk about us, a little?",
+      "hindi": "क्या हम हमारे बारे में थोड़ा बात करें?",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304756"
+    },
+    {
+      "english": "Do you want to meet at sunset, maybe?",
+      "hindi": "क्या तुम चाहोगे, शाम को मिलें, शायद?",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304757"
+    },
+    {
+      "english": "How do you like being appreciated?",
+      "hindi": "तुम्हें तारीफ़ कैसे पसंद है?",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304759"
+    },
+    {
+      "english": "What’s bothering you lately, tell me?",
+      "hindi": "इन दिनों क्या परेशान कर रहा है, बताओ?",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304761"
+    },
+    {
+      "english": "Can I listen, just for a minute?",
+      "hindi": "मैं सुनूं, सिर्फ़ एक मिनट?",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304763"
+    },
+    {
+      "english": "Do you prefer slow romance, or playful?",
+      "hindi": "तुम्हें धीमा रोमांस पसंद है, या मस्ती वाला?",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304764"
+    },
+    {
+      "english": "What should I do, when you’re upset?",
+      "hindi": "जब तुम उदास हो, तब मैं क्या करूं?",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304766"
+    },
+    {
+      "english": "Can I come by tonight, if you want?",
+      "hindi": "क्या मैं आज रात आऊं, अगर तुम चाहो?",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304768"
+    },
+    {
+      "english": "Should I send one cute voice note?",
+      "hindi": "क्या मैं एक प्यारा वॉइस नोट भेजूं?",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304769"
+    },
+    {
+      "english": "What do you need from me right now?",
+      "hindi": "तुम्हें अभी मुझसे क्या चाहिए?",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304771"
+    },
+    {
+      "english": "Do you feel more loved, with hugs?",
+      "hindi": "क्या गले लगाने से तुम्हें ज़्यादा प्यार लगता है?",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304772"
+    },
+    {
+      "english": "Can we keep this conversation going?",
+      "hindi": "क्या हम ये बातचीत आगे बढ़ाएं?",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304774"
+    },
+    {
+      "english": "How was your day, tell me details?",
+      "hindi": "आज का दिन कैसा रहा, सब बताओ?",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304777"
+    },
+    {
+      "english": "What’s your honest opinion about us?",
+      "hindi": "हमारे बारे में तुम्हारी ईमानदार राय क्या है?",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304778"
+    },
+    {
+      "english": "Can I text you later, after work?",
+      "hindi": "क्या मैं काम के बाद तुम्हें बाद में मैसेज करूंगा?",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304780"
+    },
+    {
+      "english": "Do you want more time, or space today?",
+      "hindi": "आज तुम्हें ज़्यादा समय चाहिए, या थोड़ा स्पेस?",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304782"
+    },
+    {
+      "english": "What’s the cutest thing you remember?",
+      "hindi": "तुम्हें सबसे प्यारी बात कौन-सी याद है?",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304783"
+    },
+    {
+      "english": "Can I hold your hand, just once?",
+      "hindi": "क्या मैं तुम्हारा हाथ पकड़ूं, बस एक बार?",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304785"
+    },
+    {
+      "english": "How can I make you feel better?",
+      "hindi": "मैं तुम्हें बेहतर कैसे महसूस करा सकता हूं?",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304787"
+    },
+    {
+      "english": "Do you want to watch something together?",
+      "hindi": "क्या तुम साथ में कुछ देखना चाहोगे?",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304789"
+    },
+    {
+      "english": "What’s your plan for tomorrow, love?",
+      "hindi": "कल का प्लान क्या है, जान?",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304791"
+    },
+    {
+      "english": "Can we be real, what do you want?",
+      "hindi": "चलो सच बोलें, तुम क्या चाहते हो?",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304793"
+    },
+    {
+      "english": "Where do you want this relationship to go?",
+      "hindi": "तुम इस रिश्ते को कहाँ तक ले जाना चाहती हो?",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304795"
+    },
+    {
+      "english": "Trust me, we’ll figure this out, together.",
+      "hindi": "मुझ पर भरोसा रखो, हम मिलकर संभाल लेंगे।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304797"
+    },
+    {
+      "english": "You’re doing great, and I notice it.",
+      "hindi": "तुम बहुत अच्छा कर रहे हो, मुझे दिखता है।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304799"
+    },
+    {
+      "english": "Stay soft, your love makes space for good.",
+      "hindi": "नरमी बनाए रखो, तुम्हारा प्यार अच्छी जगह बनाता है।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304801"
+    },
+    {
+      "english": "Breathe, I’m right here, with you.",
+      "hindi": "साँस लो, मैं यहीं हूँ, तुम्हारे साथ।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304803"
+    },
+    {
+      "english": "Your effort matters, and it will pay off.",
+      "hindi": "तुम्हारी मेहनत मायने रखती है, और रंग लाएगी।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304806"
+    },
+    {
+      "english": "Keep choosing me, I’ll keep choosing you.",
+      "hindi": "तुम मुझे चुनते रहो, मैं तुम्हें चुनता रहूँगा।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304808"
+    },
+    {
+      "english": "I’m cheering for you, always, no doubt.",
+      "hindi": "मैं तुम्हारे लिए हिम्मत बढ़ा रहा हूँ, हमेशा, बिना शक।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304810"
+    },
+    {
+      "english": "Let love be your calm, not your stress.",
+      "hindi": "प्यार को अपनी शांति बनाओ, तनाव नहीं।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304812"
+    },
+    {
+      "english": "You’re safe with me, talk freely.",
+      "hindi": "तुम मेरे साथ सुरक्षित हो, खुलकर बोलो।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304814"
+    },
+    {
+      "english": "Small wins, big love, that’s our vibe.",
+      "hindi": "छोटी जीत, बड़ा प्यार, यही हमारी फील है।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304816"
+    },
+    {
+      "english": "I love your mindset, it’s so brave.",
+      "hindi": "मुझे तुम्हारा नजरिया पसंद है, कितना बहादुर है।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304818"
+    },
+    {
+      "english": "Don’t shrink, you’re built for more.",
+      "hindi": "छोटे मत बनो, तुम्हारे लिए और भी है।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304820"
+    },
+    {
+      "english": "I’m proud of your growth, right now.",
+      "hindi": "मैं अभी तुम्हारी तरक्की पर गर्व कर रहा/रही हूँ।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304822"
+    },
+    {
+      "english": "You bring light, even on heavy days.",
+      "hindi": "तुम रोशनी लाते हो, भारी दिनों में भी।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304824"
+    },
+    {
+      "english": "Let’s stay hopeful, love, we’ve got this.",
+      "hindi": "आशावादी रहें, जान, हम कर लेंगे।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304826"
+    },
+    {
+      "english": "Your heart is brave, keep trusting it.",
+      "hindi": "तुम्हारा दिल बहादुर है, उस पर भरोसा रखो।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304828"
+    },
+    {
+      "english": "I’m here to hype you up, anytime.",
+      "hindi": "मैं तुम्हें जोश दिलाने के लिए हूँ, कभी भी।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304830"
+    },
+    {
+      "english": "You don’t have to earn my love.",
+      "hindi": "तुम्हें मेरे प्यार के लिए कमाना नहीं पड़ता।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304832"
+    },
+    {
+      "english": "Be kind to yourself, I’m in your corner.",
+      "hindi": "अपने साथ दयालु रहो, मैं तुम्हारे साथ हूँ।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304834"
+    },
+    {
+      "english": "I love how you bounce back, honestly.",
+      "hindi": "मुझे सच में पसंद है, तुम कैसे संभल जाते हो।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304835"
+    },
+    {
+      "english": "No pressure, I’ll love you through it.",
+      "hindi": "कोई दबाव नहीं, मैं इसमें भी तुम्हें प्यार करूँगा/करूँगी।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304837"
+    },
+    {
+      "english": "Your smile heals, let it stay.",
+      "hindi": "तुम्हारी मुस्कान ठीक कर देती है, उसे बनाए रखो।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304841"
+    },
+    {
+      "english": "We’ll take it slow, but we won’t stop.",
+      "hindi": "हम धीरे चलेंगे, लेकिन रुकेंगे नहीं।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304844"
+    },
+    {
+      "english": "Say it, I’ll hold you up, softly.",
+      "hindi": "बोलो, मैं तुम्हें सहारा दूँगा/दूँगी, धीरे से।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304846"
+    },
+    {
+      "english": "Love you like a promise, every day.",
+      "hindi": "मैं हर दिन तुम्हें एक वादे की तरह प्यार करता/करती हूँ।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304848"
+    },
+    {
+      "english": "You’re growing, and I’m so happy for you.",
+      "hindi": "तुम बढ़ रहे हो, और मुझे बहुत खुशी है।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304850"
+    },
+    {
+      "english": "Don’t fight alone, I’m your partner.",
+      "hindi": "अकेले मत लड़ो, मैं तुम्हारा साथी हूँ।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304852"
+    },
+    {
+      "english": "Your dreams are valid, I believe in you.",
+      "hindi": "तुम्हारे सपने सही हैं, मैं तुम पर यकीन करता/करती हूँ।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304853"
+    },
+    {
+      "english": "Lean on me, I won’t let go.",
+      "hindi": "मेरे सहारे रहो, मैं हाथ नहीं छोड़ूँगा/छोड़ूँगी।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304855"
+    },
+    {
+      "english": "Choose joy, love, I’ll choose you too.",
+      "hindi": "खुशी चुनो, जान, मैं भी तुम्हें चुनूँगा/चुनूँगी।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304858"
+    },
+    {
+      "english": "Loving you, makes me honest inside.",
+      "hindi": "तुमसे प्यार करके, मैं अंदर से ईमानदार होता हूँ।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304859"
+    },
+    {
+      "english": "I notice your effort, even when it’s quiet.",
+      "hindi": "मैं तुम्हारी मेहनत नोटिस करता हूँ, भले वो शांत हो।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304861"
+    },
+    {
+      "english": "Sometimes I get scared, but I choose you.",
+      "hindi": "कभी-कभी मैं डर जाता हूँ, पर मैं तुम्हें चुनता हूँ।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304863"
+    },
+    {
+      "english": "I want us, with patience and real talk.",
+      "hindi": "मैं चाहता हूँ हम दोनों, धैर्य और सच्ची बातों के साथ।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304865"
+    },
+    {
+      "english": "When you’re tired, I don’t ask questions.",
+      "hindi": "जब तुम थके होते हो, मैं सवाल नहीं करता।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304867"
+    },
+    {
+      "english": "Your calm, settles my thoughts, instantly.",
+      "hindi": "तुम्हारी शांति, मेरे ख्याल तुरंत सुलझा देती है।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304869"
+    },
+    {
+      "english": "I’m learning, how to love without pressure.",
+      "hindi": "मैं सीख रहा हूँ, बिना दबाव प्यार कैसे करना है।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304871"
+    },
+    {
+      "english": "I don’t need perfection, just your truth.",
+      "hindi": "मुझे परफेक्शन नहीं चाहिए, बस तुम्हारी सच्चाई।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304873"
+    },
+    {
+      "english": "Let’s stay soft, even when feelings get loud.",
+      "hindi": "चलो नरम रहें, भले भावनाएँ तेज हो जाएँ।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304875"
+    },
+    {
+      "english": "I respect your space, I love you more.",
+      "hindi": "मैं तुम्हारी जगह का सम्मान करता हूँ, और प्यार और बढ़ता है।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304876"
+    },
+    {
+      "english": "I’m proud of your honesty, always.",
+      "hindi": "मैं हमेशा तुम्हारी सच्चाई पर गर्व करता हूँ।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304878"
+    },
+    {
+      "english": "Even after fights, my heart stays yours.",
+      "hindi": "झगड़े के बाद भी, मेरा दिल तुम्हारा रहता है।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304880"
+    },
+    {
+      "english": "Your feelings matter, I won’t dismiss them.",
+      "hindi": "तुम्हारी भावनाएँ मायने रखती हैं, मैं उन्हें नजरअंदाज नहीं करूँगा।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304882"
+    },
+    {
+      "english": "I’m here to listen, not to win.",
+      "hindi": "मैं यहाँ सुनने के लिए हूँ, जीतने के लिए नहीं।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304884"
+    },
+    {
+      "english": "Slow answers are okay, love still reaches.",
+      "hindi": "धीरे जवाब देना ठीक है, प्यार फिर भी पहुँचता है।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304885"
+    },
+    {
+      "english": "I can feel your heart, it’s real.",
+      "hindi": "मैं तुम्हारे दिल की आवाज़ महसूस करता हूँ, वो असली है।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304887"
+    },
+    {
+      "english": "If we wait, the love will feel safer.",
+      "hindi": "अगर हम रुक जाएँ, तो प्यार ज़्यादा सुरक्षित लगेगा।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304889"
+    },
+    {
+      "english": "I don’t overthink, I just hold on.",
+      "hindi": "मैं ज्यादा सोचता नहीं, बस थामे रहता हूँ।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304892"
+    },
+    {
+      "english": "Today, I choose peace, and your smile.",
+      "hindi": "आज मैं शांति चुनता हूँ, और तुम्हारी मुस्कान।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304895"
+    },
+    {
+      "english": "I’ll be patient, your pace is enough.",
+      "hindi": "मैं धैर्य रखूँगा, तुम्हारी गति काफी है।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304897"
+    },
+    {
+      "english": "I trust you, even when I’m unsure.",
+      "hindi": "मैं तुम पर भरोसा करता हूँ, भले मैं थोड़ा असमंजस में हूँ।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304899"
+    },
+    {
+      "english": "Your love makes my broken days softer.",
+      "hindi": "तुम्हारा प्यार मेरे टूटे दिनों को नरम कर देता है।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304901"
+    },
+    {
+      "english": "I’m learning to say sorry, first.",
+      "hindi": "मैं पहले माफ़ी माँगना सीख रहा हूँ।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304904"
+    },
+    {
+      "english": "No drama needed, just your real closeness.",
+      "hindi": "ड्रामा नहीं चाहिए, बस तुम्हारी असली नज़दीकी।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304906"
+    },
+    {
+      "english": "I remember small moments, they mean a lot.",
+      "hindi": "मैं छोटी-छोटी यादें रखता हूँ, वो बहुत मायने रखती हैं।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304908"
+    },
+    {
+      "english": "If you feel low, I’ll stay steady.",
+      "hindi": "अगर तुम उदास हो, मैं स्थिर रहूँगा।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304910"
+    },
+    {
+      "english": "My heart speaks slow, but it means you.",
+      "hindi": "मेरा दिल धीरे बोलता है, पर उसमें मतलब तुम हो।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304911"
+    },
+    {
+      "english": "Let’s be brave, and gentle, together.",
+      "hindi": "चलो हम साथ बहादुर भी बनें, और नरम भी।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304915"
+    },
+    {
+      "english": "I’ll love you through change, not just easy days.",
+      "hindi": "मैं तुम्हें बदलाव में भी प्यार करूँगा, सिर्फ आसान दिनों में नहीं।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304917"
+    },
+    {
+      "english": "Text me when you’re free, I’m here.",
+      "hindi": "जब तुम फ्री हो, मुझे मैसेज करना, मैं हूँ।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304919"
+    },
+    {
+      "english": "Before you sleep, kiss my worries away.",
+      "hindi": "सोने से पहले, मेरे सारे टेंशन दूर कर देना।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304921"
+    },
+    {
+      "english": "Take a breath, I’ll talk slowly with you.",
+      "hindi": "एक सांस लो, मैं धीरे-धीरे बात करूँगा/करूँगी।",
+      "category": "Love",
+      "generated_at": "2026-11-09T10:42:46.304923"
     }
   ],
-  "last_updated": "2026-11-08T09:45:39.426621"
+  "last_updated": "2026-11-09T10:42:46.304924"
 }
