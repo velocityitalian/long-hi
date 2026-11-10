@@ -16559,7 +16559,727 @@
       "hindi": "एक सांस लो, मैं धीरे-धीरे बात करूँगा/करूँगी।",
       "category": "Love",
       "generated_at": "2026-11-09T10:42:46.304923"
+    },
+    {
+      "english": "Totally, I’m in, let’s do it.",
+      "hindi": "Bilkul, main tayyar hoon, chalo karte hain.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776756"
+    },
+    {
+      "english": "Yeah, I agree, that sounds perfect.",
+      "hindi": "Haan, main sehmat hoon, bilkul sahi lag raha hai.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776770"
+    },
+    {
+      "english": "No way, that’s not my vibe, sorry.",
+      "hindi": "Bilkul nahi, yeh meri choice nahi hai, sorry.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776776"
+    },
+    {
+      "english": "Seriously, you’re right, I think so too.",
+      "hindi": "Sach mein, tum sahi ho, main bhi yahi sochta hoon.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776779"
+    },
+    {
+      "english": "I’m not convinced, wait, rethink that.",
+      "hindi": "Mujhe yakeen nahi hai, ruko, dobara socho.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776784"
+    },
+    {
+      "english": "Okay, I agree, you make sense.",
+      "hindi": "Theek hai, main sehmat hoon, tumhari baat sahi hai.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776786"
+    },
+    {
+      "english": "Absolutely not, that won’t work for me.",
+      "hindi": "Bilkul nahi, yeh mere liye nahi hoga.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776789"
+    },
+    {
+      "english": "Fair point, I get what you mean.",
+      "hindi": "Sahi baat hai, mujhe samajh aa raha hai.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776794"
+    },
+    {
+      "english": "I don’t think so, not today, maybe later.",
+      "hindi": "Mujhe nahi lagta, aaj nahi, shayad baad mein.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776797"
+    },
+    {
+      "english": "Yes, exactly, that’s what I was thinking.",
+      "hindi": "Haan, bilkul, main bhi yahi soch raha tha.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776800"
+    },
+    {
+      "english": "I’m with you, let’s go for it.",
+      "hindi": "Main tumhare saath hoon, chalo karte hain.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776803"
+    },
+    {
+      "english": "Honestly, I disagree, that sounds risky.",
+      "hindi": "Sach bolun, main disagree karta hoon, yeh risky lag raha hai.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776805"
+    },
+    {
+      "english": "Yep, you’re right, count me in.",
+      "hindi": "Haan, tum sahi ho, main bhi saath hoon.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776808"
+    },
+    {
+      "english": "Not really, I see it differently.",
+      "hindi": "Nahi, zyada nahi, main isko alag tarah se dekhta hoon.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776811"
+    },
+    {
+      "english": "Sure, why not, that sounds good.",
+      "hindi": "Bilkul, kyun nahi, yeh toh sahi lagta hai.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776813"
+    },
+    {
+      "english": "Don’t push me, I’m gonna pass today.",
+      "hindi": "Mat dhakka do, main aaj mana kar raha hoon.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776816"
+    },
+    {
+      "english": "Totally get it, I agree with you.",
+      "hindi": "Poora samajh aaya, main tumse sehmat hoon.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776818"
+    },
+    {
+      "english": "I’m unsure, let me think for a sec.",
+      "hindi": "Mujhe doubt hai, ek second sochne do.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776820"
+    },
+    {
+      "english": "That’s true, and I feel the same.",
+      "hindi": "Yeh sahi hai, aur mujhe bhi aisa hi lagta hai.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776823"
+    },
+    {
+      "english": "No, I can’t, that’s not my style.",
+      "hindi": "Nahi, main nahi kar sakta, yeh meri style nahi hai.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776825"
+    },
+    {
+      "english": "Yes please, I’m down, let’s start.",
+      "hindi": "Haan please, main ready hoon, chalo shuru karein.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776828"
+    },
+    {
+      "english": "Not convinced at all, try something else.",
+      "hindi": "Bilkul bhi nahi, kuch aur try karo.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776830"
+    },
+    {
+      "english": "You’re right, that’s the best idea.",
+      "hindi": "Tum sahi ho, yahi toh best idea hai.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776833"
+    },
+    {
+      "english": "I respectfully disagree, but hear me out.",
+      "hindi": "Main izzat se disagree karta hoon, par suno toh.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776835"
+    },
+    {
+      "english": "That makes sense, I’m with that plan.",
+      "hindi": "Samajh aaya, main is plan ke saath hoon.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776837"
+    },
+    {
+      "english": "I’m against it, sorry, not for me.",
+      "hindi": "Main iske khilaf hoon, sorry, mere liye nahi.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776890"
+    },
+    {
+      "english": "Exactly, you nailed it, I agree.",
+      "hindi": "Bilkul, tumne sahi pakda, main sehmat hoon.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776893"
+    },
+    {
+      "english": "I don’t buy it, it’s not convincing.",
+      "hindi": "Main nahi maanta, yeh convincing nahi hai.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776896"
+    },
+    {
+      "english": "Okay, I’ll agree, but only if…",
+      "hindi": "Theek hai, main sehmat hoon, bas agar…",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776898"
+    },
+    {
+      "english": "Hard no, that’s a complete deal-breaker.",
+      "hindi": "Bilkul mana, yeh toh deal-breaker hai.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776901"
+    },
+    {
+      "english": "Do you think it’s a good idea, really?",
+      "hindi": "क्या आपको लगता है, सच में, ये ठीक है?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776904"
+    },
+    {
+      "english": "I might be wrong, what do you think?",
+      "hindi": "मैं गलत हो सकता हूँ, आप क्या सोचते हैं?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776906"
+    },
+    {
+      "english": "Can we discuss it, I’m curious?",
+      "hindi": "क्या हम बात कर सकते हैं, मैं जिज्ञासु हूँ?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776909"
+    },
+    {
+      "english": "I’m not sure, can you explain more?",
+      "hindi": "मुझे पक्का नहीं है, आप थोड़ा और समझाओगे?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776911"
+    },
+    {
+      "english": "Fair question, but I see it differently.",
+      "hindi": "बात तो सही है, लेकिन मैं अलग तरह से देखता हूँ।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776914"
+    },
+    {
+      "english": "How about we try your plan first, okay?",
+      "hindi": "तुम्हारा प्लान पहले ट्राय करें, ठीक है?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776916"
+    },
+    {
+      "english": "If I’m honest, I’m hesitant about this.",
+      "hindi": "अगर मैं ईमानदारी से कहूँ, मैं इस बारे में झिझक रहा हूँ।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776920"
+    },
+    {
+      "english": "What’s your take, I really want clarity.",
+      "hindi": "तुम्हारा क्या नजरिया है, मुझे साफ-साफ समझना है।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776925"
+    },
+    {
+      "english": "Do you mean it like, now or later?",
+      "hindi": "तुम ऐसा कह रहे हो, अभी या बाद में?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776927"
+    },
+    {
+      "english": "I hear you, but that doesn’t convince me.",
+      "hindi": "मैं समझ रहा हूँ, लेकिन ये मुझे नहीं मनाता।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776930"
+    },
+    {
+      "english": "You’re close, though, my view is different.",
+      "hindi": "तुम करीब हो, फिर भी मेरा नजरिया अलग है।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776932"
+    },
+    {
+      "english": "Let me ask, why do you think so?",
+      "hindi": "एक सवाल, तुम ऐसा क्यों सोचते हो?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776935"
+    },
+    {
+      "english": "I agree on the goal, not the method.",
+      "hindi": "लक्ष्य पर तो मैं सहमत हूँ, तरीका पर नहीं।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776937"
+    },
+    {
+      "english": "Are you sure, because I’m seeing risks?",
+      "hindi": "क्या तुम पक्के हो, क्योंकि मुझे खतरे दिख रहे हैं?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776939"
+    },
+    {
+      "english": "If we change one thing, would it work?",
+      "hindi": "अगर हम एक चीज बदलें, तो क्या चलेगा?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776942"
+    },
+    {
+      "english": "I’m open to it, but not at that cost.",
+      "hindi": "मैं मानने को तैयार हूँ, लेकिन उस कीमत पर नहीं।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776944"
+    },
+    {
+      "english": "Should we ask someone, I’m unsure.",
+      "hindi": "क्या हमें किसी से पूछना चाहिए, मैं unsure हूँ।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776947"
+    },
+    {
+      "english": "Honestly, I don’t think this is the way.",
+      "hindi": "सच कहूँ तो, मुझे नहीं लगता ये सही तरीका है।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776949"
+    },
+    {
+      "english": "Do you want help, or should I wait?",
+      "hindi": "क्या तुम्हें मदद चाहिए, या मैं रुकूँ?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776951"
+    },
+    {
+      "english": "I’m with you on parts, still not fully.",
+      "hindi": "कुछ बातों में तो मैं साथ हूँ, पर पूरी तरह नहीं।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776954"
+    },
+    {
+      "english": "Let’s be real, that plan sounds weak.",
+      "hindi": "चलो सच में, ये प्लान कमज़ोर लग रहा है।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776956"
+    },
+    {
+      "english": "Can you slow down, I missed that part?",
+      "hindi": "जरा धीरे बोलो, वो हिस्सा मैं मिस कर गया।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776958"
+    },
+    {
+      "english": "I get your point, but I’ll pass.",
+      "hindi": "मैं तुम्हारी बात समझता हूँ, लेकिन मैं मना करूँगा।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776960"
+    },
+    {
+      "english": "What if we do it differently, just hear me.",
+      "hindi": "अगर हम अलग तरीके से करें, एक बार मेरी सुनो।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776962"
+    },
+    {
+      "english": "Is that your final decision, or flexible?",
+      "hindi": "ये तुम्हारा फाइनल फैसला है, या बदला जा सकता है?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776964"
+    },
+    {
+      "english": "I respect your opinion, but I disagree.",
+      "hindi": "मैं तुम्हारी राय का सम्मान करता हूँ, पर मैं असहमत हूँ।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776966"
+    },
+    {
+      "english": "So you’re saying yes, even with delays?",
+      "hindi": "तो तुम कह रहे हो हाँ, भले ही देरी हो?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776969"
+    },
+    {
+      "english": "I think it’ll backfire, what do you think?",
+      "hindi": "मुझे लगता है उल्टा पड़ सकता है, तुम क्या सोचते हो?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776971"
+    },
+    {
+      "english": "Can we set rules, so nobody gets confused?",
+      "hindi": "क्या हम नियम तय कर सकते हैं, ताकि कोई कन्फ्यूज न हो?",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776974"
+    },
+    {
+      "english": "I’m good with it, if it stays practical.",
+      "hindi": "मैं इसके लिए ठीक हूँ, बस ये practical रहे।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776976"
+    },
+    {
+      "english": "That sounds right, I’ll go with it.",
+      "hindi": "ये बात सही लगती है, मैं यही लूंगा।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776979"
+    },
+    {
+      "english": "True, that’s exactly how people say it.",
+      "hindi": "बिल्कुल सही, लोग ऐसे ही बोलते हैं।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776982"
+    },
+    {
+      "english": "Makes sense, I’m on the same page.",
+      "hindi": "समझ आया, मैं भी उसी बात पर हूँ।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776985"
+    },
+    {
+      "english": "I like your thinking, keep it simple.",
+      "hindi": "मुझे आपकी सोच पसंद है, इसे आसान रखें।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776987"
+    },
+    {
+      "english": "Agreed, this is the practical way.",
+      "hindi": "हाँ, ये काम की बात है, यही सही तरीका है।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776989"
+    },
+    {
+      "english": "You’re not wrong, that’s a fair point.",
+      "hindi": "आप गलत नहीं हैं, ये वाजिब बात है।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776994"
+    },
+    {
+      "english": "Exactly, let’s not overthink it.",
+      "hindi": "सही है, ज़्यादा मत सोचो।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.776997"
+    },
+    {
+      "english": "I see it that way too, honestly.",
+      "hindi": "मैं भी उसी तरह सोचता हूँ, सच में।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777001"
+    },
+    {
+      "english": "Fair enough, your logic holds up.",
+      "hindi": "ठीक है, आपकी बात में दम है।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777005"
+    },
+    {
+      "english": "I’m with you, no doubt about that.",
+      "hindi": "मैं आपके साथ हूँ, इसमें शक नहीं।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777007"
+    },
+    {
+      "english": "Maybe, but it feels risky to me.",
+      "hindi": "हो सकता है, पर मुझे ये रिस्की लग रहा है।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777009"
+    },
+    {
+      "english": "Not quite, that won’t work for everyone.",
+      "hindi": "पूरी तरह नहीं, सबके लिए ये ठीक नहीं।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777012"
+    },
+    {
+      "english": "I don’t think so, that’s a stretch.",
+      "hindi": "मुझे नहीं लगता, ये तो दूर की बात है।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777014"
+    },
+    {
+      "english": "I get you, but I’d rather not.",
+      "hindi": "समझ गया, लेकिन मैं नहीं करना चाहूँगा।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777017"
+    },
+    {
+      "english": "Yeah, but easy there, slow down.",
+      "hindi": "हाँ, पर थोड़ा रुकिए, धीरे चलिए।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777019"
+    },
+    {
+      "english": "That sounds good, though I’m unsure.",
+      "hindi": "ये अच्छा लग रहा है, पर मुझे शक है।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777021"
+    },
+    {
+      "english": "I hear you, still I’m not buying it.",
+      "hindi": "मैं आपकी बात सुन रहा हूँ, फिर भी नहीं मानता।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777026"
+    },
+    {
+      "english": "We’ll see, but I’m not betting on it.",
+      "hindi": "देखते हैं, पर मैं भरोसा नहीं करूँगा।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777028"
+    },
+    {
+      "english": "That’s a solid point, I’ll admit it.",
+      "hindi": "ये मजबूत बात है, मानता हूँ।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777031"
+    },
+    {
+      "english": "You’re right on the basics, yeah.",
+      "hindi": "बुनियादी बातों में आप सही हैं।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777033"
+    },
+    {
+      "english": "Agree, but only if it’s realistic.",
+      "hindi": "हाँ, पर तभी जब वो सच में संभव हो।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777036"
+    },
+    {
+      "english": "Nope, that idea doesn’t sit right.",
+      "hindi": "नहीं, ये आइडिया मुझे ठीक नहीं लग रहा।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777038"
+    },
+    {
+      "english": "I’m not against it, but later maybe.",
+      "hindi": "मैं विरोध नहीं कर रहा, पर बाद में ठीक है।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777040"
+    },
+    {
+      "english": "Okay, I’ll try it, but keep backup.",
+      "hindi": "ठीक है, मैं ट्राय करूँगा, पर बैकअप रखना।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777043"
+    },
+    {
+      "english": "True, but we need a better plan.",
+      "hindi": "सही है, पर हमें बेहतर प्लान चाहिए।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777045"
+    },
+    {
+      "english": "I can’t agree, that feels like a shortcut.",
+      "hindi": "मैं सहमत नहीं हूँ, ये शॉर्टकट लगता है।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777047"
+    },
+    {
+      "english": "You’ve got a point, still not convinced.",
+      "hindi": "आपकी बात में दम है, फिर भी नहीं मान रहा।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777050"
+    },
+    {
+      "english": "Honestly, that sounds all talk, no action.",
+      "hindi": "सच कहूँ, ये बातें हैं, काम नहीं।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777052"
+    },
+    {
+      "english": "Let’s do it your way, I trust that.",
+      "hindi": "चलो आपके तरीके से करते हैं, मुझे भरोसा है।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777055"
+    },
+    {
+      "english": "I disagree, we’ll only lose time here.",
+      "hindi": "मैं असहमत हूँ, यहाँ तो समय ही जाएगा।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777057"
+    },
+    {
+      "english": "I feel you, but I’m unsure today.",
+      "hindi": "मैं आपकी बात समझता हूँ, लेकिन आज unsure हूँ।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777060"
+    },
+    {
+      "english": "That makes sense, I’m just cautious.",
+      "hindi": "ये तो सही लग रहा है, बस मैं सावधान हूँ।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777062"
+    },
+    {
+      "english": "I hear you, still I need time.",
+      "hindi": "मैं सुन रहा हूँ, पर मुझे समय चाहिए।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777064"
+    },
+    {
+      "english": "Honestly, I’m not fully on board.",
+      "hindi": "सच कहूँ तो, मैं पूरी तरह साथ नहीं हूँ।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777067"
+    },
+    {
+      "english": "I agree with you, at least partially.",
+      "hindi": "मैं आपकी बात से सहमत हूँ, कम से कम कुछ हद तक।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777069"
+    },
+    {
+      "english": "You’re right, but my gut says wait.",
+      "hindi": "आप सही हैं, लेकिन मेरी अंदरूनी आवाज़ कहती है रुकें।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777072"
+    },
+    {
+      "english": "I respect it, yet I’m not convinced.",
+      "hindi": "मैं उसका सम्मान करता हूँ, फिर भी मुझे यकीन नहीं।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777074"
+    },
+    {
+      "english": "Yes, that’s helpful, and I’ll try it.",
+      "hindi": "हाँ, ये मददगार है, मैं इसे ट्राय करूँगा।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777077"
+    },
+    {
+      "english": "I get it, but I don’t feel ready.",
+      "hindi": "मुझे समझ आता है, पर मैं तैयार नहीं महसूस कर रहा।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777079"
+    },
+    {
+      "english": "That’s true, but I’d handle it differently.",
+      "hindi": "ये सच है, लेकिन मैं इसे अलग तरह संभालूँगा।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777084"
+    },
+    {
+      "english": "I’m with you on this, genuinely.",
+      "hindi": "मैं इस पर आपके साथ हूँ, सच में।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777086"
+    },
+    {
+      "english": "Maybe later, right now I’m not convinced.",
+      "hindi": "शायद बाद में, अभी मैं convinced नहीं हूँ।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777088"
+    },
+    {
+      "english": "I agree, I just want it slower.",
+      "hindi": "हाँ मैं सहमत हूँ, बस मैं इसे धीमा चाहता हूँ।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777091"
+    },
+    {
+      "english": "I’m not against it, but I’m cautious.",
+      "hindi": "मैं इसका विरोध नहीं कर रहा, बस सावधान हूँ।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777093"
+    },
+    {
+      "english": "That plan works, for your situation.",
+      "hindi": "ये प्लान काम करेगा, आपकी स्थिति में।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777095"
+    },
+    {
+      "english": "I’m still thinking, it’s not a yes.",
+      "hindi": "मैं अभी सोच रहा हूँ, ये हाँ नहीं है।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777098"
+    },
+    {
+      "english": "Fair enough, I just need clearer details.",
+      "hindi": "ठीक है, बस मुझे ज़्यादा साफ़ details चाहिए।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777100"
+    },
+    {
+      "english": "I understand, but I can’t commit yet.",
+      "hindi": "मैं समझता हूँ, लेकिन अभी मैं कमिट नहीं कर सकता।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777103"
+    },
+    {
+      "english": "I totally get you, but I disagree.",
+      "hindi": "मैं आपको पूरी तरह समझता हूँ, पर असहमत हूँ।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777105"
+    },
+    {
+      "english": "I think it’s risky, even if it’s smart.",
+      "hindi": "मुझे लगता है ये रिस्की है, भले ही ये स्मार्ट लगे।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777107"
+    },
+    {
+      "english": "You may be right, but I’m uneasy.",
+      "hindi": "हो सकता है आप सही हों, पर मुझे बेचैनी हो रही है।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777110"
+    },
+    {
+      "english": "I like the direction, just not the timing.",
+      "hindi": "मैं दिशा पसंद करता हूँ, बस टाइमिंग नहीं।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777112"
+    },
+    {
+      "english": "I’m open to it, but slowly and carefully.",
+      "hindi": "मैं तैयार हूँ, लेकिन धीरे-धीरे और ध्यान से।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777114"
+    },
+    {
+      "english": "Let me be honest, I don’t see it working.",
+      "hindi": "ईमानदारी से बताऊँ, मुझे ये कामयाब नहीं लगता।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777118"
+    },
+    {
+      "english": "We can try, but I want a safety plan.",
+      "hindi": "हम ट्राय कर सकते हैं, लेकिन मैं सेफ्टी प्लान चाहता हूँ।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777121"
+    },
+    {
+      "english": "You make sense, I just won’t rush.",
+      "hindi": "आपकी बात सही लगती है, पर मैं नहीं भागूँगा।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777123"
+    },
+    {
+      "english": "I partially agree, the rest feels shaky.",
+      "hindi": "मैं कुछ हद तक सहमत हूँ, बाकी हिस्सा कमजोर लगता है।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777125"
+    },
+    {
+      "english": "I respect your view, it’s just not mine.",
+      "hindi": "मैं आपकी राय का सम्मान करता हूँ, लेकिन ये मेरी नहीं।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777128"
+    },
+    {
+      "english": "I can see why you think that, yet.",
+      "hindi": "मैं समझता हूँ कि आप ऐसा क्यों सोचते हैं, फिर भी।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777130"
+    },
+    {
+      "english": "Let’s pause, I want to reflect first.",
+      "hindi": "चलो रुकते हैं, पहले मैं सोच-विचार करूँगा।",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-10T10:40:14.777133"
     }
   ],
-  "last_updated": "2026-11-09T10:42:46.304924"
+  "last_updated": "2026-11-10T10:40:14.777134"
 }
