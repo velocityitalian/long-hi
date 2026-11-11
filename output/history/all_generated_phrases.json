@@ -17279,7 +17279,727 @@
       "hindi": "चलो रुकते हैं, पहले मैं सोच-विचार करूँगा।",
       "category": "Agreeing & Disagreeing",
       "generated_at": "2026-11-10T10:40:14.777133"
+    },
+    {
+      "english": "Hi, what’s fresh today, please?",
+      "hindi": "नमस्ते, आज़ क्या ताज़ा है, कृपया?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544422"
+    },
+    {
+      "english": "One cappuccino, to go, please.",
+      "hindi": "एक कैप्पुचीनो, ले जाने के लिए, कृपया।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544438"
+    },
+    {
+      "english": "Do you have oat milk, right?",
+      "hindi": "क्या आपके पास ओट मिल्क है, सही?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544440"
+    },
+    {
+      "english": "Is this pastry vegetarian, by chance?",
+      "hindi": "क्या ये पेस्ट्री वेजिटेरियन है, अगर हो तो?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544442"
+    },
+    {
+      "english": "Can I get it without sugar?",
+      "hindi": "क्या मैं बिना शक्कर के ले सकता/सकती हूँ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544443"
+    },
+    {
+      "english": "How much is the croissant?",
+      "hindi": "ये क्रोसाँ कितने का है?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544445"
+    },
+    {
+      "english": "That smells amazing, seriously.",
+      "hindi": "ये बहुत बढ़िया महक रहा है, सच में।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544447"
+    },
+    {
+      "english": "I’ll take this, it looks fresh.",
+      "hindi": "मैं ये ले लूँगा/लूँगी, ये ताज़ा लग रहा है।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544451"
+    },
+    {
+      "english": "Wait, do you have it warm?",
+      "hindi": "रुकिए, क्या ये गरम मिलेगा?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544454"
+    },
+    {
+      "english": "No, thanks, I’ll try something else.",
+      "hindi": "नहीं, धन्यवाद, मैं कुछ और ट्राय करता/करती हूँ।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544456"
+    },
+    {
+      "english": "Is this hot, or just warm?",
+      "hindi": "ये गरम है, या बस थोड़ा गर्म?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544458"
+    },
+    {
+      "english": "What’s your best-selling cupcake today?",
+      "hindi": "आज आपका सबसे ज्यादा बिकने वाला कपकेक कौन सा है?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544461"
+    },
+    {
+      "english": "One more, it’s so good!",
+      "hindi": "एक और, ये तो बहुत अच्छा है!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544464"
+    },
+    {
+      "english": "Do you have free refills here?",
+      "hindi": "यहाँ रिफिल फ्री मिलती है क्या?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544465"
+    },
+    {
+      "english": "Sorry, I meant medium size.",
+      "hindi": "माफ़ कीजिए, मेरा मतलब मीडियम साइज था।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544468"
+    },
+    {
+      "english": "Can I sit here for a while?",
+      "hindi": "क्या मैं थोड़ी देर यहाँ बैठ सकता/सकती हूँ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544472"
+    },
+    {
+      "english": "Do you have Wi‑Fi, by the way?",
+      "hindi": "वैसे, आपके पास Wi‑Fi है क्या?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544474"
+    },
+    {
+      "english": "This is my go-to drink, honestly.",
+      "hindi": "ये मेरा पसंदीदा ड्रिंक है, सच में।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544476"
+    },
+    {
+      "english": "Can I customize it, like less foam?",
+      "hindi": "क्या मैं इसे कस्टमाइज़ कर सकता/सकती हूँ, जैसे कम फोम?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544477"
+    },
+    {
+      "english": "No problem, I’ll wait a bit.",
+      "hindi": "कोई बात नहीं, मैं थोड़ी देर रुक जाता/जाती हूँ।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544480"
+    },
+    {
+      "english": "Oops, is that the receipt?",
+      "hindi": "अरे, ये रसीद है क्या?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544481"
+    },
+    {
+      "english": "Is there a discount for students?",
+      "hindi": "क्या स्टूडेंट्स के लिए डिस्काउंट है?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544483"
+    },
+    {
+      "english": "I’ll smell first, then decide, okay?",
+      "hindi": "पहले सूँघ लूँगा/लूँगी, फिर तय करूँगा/करूँगी, ठीक?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544485"
+    },
+    {
+      "english": "What’s in this, exactly?",
+      "hindi": "इसमें क्या-क्या है, बिल्कुल?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544487"
+    },
+    {
+      "english": "That’s perfect, thank you so much!",
+      "hindi": "ये तो बिल्कुल सही है, बहुत-बहुत धन्यवाद!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544489"
+    },
+    {
+      "english": "How long until this is ready?",
+      "hindi": "ये तैयार होने में कितना समय लगेगा?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544490"
+    },
+    {
+      "english": "Can I get the menu, please?",
+      "hindi": "क्या मुझे मेन्यू मिल सकता है, कृपया?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544492"
+    },
+    {
+      "english": "Great, I’m ready, let’s order!",
+      "hindi": "ठीक है, मैं तैयार हूँ, चलिए ऑर्डर करें!",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544494"
+    },
+    {
+      "english": "Which coffee is less bitter, here?",
+      "hindi": "यहाँ कौन-सी कॉफी कम कड़वी है?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544496"
+    },
+    {
+      "english": "Do you have something with less caffeine?",
+      "hindi": "क्या आपके पास कम कैफीन वाला कुछ है?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544498"
+    },
+    {
+      "english": "Can I see the bakery trays, please?",
+      "hindi": "क्या मैं बेकरी ट्रे देख सकता हूँ, प्लीज़?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544500"
+    },
+    {
+      "english": "What’s your recommendation for first-timers?",
+      "hindi": "पहली बार आए हैं, तो क्या सुझाव दोगे?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544503"
+    },
+    {
+      "english": "Is this bread freshly baked today?",
+      "hindi": "क्या यह ब्रेड आज ताज़ा बेक हुआ है?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544504"
+    },
+    {
+      "english": "Do you have any seasonal specials right now?",
+      "hindi": "अभी कोई सीज़नल स्पेशल है क्या?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544506"
+    },
+    {
+      "english": "Can I ask about the ingredients, please?",
+      "hindi": "क्या मैं सामग्री के बारे में पूछ सकता हूँ, प्लीज़?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544508"
+    },
+    {
+      "english": "Do you offer cinnamon, or is it already mixed?",
+      "hindi": "क्या इसमें दालचीनी डालते हैं, या पहले से मिलती है?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544510"
+    },
+    {
+      "english": "What’s the best drink for rainy days?",
+      "hindi": "बारिश वाले दिन के लिए सबसे अच्छा पेय क्या है?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544511"
+    },
+    {
+      "english": "Can I try a small sample first?",
+      "hindi": "क्या मैं पहले एक छोटा सा ट्रायल ले सकता हूँ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544513"
+    },
+    {
+      "english": "Is there a spicier option in the pastry?",
+      "hindi": "क्या आपकी पेस्ट्री में कुछ तीखा भी मिलता है?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544516"
+    },
+    {
+      "english": "What do you suggest with this pastry?",
+      "hindi": "इस पेस्ट्री के साथ आप क्या सुझाते हो?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544518"
+    },
+    {
+      "english": "Could I get it half sweet, please?",
+      "hindi": "क्या मैं इसे आधा मीठा करवा सकता हूँ, प्लीज़?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544520"
+    },
+    {
+      "english": "Do you have vegan options today?",
+      "hindi": "क्या आज आपके पास वीगन विकल्प हैं?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544521"
+    },
+    {
+      "english": "Is this muffin warm inside?",
+      "hindi": "क्या यह मफिन अंदर से गर्म है?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544523"
+    },
+    {
+      "english": "Can I get a lid for the takeaway cup?",
+      "hindi": "टेकअवे कप के लिए ढक्कन मिल जाएगा?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544524"
+    },
+    {
+      "english": "Where do I pay, counter या at the kiosk?",
+      "hindi": "मैं कहाँ भुगतान करूँ, काउंटर पर या कियोस्क पर?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544527"
+    },
+    {
+      "english": "Do you have sugar-free syrup, by any chance?",
+      "hindi": "क्या आपके पास शुगर-फ्री सिरप है, वैसे?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544529"
+    },
+    {
+      "english": "How spicy is the filling, roughly?",
+      "hindi": "इसका भरावन कितना तीखा है, लगभग?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544530"
+    },
+    {
+      "english": "What time do you usually restock cakes?",
+      "hindi": "आप केक आमतौर पर कब रीस्टॉक करते हो?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544533"
+    },
+    {
+      "english": "Is this available gluten-free, or not?",
+      "hindi": "क्या यह ग्लूटेन-फ्री में भी मिलती है?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544535"
+    },
+    {
+      "english": "Can I get it less hot, please?",
+      "hindi": "क्या इसे थोड़ा कम गरम कर दोगे, प्लीज़?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544538"
+    },
+    {
+      "english": "Which tea pairs best with your desserts?",
+      "hindi": "आपकी मिठाइयों के साथ कौन-सी चाय सबसे अच्छी लगती है?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544540"
+    },
+    {
+      "english": "Do you wrap pastries so they stay fresh?",
+      "hindi": "क्या आप पेस्ट्री ऐसे पैक करते हो, ताकि ताज़ा रहे?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544542"
+    },
+    {
+      "english": "Can I get recommendations for kids too?",
+      "hindi": "क्या बच्चों के लिए भी कुछ सुझाव मिलेगा?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544543"
+    },
+    {
+      "english": "Is there a nut-free option in cakes?",
+      "hindi": "क्या केक में नट्स के बिना विकल्प मिल जाता है?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544545"
+    },
+    {
+      "english": "How do I order for two drinks?",
+      "hindi": "दो ड्रिंक्स के लिए मैं कैसे ऑर्डर करूँ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544547"
+    },
+    {
+      "english": "What’s the quickest thing you have today?",
+      "hindi": "आज आपके पास सबसे जल्दी बनने वाली चीज़ क्या है?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544549"
+    },
+    {
+      "english": "If I’m not happy, can I exchange?",
+      "hindi": "अगर मुझे पसंद नहीं आया, तो क्या मैं बदलवा सकता हूँ?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544551"
+    },
+    {
+      "english": "Take a breath, enjoy your first sip.",
+      "hindi": "एक सांस लो, अपना पहला सिप एंजॉय करो।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544552"
+    },
+    {
+      "english": "You’ve got this, keep choosing what feels right.",
+      "hindi": "तुम कर सकते हो, जो सही लगे वही चुनो।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544555"
+    },
+    {
+      "english": "Small steps count, one coffee at a time.",
+      "hindi": "छोटे कदम मायने रखते हैं, एक कॉफी एक बार।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544556"
+    },
+    {
+      "english": "Today is for you, slow down a little.",
+      "hindi": "आज तुम्हारे लिए है, थोड़ा धीरे चलो।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544558"
+    },
+    {
+      "english": "Keep it simple, your taste will guide you.",
+      "hindi": "सीधा रखो, तुम्हारा स्वाद तुम्हें गाइड करेगा।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544560"
+    },
+    {
+      "english": "Try something new, it might surprise you.",
+      "hindi": "कुछ नया ट्राय करो, शायद तुम्हें सरप्राइज दे।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544562"
+    },
+    {
+      "english": "You’re doing great, enjoy this cozy moment.",
+      "hindi": "तुम बहुत अच्छा कर रहे हो, इस सुकून भरे पल का आनंद लो।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544564"
+    },
+    {
+      "english": "Let the aroma reset your mood.",
+      "hindi": "खुशबू से मन फिर से ठीक हो जाएगा।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544566"
+    },
+    {
+      "english": "Gratitude tastes sweet, sip and smile.",
+      "hindi": "कृतज्ञता मीठी लगती है, सिप करो और मुस्कुराओ।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544568"
+    },
+    {
+      "english": "Be proud of yourself, you earned this.",
+      "hindi": "अपने आप पर गर्व करो, ये तुम्हारा हक है।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544570"
+    },
+    {
+      "english": "No rush, take your time, enjoy fully.",
+      "hindi": "जल्दी मत करो, अपना समय लो, पूरा आनंद लो।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544572"
+    },
+    {
+      "english": "One treat, one win, keep going.",
+      "hindi": "एक ट्रीट, एक जीत, आगे बढ़ते रहो।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544574"
+    },
+    {
+      "english": "Trust your gut, you’ll pick the best.",
+      "hindi": "दिल की सुनो, तुम सबसे अच्छा चुनोगे।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544576"
+    },
+    {
+      "english": "Stay positive, the day will get better.",
+      "hindi": "पॉजिटिव रहो, दिन बेहतर हो जाएगा।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544578"
+    },
+    {
+      "english": "You deserve comfort, enjoy that warm bite.",
+      "hindi": "तुम आराम के हकदार हो, वो गर्म बाइट एंजॉय करो।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544579"
+    },
+    {
+      "english": "Every cup is a fresh start.",
+      "hindi": "हर कप एक नई शुरुआत है।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544581"
+    },
+    {
+      "english": "Celebrate small wins, like today’s pastry.",
+      "hindi": "छोटी जीत मनाओ, जैसे आज की पेस्ट्री।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544583"
+    },
+    {
+      "english": "You’re stronger than yesterday, keep going.",
+      "hindi": "तुम कल से ज्यादा मजबूत हो, चलते रहो।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544587"
+    },
+    {
+      "english": "Say yes to joy, one sip at once.",
+      "hindi": "खुशी को हाँ कहो, एक सिप करके।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544588"
+    },
+    {
+      "english": "Make peace with your pace, relax.",
+      "hindi": "अपनी स्पीड से समझौता करो, आराम करो।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544590"
+    },
+    {
+      "english": "Good vibes only, enjoy your coffee moment.",
+      "hindi": "सिर्फ अच्छी वाइब्स, अपने कॉफी पल का आनंद लो।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544592"
+    },
+    {
+      "english": "Warm bread, calm mind, you’re set.",
+      "hindi": "गर्म ब्रेड, शांत दिमाग, सब ठीक है।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544594"
+    },
+    {
+      "english": "Be kind to yourself, you’re learning daily.",
+      "hindi": "अपने साथ दयालु रहो, तुम रोज सीख रहे हो।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544597"
+    },
+    {
+      "english": "This choice is progress, not perfection.",
+      "hindi": "ये चुनाव प्रगति है, परफेक्शन नहीं।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544599"
+    },
+    {
+      "english": "Keep showing up, even on busy days.",
+      "hindi": "दिखते रहो, भले ही दिन व्यस्त हों।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544601"
+    },
+    {
+      "english": "You found your place, enjoy the flavor.",
+      "hindi": "तुम्हें अपनी जगह मिल गई, फ्लेवर एंजॉय करो।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544603"
+    },
+    {
+      "english": "Relax your shoulders, let the aroma work.",
+      "hindi": "कंधे ढीले करो, खुशबू काम कर देगी।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544604"
+    },
+    {
+      "english": "Give yourself credit, you’re handling it well.",
+      "hindi": "अपने आप को श्रेय दो, तुम अच्छा संभाल रहे हो।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544606"
+    },
+    {
+      "english": "Enjoy the silence, then take a sweet bite.",
+      "hindi": "थोड़ा सुकून से रुको, फिर मीठी बाइट लो।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544608"
+    },
+    {
+      "english": "Today’s goal, feel better, one bite at a time.",
+      "hindi": "आज का लक्ष्य, बेहतर महसूस करना, एक बाइट में।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544610"
+    },
+    {
+      "english": "I’m stressed, so I’m keeping it simple.",
+      "hindi": "मैं तनाव में हूँ, इसलिए इसे आसान रख रहा/रही हूँ।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544612"
+    },
+    {
+      "english": "Honestly, this coffee feels like a reset button.",
+      "hindi": "सच कहूँ तो, ये कॉफी रीसेट बटन जैसी लगती है।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544621"
+    },
+    {
+      "english": "I need patience today, not just sweetness.",
+      "hindi": "आज मुझे धैर्य चाहिए, सिर्फ़ मिठास नहीं।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544623"
+    },
+    {
+      "english": "I’m listening to my mood, then choosing.",
+      "hindi": "मैं अपने मूड को सुनता/सुनती हूँ, फिर चुनता/चुनती हूँ।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544625"
+    },
+    {
+      "english": "Some days I sip slow, and that’s okay.",
+      "hindi": "कुछ दिनों में मैं धीरे-धीरे पीता/पीती हूँ, और ये ठीक है।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544632"
+    },
+    {
+      "english": "The smell calms me, like really calms me.",
+      "hindi": "ये खुशबू मुझे शांत कर देती है, सच में।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544635"
+    },
+    {
+      "english": "I don’t need perfect, I just need kind.",
+      "hindi": "मुझे परफेक्ट नहीं चाहिए, बस अपनापन चाहिए।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544637"
+    },
+    {
+      "english": "I came here to breathe, not to rush.",
+      "hindi": "मैं यहाँ सांस लेने आया/आई हूँ, दौड़ने नहीं।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544639"
+    },
+    {
+      "english": "Today I’m letting myself enjoy without guilt.",
+      "hindi": "आज मैं खुद को बिना अपराधबोध के enjoy करने दे रहा/रही हूँ।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544641"
+    },
+    {
+      "english": "I want warmth, even if I feel messy.",
+      "hindi": "मुझे अपनापन चाहिए, भले ही मेरा मन उलझा हो।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544643"
+    },
+    {
+      "english": "I’m learning to wait, one sip at a time.",
+      "hindi": "मैं इंतज़ार करना सीख रहा/रही हूँ, एक घूँट में।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544645"
+    },
+    {
+      "english": "No big speeches, just a sweet moment.",
+      "hindi": "कोई बड़ा भाषण नहीं, बस एक मीठा पल।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544646"
+    },
+    {
+      "english": "I keep thinking, maybe comfort is enough.",
+      "hindi": "मैं सोचता/सोचती रहता/रहती हूँ, शायद सुकून काफी है।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544648"
+    },
+    {
+      "english": "If I’m quiet, it’s because it’s helping.",
+      "hindi": "अगर मैं चुप हूँ, तो क्योंकि ये मदद कर रहा है।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544650"
+    },
+    {
+      "english": "I’m choosing slowly, because my heart matters.",
+      "hindi": "मैं धीरे-धीरे चुन रहा/रही हूँ, क्योंकि मेरा दिल मायने रखता है।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544652"
+    },
+    {
+      "english": "That first bite, honestly, turns my day around.",
+      "hindi": "पहला निवाला, सच में, मेरा दिन पलट देता है।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544654"
+    },
+    {
+      "english": "I’m not chasing energy, I’m building calm.",
+      "hindi": "मैं ऊर्जा नहीं भाग रहा/रही, मैं शांति बना रहा/रही हूँ।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544656"
+    },
+    {
+      "english": "I trust small joys, they add up.",
+      "hindi": "मैं छोटे-छोटे सुखों पर भरोसा करता/करती हूँ, वे जुड़ते जाते हैं।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544658"
+    },
+    {
+      "english": "Can I get a calm drink, please?",
+      "hindi": "क्या मुझे थोड़ा शांत करने वाला ड्रिंक मिल सकता है?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544659"
+    },
+    {
+      "english": "I’m okay with feeling, even if it’s slow.",
+      "hindi": "मुझे अपने एहसास होने देना ठीक लगता है, भले धीमे हो।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544661"
+    },
+    {
+      "english": "This pastry feels like a reward for trying.",
+      "hindi": "ये पेस्ट्री कोशिश करने का इनाम लगती है।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544663"
+    },
+    {
+      "english": "I’m grateful, even for the ordinary today.",
+      "hindi": "मैं आभारी हूँ, आज की सामान्य चीज़ों के लिए भी।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544665"
+    },
+    {
+      "english": "I’m taking my time, because I deserve it.",
+      "hindi": "मैं समय ले रहा/रही हूँ, क्योंकि मैं इसे deserve करता/करती हूँ।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544667"
+    },
+    {
+      "english": "Sometimes I just need cocoa, no advice.",
+      "hindi": "कभी-कभी बस कोको चाहिए, कोई सलाह नहीं।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544670"
+    },
+    {
+      "english": "I’m letting my worries sit outside.",
+      "hindi": "मैं अपनी चिंताएँ बाहर बैठा रहा/रही हूँ।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544672"
+    },
+    {
+      "english": "Thanks for the kindness in your hands.",
+      "hindi": "आपके हाथों की नरमी के लिए धन्यवाद।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544674"
+    },
+    {
+      "english": "This place makes me tell the truth.",
+      "hindi": "ये जगह मुझे सच बोलने जैसा लगता है।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544675"
+    },
+    {
+      "english": "I’m here for comfort, not for fixing myself.",
+      "hindi": "मैं यहाँ सुकून लेने आया/आई हूँ, खुद को ठीक करने नहीं।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544677"
+    },
+    {
+      "english": "If today is heavy, I’ll sip lighter.",
+      "hindi": "अगर आज मन भारी है, मैं उससे हल्का करके पीऊँगा/पीऊँगी।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544679"
+    },
+    {
+      "english": "I’ll try again tomorrow, after this sweet pause.",
+      "hindi": "मैं कल फिर कोशिश करूँगा/करूँगी, इस मीठे विराम के बाद।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544681"
+    },
+    {
+      "english": "Hi, do you have oat milk, please?",
+      "hindi": "नमस्ते, क्या आपके पास ओट मिल्क है, प्लीज़?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544683"
+    },
+    {
+      "english": "What’s the most popular pastry today?",
+      "hindi": "आज सबसे ज़्यादा पसंद की जाने वाली पेस्ट्री कौन-सी है?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544685"
+    },
+    {
+      "english": "I’ll take it to go, please.",
+      "hindi": "मैं इसे साथ ले जाऊँगा, प्लीज़।",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-11T10:06:43.544687"
     }
   ],
-  "last_updated": "2026-11-10T10:40:14.777134"
+  "last_updated": "2026-11-11T10:06:43.544688"
 }
