@@ -17999,7 +17999,399 @@
       "hindi": "मैं इसे साथ ले जाऊँगा, प्लीज़।",
       "category": "Coffee Shop & Bakery",
       "generated_at": "2026-11-11T10:06:43.544687"
+    },
+    {
+      "english": "Where is the baggage claim?",
+      "hindi": "सामान लेने का काउंटर कहाँ है?",
+      "transliteration": "Samaan lene ka COUNTER kahan hai?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "Is there a faster immigration line?",
+      "hindi": "क्या इमिग्रेशन की कोई जल्दी वाली लाइन है?",
+      "transliteration": "Kya IMIGRATION ki koi jaldi VALI LINE hai?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "My flight was delayed, what now?",
+      "hindi": "मेरी फ्लाइट देरी से है, अब क्या होगा?",
+      "transliteration": "Meri FLIGHT deri se hai, ab kya hoga?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "Can I change my seat, please?",
+      "hindi": "क्या मैं अपनी सीट बदल सकता हूँ?",
+      "transliteration": "Kya main apni SEAT badal sakta hoon?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "Where can I buy a SIM card?",
+      "hindi": "मैं यहाँ से सिम कार्ड कहाँ खरीद सकता हूँ?",
+      "transliteration": "Main yahan se SIM CARD kahan khareed sakta hoon?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "How early should I reach the gate?",
+      "hindi": "मुझे गेट पर कितनी जल्दी पहुँचना चाहिए?",
+      "transliteration": "Mujhe GATE par kitni jaldi pahunchna chahiye?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "Do I need to check in online?",
+      "hindi": "क्या मुझे ऑनलाइन चेक-इन करना ज़रूरी है?",
+      "transliteration": "Kya mujhe ONLINE chek-IN karna zaroori hai?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "Boss, you up for chai?",
+      "hindi": "भाई, चाय के लिए चलें?",
+      "transliteration": "BHAI, CHAI ke liye CHALẼ?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "Yaar, that was seriously awesome.",
+      "hindi": "यार, वो तो सच में शानदार था।",
+      "transliteration": "YAAR, vo to SACH mein SHAANDAAR tha.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "No worries, I got it.",
+      "hindi": "कोई बात नहीं, मैं संभाल लूंगा।",
+      "transliteration": "Koi BAAT nahi, MAIN SANBHAAL lū̃ga.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "Wait, let me check once.",
+      "hindi": "रुको, मैं एक बार देख लूं।",
+      "transliteration": "RUKO, MAIN ek BAAR dekh lū̃.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "Tell me straight, what happened?",
+      "hindi": "सीधे बताओ, हुआ क्या था?",
+      "transliteration": "SIḌHE batao, HUĀ kya tha?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "That price is way too high.",
+      "hindi": "इतना महंगा तो बिल्कुल नहीं।",
+      "transliteration": "ITNĀ MEHANGĀ to bilkul nahi.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "Cut it out, not cool.",
+      "hindi": "छोड़ो यार, ये तो ठीक नहीं है।",
+      "transliteration": "CHHODO YAAR, ye to THIK nahi hai.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "Excuse me, how do I get there?",
+      "hindi": "माफ़ कीजिए, मैं वहाँ कैसे पहुँचूँ?",
+      "transliteration": "MAAF KIJIE, main vahaan kaise PAUNCHOON?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "Is there a bus to the museum?",
+      "hindi": "क्या संग्रहालय के लिए बस मिलती है?",
+      "transliteration": "kya SAANGRAH-AALAY ke LIYE bus MILTI hai?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "Which way is the nearest metro?",
+      "hindi": "सबसे नज़दीक वाला मेट्रो किस दिशा में है?",
+      "transliteration": "sabse NAZDIK wala METRO kis DISHA mein hai?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "How long does it take to walk?",
+      "hindi": "पैदल पहुँचने में कितना समय लगेगा?",
+      "transliteration": "PAIDAL pahunchne mein KITNA SAMAY lagega?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "Can I get to the station from here?",
+      "hindi": "क्या मैं यहाँ से स्टेशन जा सकता हूँ?",
+      "transliteration": "kya main YAHaan se STESHAN ja sakta hoon?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "Where is the closest pharmacy, please?",
+      "hindi": "कृपया सबसे नज़दीकी फार्मेसी कहाँ है?",
+      "transliteration": "KRIPYA sabse NAZDIKI faarma-see kahan hai?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "Do I turn left at the traffic light?",
+      "hindi": "क्या चौराहे पर ट्रैफिक लाइट के पास बाएँ मुड़ना होगा?",
+      "transliteration": "kya CHORAHE par TRAFFIC LIGHT ke PAAS BAAYE mudna hoga?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "Hi there, nice to meet you!",
+      "hindi": "नमस्ते, आपसे मिलकर खुशी हुई।",
+      "transliteration": "NamASTE, aapse milkar KHUSHI hui.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "Hello, how do you say your name?",
+      "hindi": "नमस्ते, आपका नाम क्या है?",
+      "transliteration": "NamASTE, aapKa NAAM kya hai?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "Good morning, I’m glad to see you.",
+      "hindi": "सुप्रभात, आपको देखकर अच्छा लगा।",
+      "transliteration": "SU-prabhaat, aapko DEKHKAR acchaa LAGaa.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "Hi, welcome to our meeting today.",
+      "hindi": "नमस्ते, आज की मीटिंग में आपका स्वागत है।",
+      "transliteration": "NamASTE, aaj ki MEETing men aapka SWAAGAT hai.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "Excuse me, can I talk to you?",
+      "hindi": "माफ कीजिए, क्या मैं आपसे बात कर सकता हूँ?",
+      "transliteration": "Maaf kije, kya main aapse BAAT kar sakta HOON?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "Thanks for taking the time, really.",
+      "hindi": "समय देने के लिए धन्यवाद, सच में।",
+      "transliteration": "SAMay dene ke liye DHANYavaad, sach men.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "I’m in a hurry, but hello first.",
+      "hindi": "मुझे थोड़ी जल्दी है, पर पहले नमस्ते।",
+      "transliteration": "Mujhe THODI jaldi hai, par pehle NamASTE.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "I needed this small win today.",
+      "hindi": "आज मुझे ये छोटी जीत चाहिए थी,",
+      "transliteration": "aaj mujhe ye chhoti jeet CHAHI thi,",
+      "category": "Joy",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "Music at work makes me lighter.",
+      "hindi": "काम पर संगीत सुनकर मेरा मन हल्का हो जाता है,",
+      "transliteration": "kaam par sangeet sunkar mera mann HALKA ho jaata hai,",
+      "category": "Joy",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "Sunlight on my face feels amazing.",
+      "hindi": "मेरे चेहरे पर सूरज की रोशनी बहुत अच्छी लगती है,",
+      "transliteration": "mere chehre par SOORAJ ki roshni bahut achchhi lagti hai,",
+      "category": "Joy",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "My tea is cozy, like a hug.",
+      "hindi": "मेरी चाय मुझे गले लगाती है, इतनी सुकून भरी,",
+      "transliteration": "meri chaay mujhe gale lagaati hai, itni SUKOON bhari,",
+      "category": "Joy",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "I’m proud of myself, just now.",
+      "hindi": "अभी मुझे खुद पर गर्व है,",
+      "transliteration": "abhi mujhe khud par GARV hai,",
+      "category": "Joy",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "Thanks, your message made my day.",
+      "hindi": "थैंक यू, तुम्हारा मैसेज ने मेरा दिन बना दिया,",
+      "transliteration": "thank YOU, tumhara message ne mera din BANA diya,",
+      "category": "Joy",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "I laughed out loud at that joke.",
+      "hindi": "उस जोक पर मैं जोर से हँस पड़ी,",
+      "transliteration": "us joke par main JOR se hans PAḌI,",
+      "category": "Joy",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "I’ll check my schedule first, okay?",
+      "hindi": "मैं पहले अपना शेड्यूल चेक करूँगी, ठीक है?",
+      "transliteration": "Main pehle apna SCHED-yool CHECK karungi, THIK hai?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "Let’s plan a quick call for tomorrow.",
+      "hindi": "चलो कल के लिए एक छोटी कॉल की योजना बनाते हैं।",
+      "transliteration": "Chalo kal ke liye ek chhoti CALL ki yojana banate hain.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "What time works best for you?",
+      "hindi": "तुम्हें कौन सा समय सबसे अच्छा लगेगा?",
+      "transliteration": "Tumhe kaun sa SAMAY sabse achchha lagega?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "I’ll reserve tickets tonight, just in case.",
+      "hindi": "मैं आज रात टिकट बुक कर दूँगी, बस एहतियात के लिए।",
+      "transliteration": "Main aaj Raat TIKET BOOK kar dungi, bas ehtiyaat ke liye.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "We should decide before it gets late.",
+      "hindi": "हमें देर होने से पहले फैसला कर लेना चाहिए।",
+      "transliteration": "Hamein der hone se pehle FAISLA kar lena chahiye.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "Can we meet near your office?",
+      "hindi": "क्या हम तुम्हारे ऑफिस के पास मिल सकते हैं?",
+      "transliteration": "Kya hum tumhare OFFICE ke paas mil sakte hain?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "I’m thinking of a weekend escape.",
+      "hindi": "मैं वीकेंड पर कहीं घूमने की सोच रहा",
+      "transliteration": "Main WEEKEND par kahin ghoomne ki soch raha/rahi hoon.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "What a great party, yaar!",
+      "hindi": "क्या शानदार पार्टी है, यार!",
+      "transliteration": "KYA SHANDAAR PAARTI HAI, YAAR!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "I brought sweets for everyone.",
+      "hindi": "मैं सबके लिए मिठाइयाँ लाया हूँ।",
+      "transliteration": "MAIN SABKE LIYE MITHAAIYAAN LAAYA HOON.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "Let’s do a quick toast now.",
+      "hindi": "चलो, अभी एक छोटा सा टोस्ट करते हैं।",
+      "transliteration": "CHALO, ABHI EK CHHOTA SA TOAST KARTE HAIN.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "Your wedding looks so beautiful.",
+      "hindi": "तुम्हारी शादी इतनी खूबसूरत लग रही है।",
+      "transliteration": "TUMHAARI SHAA DI ITNI KHUBSOORAT LAG RAHI HAI.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "Happy birthday, have an amazing year!",
+      "hindi": "जन्मदिन मुबारक, आपका साल शानदार हो!",
+      "transliteration": "JANMDIN MUB ARAK, AAPKA SAAL SHAANDAAR HO!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "I’ll help you with the decorations.",
+      "hindi": "मैं तुम्हें सजावट में मदद कर दूँगा।",
+      "transliteration": "MAIN TUMHEN SAJA VAAT MEIN MADAD KAR DUNGA.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "Turn up the music, please!",
+      "hindi": "कृपया संगीत थोड़ा तेज कर दो।",
+      "transliteration": "KRIPYA SANGEET THODA TEZ KAR DO.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "I wake up, then drink water",
+      "hindi": "मैं उठता हूँ, फिर पानी पीता हूँ",
+      "transliteration": "main UTHta hoon, phir paani PEETA hoon",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "I make my bed right away",
+      "hindi": "मैं तुरंत अपना बिस्तर ठीक करता हूँ",
+      "transliteration": "main TURANT apna BISTAR theek karta hoon",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "I wash my face with cold water",
+      "hindi": "मैं ठंडे पानी से अपना चेहरा धोता हूँ",
+      "transliteration": "main THANDE paani se apna CHEHra DHOta hoon",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "I brush twice, no shortcuts",
+      "hindi": "मैं दो बार दाँत साफ करता हूँ, बिना जल्दी किए",
+      "transliteration": "main DO baar DAANT saaf karta hoon, BINA jaldi kiye",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "I shower before I start work",
+      "hindi": "मैं काम शुरू करने से पहले नहाता हूँ",
+      "transliteration": "main kaam SHURU karne se PEHle NAhata hoon",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "I check my phone after breakfast",
+      "hindi": "मैं नाश्ते के बाद अपना फोन देखता हूँ",
+      "transliteration": "main NAASte ke baad apna PHONE dekhta hoon",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "I pack my lunch in the morning",
+      "hindi": "मैं सुबह अपना लंच पैक करता हूँ",
+      "transliteration": "main subah apna LUNCH paik karta hoon",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-12T16:54:54.792339"
     }
   ],
-  "last_updated": "2026-11-11T10:06:43.544688"
+  "last_updated": "2026-11-12T16:54:54.792339"
 }
