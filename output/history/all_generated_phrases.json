@@ -18391,7 +18391,399 @@
       "transliteration": "main subah apna LUNCH paik karta hoon",
       "category": "Daily Routine",
       "generated_at": "2026-11-12T16:54:54.792339"
+    },
+    {
+      "english": "Hi, I’m calling about your package.",
+      "hindi": "नमस्ते, मैं आपके पार्सल के बारे में कॉल कर रहा हूँ।",
+      "transliteration": "Namaste, main APke PArsel ke baare mein CALL kar raha hoon.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "Sorry, I missed your call.",
+      "hindi": "माफ़ कीजिए, मैं आपकी कॉल मिस कर बैठा।",
+      "transliteration": "Maaf kijiye, main APki CALL MIS kar baitha.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "Can you call me back, please?",
+      "hindi": "क्या आप मुझे वापस कॉल कर सकते हैं, प्लीज़?",
+      "transliteration": "Kya aap mujhe vaapas CALL kar sakte hain, please?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "I’ll call you in ten minutes.",
+      "hindi": "मैं दस मिनट में आपको कॉल करूँगा।",
+      "transliteration": "Main das MINUT mein aapko CALL karunga.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "Please text me when you land.",
+      "hindi": "जब आप लैंड कर लें, तब मुझे मैसेज कर देना।",
+      "transliteration": "Jab aap LAND kar lein, tab mujhe MESSAGE kar dena.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "I sent you a voice message.",
+      "hindi": "मैंने आपको वॉइस मैसेज भेज दिया है।",
+      "transliteration": "Maine aapko VOICE MESSAGE bhej diya hai.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "Your call just came through.",
+      "hindi": "आपकी कॉल अभी-अभी आ गई।",
+      "transliteration": "Aapki CALL abhi-abhi aa gayi.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "Take a breath, find your center.",
+      "hindi": "एक सांस लो, अपना संतुलन पाओ।",
+      "transliteration": "EK SAANS lo, apna SAN-TU-LAN PAO.",
+      "category": "Balance",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "Balance feels different for everyone.",
+      "hindi": "संतुलन हर किसी के लिए अलग लगता है।",
+      "transliteration": "SAN-TU-LAN HAR KISI ke LIYE alag lagta HAI.",
+      "category": "Balance",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "I slow down to stay steady.",
+      "hindi": "मैं टिके रहने के लिए धीमा हो जाता हूँ।",
+      "transliteration": "MAIN TIKE rahne ke LIYE DHEEMA ho jaata HOON.",
+      "category": "Balance",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "Even juggling work and life needs balance.",
+      "hindi": "काम और ज़िंदगी को साथ चलाने के लिए संतुलन ज़रूरी है।",
+      "transliteration": "KAAM aur ZINDAGI ko saath chalaane ke LIYE SAN-TU-LAN zaroori HAI.",
+      "category": "Balance",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "Let your eyes rest, then move.",
+      "hindi": "आँखों को आराम दो, फिर आगे बढ़ो।",
+      "transliteration": "AANKHON ko AARAM do, phir AAGE badho.",
+      "category": "Balance",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "I plan breaks, not just tasks.",
+      "hindi": "मैं सिर्फ़ काम नहीं, ब्रेक भी प्लान करता हूँ।",
+      "transliteration": "MAIN sirf KAAM nahi, BREAKS bhi PLAAN karta HOON.",
+      "category": "Balance",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "Don’t rush, keep your footing.",
+      "hindi": "जल्दी मत करो, अपना ठहराव बनाए रखो।",
+      "transliteration": "JALDI mat karo, apna THAHRAAV banaye rakho.",
+      "category": "Balance",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "In weddings, family comes early.",
+      "hindi": "शादी में परिवार जल्दी पहुँचता है।",
+      "transliteration": "shaadi meN PARIVAR jaldi pahunchta hai",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "Offer sweets first, it shows respect.",
+      "hindi": "सबसे पहले मिठाई दीजिए, यह सम्मान दिखाता है।",
+      "transliteration": "sabse pehle MIThAI DIJIE, yeh SAMMAN dikhaata hai",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "At festivals, we light diyas at dusk.",
+      "hindi": "त्योहारों में हम शाम को दीये जलाते हैं।",
+      "transliteration": "tyohaaron meN hum shaam ko DIYE jalaate hain",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "We sing bhajans, then share tea.",
+      "hindi": "हम भजन गाते हैं, फिर चाय बाँटते हैं।",
+      "transliteration": "hum bhajan GAATE hain, phir CHAI baante hain",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "On Rakhi, I tie the sacred thread.",
+      "hindi": "राखी पर मैं रक्षा सूत्र बाँधता हूँ।",
+      "transliteration": "raakhi par main RAakshaa sootr baandhta hoon",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "During Navratri, the home feels festive.",
+      "hindi": "नवरात्रि में घर का माहौल बहुत उत्सव जैसा होता है।",
+      "transliteration": "navaraatri meN ghar ka mahaul bahut UTSAV jaisa hota hai",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "Before meals, we say a short blessing.",
+      "hindi": "खाने से पहले हम छोटा सा आशीर्वाद बोलते हैं।",
+      "transliteration": "khane se pehle hum chhota sa AASHIRVAAD bolte hain",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "Today I choose calm over chaos.",
+      "hindi": "आज मैं अराजकता के बजाय शांति चुनता हूँ।",
+      "transliteration": "aaj main aarajakta ke bajay shaanti CHUN-taa hoon",
+      "category": "Positive Life",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "I water my habits, not my worries.",
+      "hindi": "मैं चिंताओं को नहीं, अपनी आदतों को पोसता हूँ।",
+      "transliteration": "main chintaaon ko nahin, apni AAD-ton ko POS-taa hoon",
+      "category": "Positive Life",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "Small steps count, every single day.",
+      "hindi": "छोटे कदम भी गिनते हैं, हर एक दिन।",
+      "transliteration": "chhote kadam bhi GIN-te hain, har ek DIN",
+      "category": "Positive Life",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "I forgive fast, and move forward.",
+      "hindi": "मैं जल्दी माफ़ करता हूँ, और आगे बढ़ता हूँ।",
+      "transliteration": "main jaldi maaf KAR-taa hoon, aur AAGE badhtaa hoon",
+      "category": "Positive Life",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "I talk to myself like a friend.",
+      "hindi": "मैं अपने आप से दोस्त की तरह बात करता हूँ।",
+      "transliteration": "main apne aap se dost ki tarah BAAT karta hoon",
+      "category": "Positive Life",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "Gratitude wakes me up to good.",
+      "hindi": "कृतज्ञता मुझे अच्छी चीज़ों के लिए जगाती है।",
+      "transliteration": "krityajnytaa mujhe ACHCHHI cheezon ke liye jaagaati hai",
+      "category": "Positive Life",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "I do one thing, well, now.",
+      "hindi": "मैं अभी एक काम पूरी तरह से करता हूँ।",
+      "transliteration": "main abhi ek kaam poori tarah se KAR-taa hoon",
+      "category": "Positive Life",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "Hi, I need to see a doctor",
+      "hindi": "नमस्ते, मुझे डॉक्टर से मिलना है",
+      "transliteration": "NaMAS-te, muJHE dok-TAR se miLNA hai",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "Is there an appointment available today?",
+      "hindi": "क्या आज अपॉइंटमेंट मिल सकती है",
+      "transliteration": "Kya aaj apॉin-TMEINT mil sak-ti hai",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "The pain is getting worse, please",
+      "hindi": "दर्द बढ़ रहा है, कृपया देखिए",
+      "transliteration": "DARD baढ़ rahaa hai, KRIP-ya DE-ki-ye",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "Do you take walk-ins today?",
+      "hindi": "क्या आज आप बिना अपॉइंटमेंट के देख लेते हैं",
+      "transliteration": "Kya aaj aap bi-na apॉin-TMEINT ke dekh le-te hain",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "Can you write the prescription again?",
+      "hindi": "क्या आप दवा की पर्ची फिर से लिख देंगे",
+      "transliteration": "Kya aap DA-vaa ki par-chi phir se likh deNGE",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "My medicine is finished, help me",
+      "hindi": "मेरी दवा खत्म हो गई है, मदद कीजिए",
+      "transliteration": "ME-ri DA-vaa khatm ho gai hai, mad-dh ki-ji-ye",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "Is this medicine available here?",
+      "hindi": "क्या यह दवा यहाँ मिल जाएगी",
+      "transliteration": "Kya yeh DA-vaa yaan-haa mil jaa-egi",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "Thanks for picking up my call",
+      "hindi": "मेरे कॉल का जवाब देने के लिए धन्यवाद",
+      "transliteration": "MERE call ka JAVAB dene ke LIYE DHANYAVAAD",
+      "category": "Friendship",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "You always tell me the truth",
+      "hindi": "तुम हमेशा मुझे सच बताते हो",
+      "transliteration": "TUM HAMESHA mujhe SACH BAATate ho",
+      "category": "Friendship",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "Let’s grab chai after work",
+      "hindi": "काम के बाद चलो, चाय पीते हैं",
+      "transliteration": "Kaam ke BAAD chalo, CHAI PEETE hain",
+      "category": "Friendship",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "I can count on you, always",
+      "hindi": "मैं तुम पर हमेशा भरोसा कर सकता हूँ",
+      "transliteration": "MAIN tum par HAMESHA bharosa kar SAKTA hoon",
+      "category": "Friendship",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "Call me when you’re free",
+      "hindi": "जब फ्री हो, मुझे फोन करना",
+      "transliteration": "JAB FREE ho, mujhe PHON karna",
+      "category": "Friendship",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "We’ve got each other, no worries",
+      "hindi": "हम साथ हैं, कोई चिंता नहीं",
+      "transliteration": "HAM saath hain, KOI chinta NAHIN",
+      "category": "Friendship",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "Your jokes make my day better",
+      "hindi": "तुम्हारी हँसी वाले जोक्स मेरा दिन बना देते हैं",
+      "transliteration": "TUMHARI hansi VALE jokes MERA din bana DETE hain",
+      "category": "Friendship",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "My purpose is to learn fast.",
+      "hindi": "मेरा उद्देश्य जल्दी सीखना है।",
+      "transliteration": "MERA uddeshya jaldi SEEKHna hai.",
+      "category": "Purpose",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "I’m here to help, genuinely.",
+      "hindi": "मैं यहां मदद करने आया हूं, सच में।",
+      "transliteration": "Main yahan MADAD karne aaya hoon, SACH mein.",
+      "category": "Purpose",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "Your goal, what’s your purpose?",
+      "hindi": "आपका लक्ष्य क्या है, आपका उद्देश्य क्या है?",
+      "transliteration": "Aapka LAKSHYA kya hai, aapka UDDESHya kya hai?",
+      "category": "Purpose",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "I want clarity about my purpose.",
+      "hindi": "मुझे अपने उद्देश्य के बारे में स्पष्टता चाहिए।",
+      "transliteration": "Mujhe apne UDDESHya ke baare mein SPAष्टta chahiye.",
+      "category": "Purpose",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "Today’s purpose, one honest step.",
+      "hindi": "आज का उद्देश्य, एक ईमानदार कदम।",
+      "transliteration": "Aaj ka UDDESHya, ek IMAANDAR kadam.",
+      "category": "Purpose",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "My purpose stays steady, not dramatic.",
+      "hindi": "मेरा उद्देश्य स्थिर रहता है, नाटकीय नहीं।",
+      "transliteration": "Mera UDDESHya STHIR rehta hai, NAATKIY nahin.",
+      "category": "Purpose",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "I do this for real results.",
+      "hindi": "मैं यह असली नतीजों के लिए करता हूं।",
+      "transliteration": "Main yeh ASLI nateejon ke liye karta hoon.",
+      "category": "Purpose",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "Morning habit, small steps win.",
+      "hindi": "सुबह की आदत, छोटे कदम जीतते हैं।",
+      "transliteration": "Subah KI aadat, CHHO-Te kadam JEET-te hain.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "I practice, even when motivation is low.",
+      "hindi": "मैं अभ्यास करता हूँ, जब प्रेरणा कम भी हो।",
+      "transliteration": "Main abhyas KA- rta hoon, jab prE-RA-NA kam bhi ho.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "Today I fix one bad habit.",
+      "hindi": "आज मैं एक बुरी आदत सुधारता हूँ।",
+      "transliteration": "Aaj main ek BURI aadat sudHAR-ta hoon.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "Speak kindly, it changes everything.",
+      "hindi": "नर्मी से बोलो, सब कुछ बदल जाता है।",
+      "transliteration": "NAR-mi se bolo, sab kuch badal jaa-ta hai.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "I track my progress, not just goals.",
+      "hindi": "मैं सिर्फ लक्ष्य नहीं, अपनी प्रगति भी देखता हूँ।",
+      "transliteration": "Main sirf LAKSHY nahin, apni prag-ti bhi DEKH-ta hoon.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "No excuses, I start with five minutes.",
+      "hindi": "बहाने नहीं, मैं पाँच मिनट से शुरू करता हूँ।",
+      "transliteration": "BhaA-ne nahin, main paanch MINI-te se shurU kAR-ta hoon.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "I journal at night, my mind clears.",
+      "hindi": "मैं रात में डायरी लिखता हूँ, दिमाग साफ होता है।",
+      "transliteration": "Main raat mein di-A-ri likh-ta hoon, dimaag saaf HO-ta hai.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-13T16:35:10.493130"
     }
   ],
-  "last_updated": "2026-11-12T16:54:54.792339"
+  "last_updated": "2026-11-13T16:35:10.493130"
 }
