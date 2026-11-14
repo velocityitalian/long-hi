@@ -163,7 +163,39 @@
     {
       "category": "Self Improvement",
       "date": "2026-11-13"
+    },
+    {
+      "category": "Creativity",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Shopping & Prices",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Mindfulness",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Weather & Small Talk",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Inspiration",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Emergency & Health",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Wisdom",
+      "date": "2026-11-14"
+    },
+    {
+      "category": "Public Transportation",
+      "date": "2026-11-14"
     }
   ],
-  "last_updated": "2026-11-13T16:35:10.510425"
+  "last_updated": "2026-11-14T15:12:48.418064"
 }

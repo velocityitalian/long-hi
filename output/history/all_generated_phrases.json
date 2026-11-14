@@ -18783,7 +18783,399 @@
       "transliteration": "Main raat mein di-A-ri likh-ta hoon, dimaag saaf HO-ta hai.",
       "category": "Self Improvement",
       "generated_at": "2026-11-13T16:35:10.493130"
+    },
+    {
+      "english": "I brainstorm while my tea brews.",
+      "hindi": "मैं चाय के उबलते ही आइडिया बटोरता हूँ,",
+      "transliteration": "main CHAI ke ubalte hi AI-DI-ya BOTOrta hoon,",
+      "category": "Creativity",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "Sketch ideas on napkins at lunch.",
+      "hindi": "लंच के दौरान नैपकिन पर अपने स्केच उतारता हूँ,",
+      "transliteration": "lanch ke DAURAn NAP-kin par apne SKETCH utaarta hoon,",
+      "category": "Creativity",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "Turn chores into a tiny challenge.",
+      "hindi": "मैं काम-काज को छोटा सा खेल बना देता हूँ,",
+      "transliteration": "main KAAM-kaaj ko chhota sa khel bana deta hoon,",
+      "category": "Creativity",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "I remix old songs in my head.",
+      "hindi": "मैं पुराने गानों को मन में नए अंदाज़ में ढालता हूँ,",
+      "transliteration": "main PURA-ne GAANon ko mann mein naye Andaaz mein DHaALta hoon,",
+      "category": "Creativity",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "Today I write one surprising line.",
+      "hindi": "आज मैं एक चौंकाने वाली लाइन लिखता हूँ,",
+      "transliteration": "aaj main ek CHAUNKane wali line likhta hoon,",
+      "category": "Creativity",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "I keep a voice note for ideas.",
+      "hindi": "मैं आइडियाज़ के लिए वॉइस नोट्स सेव करता रहता हूँ,",
+      "transliteration": "main AI-DI-yaaz ke liye voice NOTES sev karta rehta hoon,",
+      "category": "Creativity",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "Make it better with one small tweak.",
+      "hindi": "मैं हर चीज़ में एक छोटा सुधार करके बेहतर बनाता हूँ,",
+      "transliteration": "main har cheez mein ek chhota sudhaar karke BEHTAR banata hoon,",
+      "category": "Creativity",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "How much is this, please?",
+      "hindi": "यह कितने का है, कृपया?",
+      "transliteration": "Yeh kitne ka hai, KRIPYA?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "Is there a discount today?",
+      "hindi": "क्या आज कोई छूट है?",
+      "transliteration": "Kya Aaj koi CHHOOT hai?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "Can I try this on?",
+      "hindi": "क्या मैं इसे पहनकर देख सकता हूँ?",
+      "transliteration": "Kya MAIN ise PHAN KER dekh sakta HOON?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "Do you have it in blue?",
+      "hindi": "क्या आपके पास यह नीले रंग में है?",
+      "transliteration": "Kya AAPKE paas yeh NEELE rang mein hai?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "What size do you recommend?",
+      "hindi": "आपके हिसाब से कौन सा साइज ठीक रहेगा?",
+      "transliteration": "Aapke HISaab se kaun SA SAIZ theek rahega?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "This looks great, how much?",
+      "hindi": "ये तो बहुत अच्छा लग रहा है, इसकी कीमत क्या है?",
+      "transliteration": "Yeh to bahut ACHHA lag raha hai, iski KIMAT kya hai?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "Does it come with a warranty?",
+      "hindi": "क्या इसमें वारंटी मिलती है?",
+      "transliteration": "Kya ismein VAARANTI milti hai?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "Pause, feel your feet on ground.",
+      "hindi": "रुको, अपने पैरों के नीचे ज़मीन महसूस करो।",
+      "transliteration": "ruko, apne pairo ke neeche zameen MEHSOOS karo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "Before you speak, take one slow breath.",
+      "hindi": "बोलने से पहले एक धीमी सांस लो।",
+      "transliteration": "bolne se pehle ek dheemi SAANS lo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "Notice sounds, even the quiet ones.",
+      "hindi": "आवाज़ों को नोटिस करो, यहाँ तक कि जो हल्की हैं।",
+      "transliteration": "aawazon ko NOTICE karo, yahan tak ki jo halki hain.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "Let your shoulders drop right now.",
+      "hindi": "अभी अपने कंधे ढीले छोड़ो।",
+      "transliteration": "abhi apne kandhe DHEELE chhodo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "Hands on your mug, feel warmth.",
+      "hindi": "अपने मग को पकड़ो, गर्माहट महसूस करो।",
+      "transliteration": "apne mug ko pakdo, garmaahat MEHSOOS karo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "Check your thoughts, don’t chase them.",
+      "hindi": "अपने विचारों को देखो, उनके पीछे मत भागो।",
+      "transliteration": "apne vicharon ko dekho, unke peeche mat BHAGO.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "In a line, just feel the wait.",
+      "hindi": "किसी लाइन में हो, बस इंतज़ार का एहसास लो।",
+      "transliteration": "kisi line mein ho, bas intezaar ka EHSAAS lo.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "How’s the weather today, really?",
+      "hindi": "आज मौसम सच में कैसा है?",
+      "transliteration": "aaj MAUSAM sach mein kaisa HAI?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "It’s finally cooling down, isn’t it?",
+      "hindi": "आखिरकार ठंडक आ रही है, है न?",
+      "transliteration": "aakhirkaar THANDak aa RAHI hai, hai na?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "Is it going to rain later?",
+      "hindi": "क्या बाद में बारिश होगी?",
+      "transliteration": "kya baad mein BAARISH hogi?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "The sky looks so clear today.",
+      "hindi": "आज आसमान बहुत साफ लग रहा है।",
+      "transliteration": "aaj aasMAn itna saaf lag raha HAI.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "I need a jacket this morning.",
+      "hindi": "आज सुबह मुझे जैकेट चाहिए।",
+      "transliteration": "aaj subah mujhe JAIket chaahiye.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "Is the wind strong where you are?",
+      "hindi": "तुम्हारे यहाँ हवा तेज़ है?",
+      "transliteration": "tumhaare YAHAAN HAWA tez hai?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "It feels humid, doesn’t it?",
+      "hindi": "यहाँ उमस बहुत है, है न?",
+      "transliteration": "yahaan UMS bahut hai, hai na?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "Small steps beat big wishes, every day.",
+      "hindi": "छोटे कदम बड़े सपनों से भारी होते हैं, हर दिन।",
+      "transliteration": "CHHoTe KADAM bade SAPNON se bhaari hote hain, HAR din",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "Start now, even messy. Just start.",
+      "hindi": "अभी शुरू करो, भले गड़बड़ हो, बस शुरू करो।",
+      "transliteration": "abhi SHURU karo, bhale GARbad ho, BAS SHURU karo",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "Your future needs your honest effort.",
+      "hindi": "तुम्हारा भविष्य तुम्हारी सच्ची मेहनत मांगता है।",
+      "transliteration": "tumHARA bhavishya tumHARI sacchI meHnaat maangta hai",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "When tired, shrink the task, not you.",
+      "hindi": "जब थक जाओ, काम छोटा करो, खुद को नहीं।",
+      "transliteration": "jab THAK jao, kaam chhoTa karo, khud ko nahin",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "One workout, one call, one win.",
+      "hindi": "एक वर्कआउट, एक कॉल, एक जीत।",
+      "transliteration": "ek varkaaut, ek call, ek jeet",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "Motivation is fuel, discipline is engine.",
+      "hindi": "प्रेरणा ईंधन है, अनुशासन इंजन है।",
+      "transliteration": "PRERणा eendhan hai, anushaasan INjan hai",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "Write it down, then do it today.",
+      "hindi": "इसे लिखो, फिर आज ही कर डालो।",
+      "transliteration": "ise LIKHO, phir Aaj hi kar DALO",
+      "category": "Inspiration",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "I think I’m having chest pain.",
+      "hindi": "मुझे लगता है मुझे सीने में दर्द हो रहा है।",
+      "transliteration": "MUJHE LAGTA HAI mujhe SIne mein DARD ho raha HAI.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "Call an ambulance, please, right now.",
+      "hindi": "कृपया अभी एम्बुलेंस बुलाइए।",
+      "transliteration": "KRIPYA ABHI AMBULANCE bulaaiye.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "Do you have a first-aid kit?",
+      "hindi": "क्या आपके पास फर्स्ट-एड किट है?",
+      "transliteration": "KYA aapke PAAS FIRST-aid KIT hai?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "My throat is swelling, I’m scared.",
+      "hindi": "मेरा गला सूज रहा है, मुझे डर लग रहा है।",
+      "transliteration": "MERA GALA SOOJ raha HAI, mujhe DARR lag raha HAI.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "I might be having an allergic reaction.",
+      "hindi": "मुझे एलर्जी की प्रतिक्रिया हो सकती है।",
+      "transliteration": "MUJHE ELARJI ki PRAatikriya ho SAKTI hai.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "I swallowed something accidentally.",
+      "hindi": "मैंने गलती से कुछ निगल लिया है।",
+      "transliteration": "MAINE GALTI se KUCH nigal LIYA hai.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "I can’t breathe properly.",
+      "hindi": "मैं ठीक से सांस नहीं ले पा रहा",
+      "transliteration": "MAIN theek se SAANS nahin le PA raha PA rahI HOON.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "Knowledge grows with honest questions.",
+      "hindi": "ज्ञान सच्चे सवालों से बढ़ता है।",
+      "transliteration": "GYAN sachche Sawaalon se BADHTA hai",
+      "category": "Wisdom",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "Before you speak, check your facts.",
+      "hindi": "बोलने से पहले, अपने तथ्यों की जाँच कर लो।",
+      "transliteration": "BOLNE se PEHLE, apne TATHYON ki JAANCH kar lo",
+      "category": "Wisdom",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "Small lessons daily, big wisdom later.",
+      "hindi": "रोज़ छोटी सीख, बाद में बड़ी समझ।",
+      "transliteration": "ROZ chhoti SEEKH, baad me badi SAMJH",
+      "category": "Wisdom",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "I learned something useful from that.",
+      "hindi": "मैंने उससे एक काम की सीख पाई।",
+      "transliteration": "MAINNE usse ek kaam ki SEEKH PAAYI",
+      "category": "Wisdom",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "Listen first, then form your opinion.",
+      "hindi": "पहले सुनो, फिर अपनी राय बनाओ।",
+      "transliteration": "PEHLE SUNO, phir apni RAAY BANAO",
+      "category": "Wisdom",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "Wisdom is knowing what to ignore.",
+      "hindi": "समझदारी यह जानना है कि क्या नज़रअंदाज़ करना है।",
+      "transliteration": "SAMJHDARI yeh JAANNA hai ki kya NAZARANDAAZ karna hai",
+      "category": "Wisdom",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "Read one page, reflect for ten minutes.",
+      "hindi": "एक पेज पढ़ो, दस मिनट सोचो।",
+      "transliteration": "ek PEJ PADHO, das MINUT socho",
+      "category": "Wisdom",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "Where is the nearest bus stop?",
+      "hindi": "सबसे नज़दीकी बस स्टॉप कहाँ है?",
+      "transliteration": "Sabse naZDIki bas STOP kahaan hai?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "How much is a one-way ticket?",
+      "hindi": "एक तरफ़ का टिकट कितने का है?",
+      "transliteration": "Ek TARF ka TIKET kitne ka hai?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "Does this bus go to the airport?",
+      "hindi": "क्या यह बस एयरपोर्ट जाती है?",
+      "transliteration": "Kya yeh BAS AIRPORT jaati hai?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "Is there a direct train from here?",
+      "hindi": "क्या यहाँ से सीधी ट्रेन मिलती है?",
+      "transliteration": "Kya yahaan se SI dhi TRAIN milti hai?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "Which line should I take?",
+      "hindi": "मुझे कौन-सी लाइन लेनी चाहिए?",
+      "transliteration": "Mujhe kaun-si LINE leni chaahiye?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "When is the next bus arriving?",
+      "hindi": "अगली बस कब आ रही है?",
+      "transliteration": "AGLI bas kab aa rahi hai?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "Is it okay to pay by card?",
+      "hindi": "क्या कार्ड से पे करना ठीक है?",
+      "transliteration": "Kya kaard se pe karna theek hai?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T15:12:48.407708"
     }
   ],
-  "last_updated": "2026-11-13T16:35:10.493130"
+  "last_updated": "2026-11-14T15:12:48.407708"
 }
