@@ -195,7 +195,39 @@
     {
       "category": "Public Transportation",
       "date": "2026-11-14"
+    },
+    {
+      "category": "Sports & Fitness",
+      "date": "2026-11-15"
+    },
+    {
+      "category": "Family & Home",
+      "date": "2026-11-15"
+    },
+    {
+      "category": "Confidence",
+      "date": "2026-11-15"
+    },
+    {
+      "category": "Work & Office",
+      "date": "2026-11-15"
+    },
+    {
+      "category": "Hobbies & Free Time",
+      "date": "2026-11-15"
+    },
+    {
+      "category": "Ordering Food & Dining",
+      "date": "2026-11-15"
+    },
+    {
+      "category": "Growth",
+      "date": "2026-11-15"
+    },
+    {
+      "category": "Hope",
+      "date": "2026-11-15"
     }
   ],
-  "last_updated": "2026-11-14T15:12:48.418064"
+  "last_updated": "2026-11-15T15:44:26.745741"
 }

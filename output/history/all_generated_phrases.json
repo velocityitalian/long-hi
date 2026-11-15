@@ -19175,7 +19175,399 @@
       "transliteration": "Kya kaard se pe karna theek hai?",
       "category": "Public Transportation",
       "generated_at": "2026-11-14T15:12:48.407708"
+    },
+    {
+      "english": "I’m headed to my gym class.",
+      "hindi": "मैं अपनी जिम क्लास के लिए जा रहा हूँ।",
+      "transliteration": "Main apni JIM class ke LIYE jaa raha hoon",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "Do you want to join my workout?",
+      "hindi": "क्या आप मेरे वर्कआउट में शामिल होना चाहेंगे?",
+      "transliteration": "Kya aap mere WORKAOUT mein shaamil hona chaahenge",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "I need new running shoes ASAP.",
+      "hindi": "मुझे नए रनिंग जूते जल्दी चाहिए।",
+      "transliteration": "Mujhe naye RUNning jootE jaldi chaahiye",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "Today I’m going for a brisk walk.",
+      "hindi": "आज मैं तेज़ चाल से टहलने जा रहा हूँ।",
+      "transliteration": "Aaj main tez CHAAL se tahalne jaa raha hoon",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "That stretch felt amazing, wow.",
+      "hindi": "वो स्ट्रेच बहुत शानदार लगा, सच में।",
+      "transliteration": "Wo stretch bahut SHANDAAR laga, sach mein",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "I’m out of breath, need water.",
+      "hindi": "मैं सांस फूल गई है, पानी चाहिए।",
+      "transliteration": "Main saans PHOOL gayi hai, paani chaahiye",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "Let’s warm up before we start.",
+      "hindi": "चलो शुरू करने से पहले वॉर्मअप कर लें।",
+      "transliteration": "Chalo shuru karne se PEHLE warmup kar lein",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "Home is where I recharge myself.",
+      "hindi": "घर ही है जहां मैं खुद को फिर से ऊर्जा देता हूँ।",
+      "transliteration": "Ghar HEI hai jahan main khud ko phir se URJA deta hoon.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "I call my parents every week.",
+      "hindi": "मैं हर हफ्ते अपने माता-पिता को फोन करता हूँ।",
+      "transliteration": "Main har HAFTe apne MAATA-PITA ko phone karta hoon.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "Grandma always remembers my little likes.",
+      "hindi": "दादी हमेशा मेरी छोटी-छोटी पसंद याद रखती हैं।",
+      "transliteration": "Daadi hamesha meri chhoti-chhoti PASAND yaad rakhti hain.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "We share chores, and it feels fair.",
+      "hindi": "हम काम बाँटते हैं, और यह सही लगता है।",
+      "transliteration": "Hum kaam BAANTte hain, aur yeh sahi lagta hai.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "The kitchen smells like comfort today.",
+      "hindi": "आज रसोई में सुकून वाली खुशबू आती है।",
+      "transliteration": "Aaj rasoi mein SUKOON wali khushboo aati hai.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "My father jokes, and the mood lifts.",
+      "hindi": "मेरे पापा मज़ाक करते हैं, और माहौल अच्छा हो जाता है।",
+      "transliteration": "Mere PAAPa mazak karte hain, aur MAHौल achha ho jata hai.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "We eat together, even when busy.",
+      "hindi": "हम साथ बैठकर खाते हैं, चाहे हम व्यस्त हों।",
+      "transliteration": "Hum saath baithkar khate hain, chahe hum vyast hon.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "I belong here, right now.",
+      "hindi": "मैं यहीं हूँ, अभी इसी पल।",
+      "transliteration": "Main YAHiN hoon, abhi isi PAL.",
+      "category": "Confidence",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "My effort counts, even imperfectly.",
+      "hindi": "मेहनत मेरी मायने रखती है, भले अधूरी हो।",
+      "transliteration": "Mehnat meri MAyNe rakhti hai, bhale ADhoori ho.",
+      "category": "Confidence",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "I can handle hard conversations.",
+      "hindi": "मैं मुश्किल बातचीत भी संभाल सकता हूँ।",
+      "transliteration": "Main mushkil BAAtचीत bhi SAMBhaal sakta hoon.",
+      "category": "Confidence",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "I choose progress over perfection.",
+      "hindi": "मैं परफेक्शन नहीं, प्रगति चुनता हूँ।",
+      "transliteration": "Main parfekshan nahin, pragati CHUNta hoon.",
+      "category": "Confidence",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "I speak up, calmly and clearly.",
+      "hindi": "मैं बोलता हूँ, शांत और साफ।",
+      "transliteration": "Main bolta hoon, SHAAnt aur SAaf.",
+      "category": "Confidence",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "Fear can ride with me.",
+      "hindi": "डर साथ चल सकता है, फिर भी मैं आगे बढ़ूँगा।",
+      "transliteration": "Darr saath chal sakta hai, phir bhi main Aage badhoonga.",
+      "category": "Confidence",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "I trust my judgment today.",
+      "hindi": "आज मैं अपने फैसले पर भरोसा करता हूँ।",
+      "transliteration": "Aaj main apne FAISle par bharosa karta hoon.",
+      "category": "Confidence",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "I can take this off your plate.",
+      "hindi": "मैं यह काम आपके लिए संभाल सकता हूँ,",
+      "transliteration": "Main yeh kaam aapke liye sambhaal sakta hoon,",
+      "category": "Work & Office",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "Could you send the update today, please?",
+      "hindi": "क्या आप आज अपडेट भेज सकते हैं, कृपया?",
+      "transliteration": "Kya aap aaj update bhej sakte hain, KRIPYA?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "Let’s schedule a quick sync at 3.",
+      "hindi": "चलो 3 बजे एक छोटी सिंक मीटिंग तय करते हैं,",
+      "transliteration": "Chalo 3 baje ek chhoti sync MEETING tay karte hain,",
+      "category": "Work & Office",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "I’ll review it and get back soon.",
+      "hindi": "मैं इसे देख लूँगा, और फिर जल्दी जवाब दूँगा,",
+      "transliteration": "Main ise dekh loonga, aur phir jaldi jawab DOONGA,",
+      "category": "Work & Office",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "Please keep me in the loop.",
+      "hindi": "कृपया मुझे अपडेट्स में शामिल रखें,",
+      "transliteration": "KRIPYA mujhe updates mein shaamil rakhein,",
+      "category": "Work & Office",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "That deadline feels tight, but doable.",
+      "hindi": "वह डेडलाइन कड़ी है, लेकिन हो सकती है,",
+      "transliteration": "Woh deadline KADI hai, lekin ho sakti hai,",
+      "category": "Work & Office",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "I’m heading to the meeting now.",
+      "hindi": "मैं अभी मीटिंग के लिए जा रहा हूँ,",
+      "transliteration": "Main abhi MEETING ke liye ja raha hoon,",
+      "category": "Work & Office",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "I unwind with a warm cup tea",
+      "hindi": "मैं गरम चाय के साथ मन हल्का करता",
+      "transliteration": "Main GARAM chaay ke saath man halka karta/kar ti hoon,",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "Morning walks reset my mood fast",
+      "hindi": "सुबह की वॉक मेरा मूड तुरंत रीसेट कर देती है,",
+      "transliteration": "Subah ki walk mera mood turant reset kar deti hai,",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "I cook something new, just for fun",
+      "hindi": "मैं मज़े के लिए कुछ नया बनाता",
+      "transliteration": "Main maze ke liye kuch naya banata/banati hoon,",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "Sketching helps me slow down",
+      "hindi": "स्केचिंग से मैं धीमा हो जाता",
+      "transliteration": "Sketching se main dheema ho jaata/jaati hoon,",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "I read for an hour, no screens",
+      "hindi": "मैं एक घंटा पढ़ता",
+      "transliteration": "Main ek ghanta padh ta/padh ti hoon, screen se door,",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "I play music while I clean",
+      "hindi": "मैं घर की सफाई करते हुए संगीत सुनता",
+      "transliteration": "Main ghar ki safai karte hue sangeet sunta/sun ti hoon,",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "Gardening makes my hands feel useful",
+      "hindi": "बागवानी से मेरे हाथों को काम का एहसास होता है,",
+      "transliteration": "Bagbaani se mere haathon ko kaam ka ehsaas hota hai,",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "Can I get this to go, please?",
+      "hindi": "क्या मैं इसे पैक करके ले जा सकता",
+      "transliteration": "KYA main ise PACK karke LE ja sakta/sakti hoon, KRIPYA?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "What’s the fastest dish you have?",
+      "hindi": "आपके यहाँ सबसे जल्दी बनने वाला कौन सा डिश है?",
+      "transliteration": "AAPKE yahan SABSE jaldi banne wala KAUN sa DISH hai?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "Is this curry spicy, like medium?",
+      "hindi": "ये करी मिर्ची में मीडियम है या बहुत तेज़?",
+      "transliteration": "YE curry MIRCHI mein MEDIUM hai ya BOHOT tez?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "Could I get extra sauce, please?",
+      "hindi": "क्या मुझे थोड़ा ज़्यादा सॉस मिल सकता है, कृपया?",
+      "transliteration": "KYA mujhe THODA zyada SAUCE mil sakta hai, KRIPYA?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "No onions, please, I can’t eat them.",
+      "hindi": "प्लीज़, प्याज़ नहीं, मुझे नहीं खाना है।",
+      "transliteration": "PLEEZ, PYAAZ nahin, mujhe nahin khana hai.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "Can I add rice to my order?",
+      "hindi": "क्या मैं अपने ऑर्डर में चावल जोड़ सकता",
+      "transliteration": "KYA main apne ORDER mein CHAAVAL jod sakta/sakti hoon?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "I’ll take one, and a second one too.",
+      "hindi": "मैं एक लेता",
+      "transliteration": "MAIN ek leta/leti hoon, aur DOOSRA bhi le loon.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "Growth starts with one brave choice",
+      "hindi": "विकास एक बहादुर फैसले से शुरू होता है",
+      "transliteration": "VIKAS ek bahaadur FAIse se shuruu hota hai",
+      "category": "Growth",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "Choose progress over comfort today",
+      "hindi": "आज आराम से ज़्यादा प्रगति चुनो",
+      "transliteration": "Aaj aaram se ZYAADA pragati CHUNO",
+      "category": "Growth",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "Let feedback refine your next move",
+      "hindi": "फीडबैक को अपने अगले कदम को निखारने दो",
+      "transliteration": "FEEDbaek ko apne AGLe kadam ko NIKhaarne do",
+      "category": "Growth",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "Ask, what would I do differently",
+      "hindi": "पूछो, मैं क्या अलग करता",
+      "transliteration": "Poocho, main kya ALag karta",
+      "category": "Growth",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "Your habits are built, not fixed",
+      "hindi": "तुम्हारी आदतें बनती हैं, स्थिर नहीं",
+      "transliteration": "Tumhaari AADatein banti hain, sthir nahin",
+      "category": "Growth",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "Small wins build confidence quickly",
+      "hindi": "छोटी जीत जल्दी आत्मविश्वास बनाती है",
+      "transliteration": "ChhoTI jeet jaldi aATMvishvaas banaati hai",
+      "category": "Growth",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "Start messy, you can clean up",
+      "hindi": "गड़बड़ से शुरू करो, बाद में सुधार हो जाएगा",
+      "transliteration": "Gadbad se SHURU karo, baad mein sudhaar ho jaayega",
+      "category": "Growth",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "Hope is with me, even now.",
+      "hindi": "आशा मेरे साथ है, अभी भी।",
+      "transliteration": "AASHA mere saath hai, ABHI bhi.",
+      "category": "Hope",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "I can try again, today.",
+      "hindi": "मैं आज फिर कोशिश कर सकता हूँ।",
+      "transliteration": "Main AAJ phir koshish kar sakta hoon.",
+      "category": "Hope",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "Tomorrow feels possible, not scary.",
+      "hindi": "कल संभव लगता है, डर नहीं।",
+      "transliteration": "Kal SAMBHAV lagta hai, dar nahi.",
+      "category": "Hope",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "Small steps still move my hope.",
+      "hindi": "छोटे कदम भी मेरी आशा को आगे बढ़ाते हैं।",
+      "transliteration": "Chhote KADAM bhi meri AASHA ko aage badhaate hain.",
+      "category": "Hope",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "I trust my next right move.",
+      "hindi": "मैं अपनी अगली सही चाल पर भरोसा करता हूँ।",
+      "transliteration": "Main apni AGli sahi CHAAL par bharosa karta hoon.",
+      "category": "Hope",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "Hope keeps knocking, softly.",
+      "hindi": "आशा धीरे से दरवाज़ा खटखटाती रहती है।",
+      "transliteration": "AASHA dheere se darwaza KHATKHATAti rehti hai.",
+      "category": "Hope",
+      "generated_at": "2026-11-15T15:44:26.729801"
+    },
+    {
+      "english": "I will find a way through.",
+      "hindi": "मैं रास्ता निकाल ही लूंगा।",
+      "transliteration": "Main RAasta nikaal hi loonga.",
+      "category": "Hope",
+      "generated_at": "2026-11-15T15:44:26.729801"
     }
   ],
-  "last_updated": "2026-11-14T15:12:48.407708"
+  "last_updated": "2026-11-15T15:44:26.729801"
 }
