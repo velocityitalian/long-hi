@@ -259,7 +259,39 @@
     {
       "category": "Hotel & Accommodation",
       "date": "2026-11-16"
+    },
+    {
+      "category": "Perseverance",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Happiness",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Courage",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Banking & Money",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Strength",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Patience",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Inner Peace",
+      "date": "2026-11-17"
+    },
+    {
+      "category": "Love",
+      "date": "2026-11-17"
     }
   ],
-  "last_updated": "2026-11-16T18:41:55.263554"
+  "last_updated": "2026-11-17T17:43:13.972147"
 }
