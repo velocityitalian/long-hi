@@ -387,7 +387,39 @@
     {
       "category": "Emergency & Health",
       "date": "2026-11-20"
+    },
+    {
+      "category": "Shopping & Prices",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Mindfulness",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Sports & Fitness",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Ordering Food & Dining",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Confidence",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Hope",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Growth",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Hobbies & Free Time",
+      "date": "2026-11-21"
     }
   ],
-  "last_updated": "2026-11-20T17:04:07.685900"
+  "last_updated": "2026-11-21T16:14:37.408863"
 }
