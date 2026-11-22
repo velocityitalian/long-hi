@@ -21919,7 +21919,399 @@
       "transliteration": "Main ALMAARI dheere-dheere saaf KARTA hoon, ek-ek karke",
       "category": "Hobbies & Free Time",
       "generated_at": "2026-11-21T16:14:37.395227"
+    },
+    {
+      "english": "Can we talk priorities for today?",
+      "hindi": "क्या हम आज की प्राथमिकताओं पर बात कर सकते हैं,",
+      "transliteration": "kya ham aaj ki praathmiktaaon par baat kar sakte hain,",
+      "category": "Work & Office",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "I need clarity on your role here.",
+      "hindi": "मुझे यहां आपकी भूमिका स्पष्ट चाहिए,",
+      "transliteration": "mujhe yahaan aapki bhoomika spasht chaahiye,",
+      "category": "Work & Office",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "Let me know if plans change.",
+      "hindi": "अगर प्लान बदलें तो मुझे बता देना,",
+      "transliteration": "agar plaan badlein to mujhe bata dena,",
+      "category": "Work & Office",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "I’m behind schedule, but catching up.",
+      "hindi": "मैं समय से पीछे हूं, लेकिन मैं पकड़ रहा हूं,",
+      "transliteration": "main samay se peeche hoon, lekin main pakad raha hoon,",
+      "category": "Work & Office",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "Can you share the latest numbers?",
+      "hindi": "क्या आप नवीनतम आंकड़े साझा कर सकते हैं,",
+      "transliteration": "kya aap naveenatam aankde saanjha kar sakte hain,",
+      "category": "Work & Office",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "We should document this decision today.",
+      "hindi": "हमें आज इस फैसले को दस्तावेज़ करना चाहिए,",
+      "transliteration": "hamein aaj is faisle ko dastavez karna chaahiye,",
+      "category": "Work & Office",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "I’ll draft it, you review quickly.",
+      "hindi": "मैं इसका मसौदा तैयार कर दूंगा, आप जल्दी से देख लें,",
+      "transliteration": "main iska masauda taiyaar kar doonga, aap jaldi se dekh lein,",
+      "category": "Work & Office",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "Come over, I made tea.",
+      "hindi": "आओ, मैंने चाय बना ली है।",
+      "transliteration": "AAo, maine CHAY bana li hai.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "Your room feels so cozy.",
+      "hindi": "तुम्हारे कमरे में बहुत सुकून है।",
+      "transliteration": "Tumhaare KAAMre mein bahut SUKOON hai.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "I’ll handle the dishes, don’t worry.",
+      "hindi": "मैं बर्तन संभाल लूँगा, चिंता मत करो।",
+      "transliteration": "Main bartan SAMBHAAL LUNGA, chinta MAT karo.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "Let’s set the table together.",
+      "hindi": "चलो, मिलकर मेज़ सजाते हैं।",
+      "transliteration": "Chalo, milkar MEZ sajate hain.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "I miss you, let’s call tonight.",
+      "hindi": "मैं तुम्हें याद कर रहा",
+      "transliteration": "Main tumhe YAAD kar raha/rahi HOON, aaj RAAT call karte hain.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "Mornings are calmer at home.",
+      "hindi": "घर में सुबह का माहौल शांत रहता है।",
+      "transliteration": "Ghar mein subah ka MAHOL shaant rehta hai.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "We argue, then we reset quickly.",
+      "hindi": "हम बहस कर लेते हैं, फिर जल्दी से ठीक हो जाते हैं।",
+      "transliteration": "Hum BAHAS kar lete hain, phir jaldi se THEEK ho jaate hain.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "Tiny actions change your whole mood",
+      "hindi": "छोटे कदम भी आपका मूड बदल देते हैं",
+      "transliteration": "ChhoTe KADAM bhi aapka MOOD badal dete hain",
+      "category": "Motivation",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "You’re allowed to begin again",
+      "hindi": "आपको फिर से शुरुआत करने की इजाज़त है",
+      "transliteration": "Aapko phir se shuruaat karne ki ijaazat hai",
+      "category": "Motivation",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "Let effort speak louder than fear",
+      "hindi": "हिम्मत की आवाज़ डर से ज़्यादा चलने दो",
+      "transliteration": "Himmat ki AAWAZ dar se ZYAADA chalne do",
+      "category": "Motivation",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "Move your body, calm your mind",
+      "hindi": "शरीर हिलाओ, मन शांत करो",
+      "transliteration": "Shareer HILAO, man shaant karo",
+      "category": "Motivation",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "Choose one task, then commit",
+      "hindi": "एक काम चुनो, फिर उस पर टिके रहो",
+      "transliteration": "Ek kaam CHUNO, phir us par TIKE raho",
+      "category": "Motivation",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "Progress loves a clear plan",
+      "hindi": "तरक़्क़ी को एक साफ योजना पसंद है",
+      "transliteration": "Taraqqi ko ek saaf Yojana pasand hai",
+      "category": "Motivation",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "Your pace is still your power",
+      "hindi": "आपकी रफ्तार भी आपकी ताकत है",
+      "transliteration": "Aapki RAFTAR bhi aapki TAQAT hai",
+      "category": "Motivation",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "Set goals, then take action.",
+      "hindi": "लक्ष्य तय करो, फिर कार्रवाई करो।",
+      "transliteration": "LAKSHYA tay KARO, phir KAARVAAYI KARO.",
+      "category": "Success",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "Turn fear into focused effort.",
+      "hindi": "डर को, फोकस्ड मेहनत में बदलो।",
+      "transliteration": "DAR ko, FOKS्ड MEHNAT mein BADLO.",
+      "category": "Success",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "Keep your standards high, not stressful.",
+      "hindi": "अपना स्टैंडर्ड ऊँचा रखो, तनाव नहीं।",
+      "transliteration": "APNA STANDARd OONCHA RAKHO, TA NAAV NAHI.",
+      "category": "Success",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "Do it scared, just do it.",
+      "hindi": "डरे हुए भी करो, बस करो।",
+      "transliteration": "DARE hue BHI KARO, bas KARO.",
+      "category": "Success",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "Make progress visible, daily if possible.",
+      "hindi": "अपनी प्रगति दिखाओ, रोज़ हो सके तो।",
+      "transliteration": "APNI pragati DIKHAO, ROZ ho SAKE to.",
+      "category": "Success",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "Choose one priority, finish strong.",
+      "hindi": "एक प्राथमिकता चुनो, मजबूत होकर पूरा करो।",
+      "transliteration": "ek PRAATHMIKTA CHUNO, MAZBOOT hokar POORA Karo.",
+      "category": "Success",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "Learn the hard part, first.",
+      "hindi": "मुश्किल हिस्सा पहले सीखो।",
+      "transliteration": "MUSHKIL hissa PEHLE SEEKHO.",
+      "category": "Success",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "I feel tense, honestly.",
+      "hindi": "मुझे सच में घबराहट हो रही है,",
+      "transliteration": "mujhe sach mein ghabrahat ho rahi hai,",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "That made me feel lonely.",
+      "hindi": "उससे मुझे अकेलापन सा लगा,",
+      "transliteration": "us se mujhe akelapan sa laga,",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "I’m grateful, but also overwhelmed.",
+      "hindi": "मैं आभारी हूँ, लेकिन थोड़ा अभिभूत भी हूँ,",
+      "transliteration": "main aabhari hoon, lekin thoda abhibhoot bhi hoon,",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "I’m feeling tender toward you.",
+      "hindi": "मुझे तुम्हारे लिए नरमी महसूस हो रही है,",
+      "transliteration": "mujhe tumhare liye narmi mehsoos ho rahi hai,",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "I can’t stop second-guessing myself.",
+      "hindi": "मैं खुद के बारे में बार-बार शक कर रहा हूँ,",
+      "transliteration": "main khud ke baare mein baar-baar shak kar raha hoon,",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "I feel a little jealous today.",
+      "hindi": "आज मुझे थोड़ी जलन हो रही है,",
+      "transliteration": "aaj mujhe thodi jalan ho rahi hai,",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "I’m finally proud of my effort.",
+      "hindi": "आखिरकार, मुझे अपनी मेहनत पर गर्व है,",
+      "transliteration": "aakhirkaar, mujhe apni mehnat par garv hai,",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "I’ll forgive, and still protect my heart.",
+      "hindi": "मैं क्षमा करूंगा, और अपना दिल भी सुरक्षित रखूंगा।",
+      "transliteration": "Main KSHAMA karunga, aur apna dil bhi SURAKSHIT rakhunga.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "I want peace, not a courtroom.",
+      "hindi": "मुझे शांति चाहिए, अदालत नहीं।",
+      "transliteration": "Mujhe SHAANTI chahiye, adaalat nahin.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "Let’s talk, then reset the tone.",
+      "hindi": "चलो बात करें, फिर माहौल फिर से सेट करें।",
+      "transliteration": "Chalo baat karein, phir MAHAUL phir se SET karein.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "I’m ready to stop replaying it.",
+      "hindi": "मैं इसे बार-बार दिमाग में चलाना बंद करने को तैयार हूँ।",
+      "transliteration": "Main ise BAAR-baar dimaag mein chalana band karne ko TAIYAAR hoon.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "You didn’t mean to hurt me.",
+      "hindi": "शायद तुमने मुझे दुख देने का इरादा नहीं था।",
+      "transliteration": "Shaayad tumne mujhe DUKH dene ka IRAADA nahin tha.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "I forgive, but I won’t ignore facts.",
+      "hindi": "मैं क्षमा करता हूँ, पर सच्चाई को नजरअंदाज नहीं करता।",
+      "transliteration": "Main KSHAMA karta hoon, par sachchai ko nazarandaz nahin karta.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "Today, I choose calm words.",
+      "hindi": "आज, मैं शांत शब्द चुनता हूँ।",
+      "transliteration": "Aaj, main SHAANT shabd chunta hoon.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "Thank you for the steady help",
+      "hindi": "धन्यवाद, तुम्हारी लगातार मदद के लिए",
+      "transliteration": "Dhanvaad, tumhari lagataar madad ke liye",
+      "category": "Gratitude",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "I appreciate your calm, honest advice",
+      "hindi": "मैं आपकी शांत, सच्ची सलाह की कद्र करता",
+      "transliteration": "Main aapki shaant, sacchi salaah ki kadar karta/karti hoon",
+      "category": "Gratitude",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "Thanks for noticing what I needed",
+      "hindi": "धन्यवाद, आपने मेरी जरूरत समझ ली",
+      "transliteration": "Dhanvaad, aapne meri zaroorat samajh li",
+      "category": "Gratitude",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "I’m grateful for your quick response",
+      "hindi": "मैं आपकी तेज़ प्रतिक्रिया के लिए आभारी हूँ",
+      "transliteration": "Main aapki tez pratikriya ke liye aabhari hoon",
+      "category": "Gratitude",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "You made today easier for me",
+      "hindi": "तुमने मेरा आज का दिन आसान कर दिया",
+      "transliteration": "Tumne mera aaj ka din aasaan kar diya",
+      "category": "Gratitude",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "Thank you for cheering me on",
+      "hindi": "धन्यवाद, तुम मेरे हौसले बढ़ाते हो",
+      "transliteration": "Dhanvaad, tum mere hausle badhaate ho",
+      "category": "Gratitude",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "I’m thankful for your time and effort",
+      "hindi": "मेरे लिए समय देने और मेहनत करने के लिए धन्यवाद",
+      "transliteration": "Mere liye samay dene aur mehnat karne ke liye dhanyavaad",
+      "category": "Gratitude",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "Hi, can I check out now?",
+      "hindi": "नमस्ते, क्या मैं अभी चेक-आउट कर सकता हूँ?",
+      "transliteration": "Namaste, KYA main ABHI CHECK-AUT KAR sakta HUN?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "Is late check-out possible today?",
+      "hindi": "क्या आज लेट चेक-आउट संभव है?",
+      "transliteration": "KYA aaj LATE CHECK-AUT sambhav hai?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "What’s the Wi-Fi password, please?",
+      "hindi": "कृपया, वाई-फाई का पासवर्ड क्या है?",
+      "transliteration": "Kripya, WAI-FAI ka PASSWORD kya hai?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "Do you offer airport pickup?",
+      "hindi": "क्या आप एयरपोर्ट पिकअप देते हैं?",
+      "transliteration": "KYA aap AIRPORT PICKUP dete HAIN?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "Where is breakfast served, exactly?",
+      "hindi": "नाश्ता आखिर कहाँ पर परोसा जाता है?",
+      "transliteration": "NAASHTA AAKHIR kahan par PAROSA jata hai?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "Do I need a key card?",
+      "hindi": "क्या मुझे की-कार्ड की जरूरत है?",
+      "transliteration": "KYA mujhe KEY-CARD ki zarurat hai?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-22T16:25:04.016154"
+    },
+    {
+      "english": "My room smells like smoke, please.",
+      "hindi": "मेरे कमरे में धुआँ जैसी गंध आ रही है, कृपया।",
+      "transliteration": "MERE kamre mein DHUAN jaisi gandh aa RAHI hai, kripya.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-22T16:25:04.016154"
     }
   ],
-  "last_updated": "2026-11-21T16:14:37.395227"
+  "last_updated": "2026-11-22T16:25:04.016154"
 }
