@@ -483,7 +483,39 @@
     {
       "category": "Strength",
       "date": "2026-11-23"
+    },
+    {
+      "category": "Courage",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "Happiness",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "Agreeing & Disagreeing",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "Travel & Airport",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "Asking for Directions",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "Coffee Shop & Bakery",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "Common Native Slang",
+      "date": "2026-11-24"
+    },
+    {
+      "category": "Daily Routine",
+      "date": "2026-11-24"
     }
   ],
-  "last_updated": "2026-11-23T20:28:39.473602"
+  "last_updated": "2026-11-24T19:36:06.391895"
 }

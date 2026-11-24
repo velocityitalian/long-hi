@@ -22703,7 +22703,399 @@
       "transliteration": "Ek aur SET, phir main KHATM karta hun.",
       "category": "Strength",
       "generated_at": "2026-11-23T20:28:39.458651"
+    },
+    {
+      "english": "I will do it scared.",
+      "hindi": "मैं डरते हुए भी ये करूँगा।",
+      "transliteration": "Main DARTE huye bhi ye karunga.",
+      "category": "Courage",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "My hands can tremble, I continue.",
+      "hindi": "मेरे हाथ काँप सकते हैं, मैं आगे बढ़ता हूँ।",
+      "transliteration": "Mere haath KĀNP sakte hain, main aage badhta hoon.",
+      "category": "Courage",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "I ask for help, boldly.",
+      "hindi": "मैं मदद माँगता हूँ, निर्भीक होकर।",
+      "transliteration": "Main madad MAANGta hoon, NIRbhīk hokar.",
+      "category": "Courage",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "I stop negotiating with fear.",
+      "hindi": "मैं डर से बहस करना बंद करता हूँ।",
+      "transliteration": "Main DAR se BAHAS karna band karta hoon.",
+      "category": "Courage",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "I can face this moment fully.",
+      "hindi": "मैं इस पल का सामना पूरी तरह कर सकता हूँ।",
+      "transliteration": "Main is pal ka SAMNA poori tarah kar sakta hoon.",
+      "category": "Courage",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "I choose the hard conversation.",
+      "hindi": "मैं वह कठिन बातचीत चुनता हूँ।",
+      "transliteration": "Main vah KATHIN baatचीत CHUNta hoon.",
+      "category": "Courage",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "I speak up, even softly.",
+      "hindi": "मैं बोल उठता हूँ, भले धीरे से।",
+      "transliteration": "Main bol UTHTA hoon, bhale dheere se.",
+      "category": "Courage",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "I let joy arrive on its own",
+      "hindi": "मैं खुशी को अपने समय पर आने देता हूँ,",
+      "transliteration": "main khushi ko apne samay par aane deta hoon",
+      "category": "Happiness",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "I celebrate progress, not perfection",
+      "hindi": "मैं परफेक्शन नहीं, प्रगति का जश्न मनाती हूँ,",
+      "transliteration": "main perfection nahin, pragati ka jashn manati hoon",
+      "category": "Happiness",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "Grateful thoughts change my whole day",
+      "hindi": "कृतज्ञ विचार मेरा पूरा दिन बदल देते हैं,",
+      "transliteration": "krityagya vichar mera poora din badal dete hain",
+      "category": "Happiness",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "I choose rest before I burn out",
+      "hindi": "मैं थकने से पहले आराम चुनती हूँ,",
+      "transliteration": "main thakne se pehle aaram chunti hoon",
+      "category": "Happiness",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "I notice beauty, even in small moments",
+      "hindi": "मैं छोटे-छोटे पलों में भी सुंदरता देखती हूँ,",
+      "transliteration": "main chhote-chhote palon mein bhi sundarta dekhti hoon",
+      "category": "Happiness",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "My laughter is medicine for me",
+      "hindi": "मेरी हँसी मेरे लिए दवा है,",
+      "transliteration": "meri hansi mere liye dava hai",
+      "category": "Happiness",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "I turn stress into one calm step",
+      "hindi": "मैं तनाव को एक शांत कदम में बदल देती हूँ,",
+      "transliteration": "main tanav ko ek shaant kadam mein badal deti hoon",
+      "category": "Happiness",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "I hear you, but I can’t.",
+      "hindi": "मैं समझ रहा हूँ, लेकिन मैं नहीं कर सकता।",
+      "transliteration": "main samajh raha hoon, lekin main NAHIN kar sakta",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "That works for me, actually.",
+      "hindi": "ये मेरे लिए ठीक है, सच में।",
+      "transliteration": "ye mere liye THEEK hai, sach mein",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "I like it, but I’m hesitant.",
+      "hindi": "मुझे ये पसंद है, लेकिन मैं झिझक रहा हूँ।",
+      "transliteration": "mujhe ye pasand hai, lekin main JHIZAK raha hoon",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "I disagree, and here’s why.",
+      "hindi": "मैं असहमत हूँ, और कारण बताता हूँ।",
+      "transliteration": "main asahmat hoon, aur KAARAN batata hoon",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "Yes, that’s my view too.",
+      "hindi": "हाँ, ये मेरी भी राय है।",
+      "transliteration": "haan, ye meri bhi RAAY hai",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "No, I think that’s off.",
+      "hindi": "नहीं, मुझे लगता है ये गलत है।",
+      "transliteration": "nahin, mujhe lagta hai ye GALAT hai",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "I’m with you, but not fully.",
+      "hindi": "मैं आपके साथ हूँ, लेकिन पूरी तरह नहीं।",
+      "transliteration": "main aapke saath hoon, lekin POORI tarah nahin",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "Where is the lost luggage office?",
+      "hindi": "लॉस्ट लगेज़ ऑफिस कहाँ है?",
+      "transliteration": "Lost LAJ ofis kahaan hai?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "Do I need cash for taxis?",
+      "hindi": "टैक्सी के लिए मुझे कैश चाहिए?",
+      "transliteration": "Taxi ke liye mujhe CASH chahiye?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "Is there a quiet prayer room?",
+      "hindi": "क्या यहाँ शांत प्रार्थना कक्ष है?",
+      "transliteration": "Kya yahan shaant PRAARTHANA kaksh hai?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "Can I get water after security?",
+      "hindi": "क्या सुरक्षा के बाद पानी मिल सकता है?",
+      "transliteration": "Kya suraksha ke baad PAANI mil sakta hai?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "Which way to baggage wheels?",
+      "hindi": "बैगेज व्हील्स की तरफ मैं कहाँ जाऊँ?",
+      "transliteration": "BAIGEZ wheels ki taraf main kahaan jaaun?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "My passport stamp is missing.",
+      "hindi": "मेरे पासपोर्ट पर स्टाम्प नहीं है।",
+      "transliteration": "Mere paasport par stamp nahin hai.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "I think I missed my connection.",
+      "hindi": "मुझे लगता है, मेरा कनेक्शन छूट गया।",
+      "transliteration": "Mujhe lagta hai, mera CONNECTION chhoot gaya.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "How do I get to this address?",
+      "hindi": "इस पते तक कैसे पहुँचूँ?",
+      "transliteration": "Is pate tak kaise Pahunchun?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "Is it close to here?",
+      "hindi": "क्या यह यहाँ के पास है?",
+      "transliteration": "Kya yeh yahan ke paas hai?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "Can you show me on a map?",
+      "hindi": "क्या आप मुझे मैप पर दिखा सकते हैं?",
+      "transliteration": "Kya aap mujhe map par dikha sakte hain?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "Which stop should I get off at?",
+      "hindi": "मुझे किस स्टॉप पर उतरना चाहिए?",
+      "transliteration": "Mujhe kis stop par utarna chahiye?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "I’m trying to find this place.",
+      "hindi": "मैं इस जगह को ढूँढ रहा हूँ।",
+      "transliteration": "Main is jagah ko dhundh raha hun.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "What’s the easiest route, please?",
+      "hindi": "कृपया सबसे आसान रास्ता क्या है?",
+      "transliteration": "Kripya sabse aasaan rasta kya hai?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "Do I need a ticket for that bus?",
+      "hindi": "उस बस के लिए टिकट चाहिए क्या?",
+      "transliteration": "Us bas ke liye ticket chahiye kya?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "Can I get a fresh croissant?",
+      "hindi": "क्या मैं एक ताज़ा क्रोइसां ले सकता",
+      "transliteration": "Kya main ek TAJAA krwaasaan le saktaa/ sakti hoon?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "What pastry goes best with coffee?",
+      "hindi": "कॉफी के साथ कौन-सी पेस्ट्री सबसे अच्छी लगेगी?",
+      "transliteration": "Coffee ke saath kaun-si PESTRY sabse achchhi lagegi?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "Do you have hazelnut flavor today?",
+      "hindi": "क्या आज हेज़लनट फ्लेवर है?",
+      "transliteration": "Kya aaj hazelnut FLEVER hai?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "Just one small cookie for now.",
+      "hindi": "अभी के लिए बस एक छोटा कुकी दे दीजिए।",
+      "transliteration": "Abhi ke liye bas ek chhota KUKI de dijiye.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "Is the chai latte spicy or mild?",
+      "hindi": "चाय लैट्टे तेज़ है या हल्का?",
+      "transliteration": "Chai LATTE tez hai ya HAA LKA?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "Can I sit by the window, please?",
+      "hindi": "क्या मैं खिड़की के पास बैठ सकती",
+      "transliteration": "Kya main KHIDKI ke paas baith sakti/sakta hoon?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "Is there a tasting flight of pastries?",
+      "hindi": "क्या पेस्ट्री का चखने वाला पैकेज मिलता है?",
+      "transliteration": "Kya PESTRY ka chakne wala PAKEJ milta hai?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "What’s the vibe with that?",
+      "hindi": "Uska vibe kya hai, yaar?",
+      "transliteration": "Uska VIBE kya hai, yaar?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "That’s a total bhai moment.",
+      "hindi": "Yaar, ye to full bhai moment hai.",
+      "transliteration": "Yaar, ye to FULL bhai MOMENT hai",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "I’m running late, sorry!",
+      "hindi": "Main thoda late ho raha hoon, sorry!",
+      "transliteration": "Main THODA late ho raha HOON, SORRY!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "Don’t stress, handle it slowly.",
+      "hindi": "Tension mat lo, araam se ho jaayega.",
+      "transliteration": "TEN-sion mat lo, ARAAM se ho jaayega",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "Tell me the real story.",
+      "hindi": "Sach-sach batao, poori kahani.",
+      "transliteration": "SACH-sach BATAO, POORI kahani",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "I’m done, I can’t do more.",
+      "hindi": "Bas, ab nahi ho raha, yaar.",
+      "transliteration": "Bas, AB nahi ho raha, yaar",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "Hold on, I need a sec.",
+      "hindi": "Ek min, ruk jao zara.",
+      "transliteration": "EK min, ruk JAO zara",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "I take a deep breath, then pray.",
+      "hindi": "मैं गहरी साँस लेता हूँ, फिर प्रार्थना करता हूँ।",
+      "transliteration": "Main GAHRI saans LETA hoon, phir PRAARTHNA karta hoon.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "I write three things to do today.",
+      "hindi": "मैं आज के लिए तीन काम लिखता हूँ।",
+      "transliteration": "Main aaj ke liye TEEN kaam LIKHTA hoon.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "I drink chai with my family.",
+      "hindi": "मैं अपने परिवार के साथ चाय पीता हूँ।",
+      "transliteration": "Main apne PARIVAAR ke saath CHAAI peeta hoon.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "I feed the plants, quick check.",
+      "hindi": "मैं पौधों को पानी देता हूँ, जल्दी से जाँच भी करता हूँ।",
+      "transliteration": "Main PAUDHON ko PAANI deta hoon, jaldi se JAANCH bhi karta hoon.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "I open my window for fresh air.",
+      "hindi": "मैं ताज़ी हवा के लिए खिड़की खोलता हूँ।",
+      "transliteration": "Main TAJAA hawa ke liye KHIDKI kholta hoon.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "I read my messages before replying.",
+      "hindi": "मैं जवाब देने से पहले अपने मैसेज पढ़ता हूँ।",
+      "transliteration": "Main jawaab DENE se PEHLE apne MESSEJ padhata hoon.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "I start cooking, keeping it simple.",
+      "hindi": "मैं खाना बनाना शुरू करता हूँ, इसे सरल रखता हूँ।",
+      "transliteration": "Main KHAANA banana SHURU karta hoon, ise saral RAKHTA hoon.",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T19:36:06.375161"
     }
   ],
-  "last_updated": "2026-11-23T20:28:39.458651"
+  "last_updated": "2026-11-24T19:36:06.375161"
 }
