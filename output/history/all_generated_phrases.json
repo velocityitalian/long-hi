@@ -23095,7 +23095,399 @@
       "transliteration": "Main KHAANA banana SHURU karta hoon, ise saral RAKHTA hoon.",
       "category": "Daily Routine",
       "generated_at": "2026-11-24T19:36:06.375161"
+    },
+    {
+      "english": "Let’s map out our steps",
+      "hindi": "Chalo apne kadamon ka plan bana lete hain.",
+      "transliteration": "Chalo apne KADAMON ka PLAN bana lete hain.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "I’ll draft a timeline for us",
+      "hindi": "Main aapke liye ek timeline tayyar kar dunga.",
+      "transliteration": "Main aapke liye ek TIMELINE tayyar kar dunga.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "Can we lock the date now?",
+      "hindi": "Kya hum abhi tareekh fix kar lein?",
+      "transliteration": "Kya hum abhi TAREEKH fix kar lein?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "Let’s choose a meeting point",
+      "hindi": "Chalo milne ka sthan tay karte hain.",
+      "transliteration": "Chalo milne ka STHAN tay karte hain.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "I prefer a morning plan",
+      "hindi": "Mujhe subah ka plan zyada pasand hai.",
+      "transliteration": "Mujhe SUBAH ka PLAN zyada pasand hai.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "We should confirm details by phone",
+      "hindi": "Phone par saare details confirm kar lein.",
+      "transliteration": "PHONE par saare DETAILS confirm kar lein.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "I’ll handle the reservations",
+      "hindi": "Main booking aur reservation sambhal lunga.",
+      "transliteration": "Main BOOKING aur reservation SAMBHAL lunga.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "That tiny compliment made me glow",
+      "hindi": "वो छोटा सा तारीफ मुझे चमका गया,",
+      "transliteration": "vo chhota sa TAARIF mujhe CHAMKA gaya,",
+      "category": "Joy",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "I’m enjoying this quiet moment, right now",
+      "hindi": "मैं अभी इस शांत पल का आनंद ले रहा हूँ,",
+      "transliteration": "main ABHI is SHAANT pal ka ANAND le raha hoon,",
+      "category": "Joy",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "My playlist hits, and I breathe easy",
+      "hindi": "मेरी प्लेलिस्ट चलती है, और मैं सहज सांस लेता हूँ,",
+      "transliteration": "meri PLELIST chalti hai, aur main SAHAJ saans leta hoon,",
+      "category": "Joy",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "I feel lighter when I organize",
+      "hindi": "जब मैं चीज़ें सही जगह रखता हूँ, तो मन हल्का हो जाता है,",
+      "transliteration": "jab main CHEEZEN sahi jagah rakhta hoon, to mann HALKA ho jata hai,",
+      "category": "Joy",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "A fresh page makes me hopeful",
+      "hindi": "एक नया पन्ना मुझे उम्मीद देता है,",
+      "transliteration": "ek NAYA panna mujhe UMEED deta hai,",
+      "category": "Joy",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "I’m smiling after a good joke",
+      "hindi": "मैं अच्छी हँसी वाले उस मज़ाक के बाद मुस्कुरा रहा हूँ,",
+      "transliteration": "main acchi HANSI wale us MAZAAK ke baad MUSKURA raha hoon,",
+      "category": "Joy",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "I thanked myself, and it felt right",
+      "hindi": "मैंने खुद को धन्यवाद दिया, और वो सही लगा,",
+      "transliteration": "maine khud ko DHANYAVAAD diya, aur vo SAHI laga,",
+      "category": "Joy",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "Can you confirm the time, please?",
+      "hindi": "क्या आप समय की पुष्टि कर देंगे, कृपया?",
+      "transliteration": "Kya aap SAMAY ki pushti kar denge, kripya?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "I texted you earlier, just checking.",
+      "hindi": "मैंने पहले आपको मैसेज किया था, बस चेक कर रहा",
+      "transliteration": "Maine pehle aapko message kiya tha, bas CHECK kar raha/rahi hoon.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "Sorry, wrong number. My mistake.",
+      "hindi": "माफ़ कीजिए, गलत नंबर है। मेरी गलती।",
+      "transliteration": "Maaf kijiye, galat NUMBER hai. meri GALTI.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "Please ignore my last message.",
+      "hindi": "कृपया मेरा आख़िरी संदेश नज़रअंदाज़ कर दें।",
+      "transliteration": "Kripya mera aakhri MESSAGE nazarandaz kar dein.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "Could you share your availability today?",
+      "hindi": "क्या आप आज अपनी उपलब्धता बता सकते हैं?",
+      "transliteration": "Kya aap aaj apni UPYOGTA bata sakte hain?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "I’ll call after the meeting ends.",
+      "hindi": "मीटिंग खत्म होने के बाद मैं कॉल करूँगा",
+      "transliteration": "Meeting khatam hone ke baad main CALL karunga/karungi.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "Thanks, got your message. Appreciate it.",
+      "hindi": "धन्यवाद, मुझे आपका संदेश मिल गया।",
+      "transliteration": "Dhanyavaad, mujhe aapka MESSAGE mil gaya.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "Stand tall, stay centered inside.",
+      "hindi": "सीधे खड़े रहो, भीतर से स्थिर रहो।",
+      "transliteration": "SIde raho, bheetar se STHIR raho.",
+      "category": "Balance",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "Do one thing, then check in.",
+      "hindi": "एक काम करो, फिर खुद से पूछो।",
+      "transliteration": "EK kaam karo, phir khud se POCHO.",
+      "category": "Balance",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "Let effort and ease share the moment.",
+      "hindi": "मेहनत और आराम दोनों को साथ रहने दो।",
+      "transliteration": "MEHNAT aur AARAM dono ko SAATH rehne do.",
+      "category": "Balance",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "I split my time, not my focus.",
+      "hindi": "मैं समय बाँटता हूँ, ध्यान नहीं।",
+      "transliteration": "MAIN samay BAANT ta hoon, dhyaan Nahi.",
+      "category": "Balance",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "Keep your pace steady, not fast.",
+      "hindi": "अपनी चाल स्थिर रखो, तेज नहीं।",
+      "transliteration": "apni CHAAL STHIR rakho, TEZ nahi.",
+      "category": "Balance",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "Feel the middle between rush and rest.",
+      "hindi": "जल्दी और आराम के बीच का बीच महसूस करो।",
+      "transliteration": "jaldi aur AARAM ke beech ka BEECH mehsoos karo.",
+      "category": "Balance",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "When thoughts swing, I soften my grip.",
+      "hindi": "जब विचार झूलते हैं, मैं पकड़ नरम करता हूँ।",
+      "transliteration": "jab vichaar JHOOLte hain, main pakad NARAM karta hoon.",
+      "category": "Balance",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "Tonight is going to be legendary!",
+      "hindi": "आज रात तो कमाल होने वाली है!",
+      "transliteration": "Aaj RAAT to kamaal hone vaali hai!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "Shall we start with snacks first?",
+      "hindi": "चलो पहले थोड़े स्नैक्स लेते हैं?",
+      "transliteration": "Chalo PAHLE thode snacks lete hain?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "I brought sparkling water for everyone.",
+      "hindi": "मैं सबके लिए स्पार्कलिंग वॉटर लाया हूँ।",
+      "transliteration": "Main sabke liye sparkling water laaya hoon.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "Who’s the DJ, this beat is fire!",
+      "hindi": "ये DJ कौन है, बीट तो आग लगा रही है!",
+      "transliteration": "Ye DJ kaun hai, beet to aag laga rahi hai!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "That balloon arch looks stunning!",
+      "hindi": "ये बैलून वाला आर्च कितना शानदार लग रहा है!",
+      "transliteration": "Ye balloon vaala arch kitna shaandaar lag raha hai!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "Can you pass me the cake knife?",
+      "hindi": "क्या आप मुझे केक वाला चाकू दे देंगे?",
+      "transliteration": "Kya aap mujhe cake vaala chaaku de denge?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "Let’s make a wish, right now.",
+      "hindi": "चलो अभी एक इच्छा करें।",
+      "transliteration": "Chalo abhi ek ichchha karein.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "Before eating, we pray for everyone",
+      "hindi": "खाने से पहले हम सबके लिए दुआ करते हैं।",
+      "transliteration": "khaane se PEHLE hum SABKE liye duaa karte hain",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "We greet guests with warm flower garlands",
+      "hindi": "हम मेहमानों का पुष्पमालाओं से स्वागत करते हैं।",
+      "transliteration": "hum MEHMAANON ka PUSHpamALaaon se svaagat karte hain",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "At Holi, we play with safe colors",
+      "hindi": "होली पर हम सुरक्षित रंगों से खेलते हैं।",
+      "transliteration": "HOLI par hum surakshit RANGON se khelte hain",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "In many homes, rangoli welcomes the day",
+      "hindi": "कई घरों में रंगोली दिन का स्वागत करती है।",
+      "transliteration": "KAi GHAaron me RANGOLI din ka svaagat karti hai",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "We swap sweets when someone visits",
+      "hindi": "जब कोई आता है, हम मिठाई बाँटते हैं।",
+      "transliteration": "jab koi aata hai, hum mIThaaI BAANTte hain",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "On Diwali, we clean the front first",
+      "hindi": "दीपावली पर हम पहले घर का आँगन साफ करते हैं।",
+      "transliteration": "deepaavali par hum PEHLE ghar ka AANGan saaf karte hain",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "We keep a small spot for incense",
+      "hindi": "हम पूजा के पास अगरबत्ती के लिए जगह रखते हैं।",
+      "transliteration": "hum POOjaa ke paas agarbatti ke liye jagah rakhte hain",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "I need a fever medicine, please.",
+      "hindi": "मुझे बुखार की दवा चाहिए, कृपया।",
+      "transliteration": "Mujhe BUKHAR ki dava CHAHIYE, please.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "Where can I get my blood test?",
+      "hindi": "मैं अपना ब्लड टेस्ट कहाँ करा सकता हूँ?",
+      "transliteration": "Main apna BLAD TEST kahan karA sakta hoon?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "Is there a pharmacy near the clinic?",
+      "hindi": "क्या क्लिनिक के पास कोई फार्मेसी है?",
+      "transliteration": "Kya CLINIC ke paas koi FARmaSee hai?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "Can I speak to the pharmacist now?",
+      "hindi": "क्या मैं अभी फार्मासिस्ट से बात कर सकता हूँ?",
+      "transliteration": "Kya main abhi FARmaSIST se baat kar sakta hoon?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "I lost my prescription, what now?",
+      "hindi": "मेरी पर्ची खो गई है, अब क्या करूँ?",
+      "transliteration": "Meri PARchi kho gai hai, ab kya KAROON?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "Do you have this strength in stock?",
+      "hindi": "क्या आपके पास इसी ताकत की दवा उपलब्ध है?",
+      "transliteration": "Kya aapke paas isi TAQAT ki dava UPlaBdh hai?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "I need allergy tablets for today.",
+      "hindi": "मुझे आज के लिए एलर्जी की गोलियाँ चाहिए।",
+      "transliteration": "Mujhe aaj ke liye ALerji ki goliyaan CHAHIYE.",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "Thanks for always checking in",
+      "hindi": "धन्यवाद, तुम हमेशा हालचाल लेते हो",
+      "transliteration": "DHANYAVAAD, tum HAMESHA haalchaal LETE ho",
+      "category": "Friendship",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "Your support feels like steady ground",
+      "hindi": "तुम्हारा साथ मुझे मजबूत ज़मीन जैसा लगता है",
+      "transliteration": "tumHARA saath mujhe MAZBOOT zameen JAISE lagta hai",
+      "category": "Friendship",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "We celebrate small wins together",
+      "hindi": "हम छोटे-छोटे कामयाबी साथ में मनाते हैं",
+      "transliteration": "ham chhote-chhote KAAMYABI saath mein MANATE hain",
+      "category": "Friendship",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "You listen, even when I ramble",
+      "hindi": "तुम सुनते हो, भले मैं यूं ही बक-बक करूँ",
+      "transliteration": "tum SUNTE ho, bhale main yoon hi bak-bak karoon",
+      "category": "Friendship",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "Let s walk, talk, and reset",
+      "hindi": "चलो, टहलते हैं, बातें करते हैं, और रीसेट करते हैं",
+      "transliteration": "chalo, TAHALTE hain, BAATEIN karte hain, aur RESET karte hain",
+      "category": "Friendship",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "I feel lighter after our calls",
+      "hindi": "हमारी बात के बाद, मैं हल्का महसूस करता हूँ",
+      "transliteration": "humaari BAAT ke BAAD, main HALKA mehsoos karta hoon",
+      "category": "Friendship",
+      "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "You defend me when it matters",
+      "hindi": "जब ज़रूरत होती है, तुम मेरा पक्ष लेते हो",
+      "transliteration": "jab ZAAROORAT hoti hai, tum mera paksh LETE ho",
+      "category": "Friendship",
+      "generated_at": "2026-11-25T18:43:21.703244"
     }
   ],
-  "last_updated": "2026-11-24T19:36:06.375161"
+  "last_updated": "2026-11-25T18:43:21.703244"
 }
