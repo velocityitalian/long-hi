@@ -23487,7 +23487,399 @@
       "transliteration": "jab ZAAROORAT hoti hai, tum mera paksh LETE ho",
       "category": "Friendship",
       "generated_at": "2026-11-25T18:43:21.703244"
+    },
+    {
+      "english": "I plan tomorrow before I sleep.",
+      "hindi": "मैं सोने से पहले कल की योजना बनाता हूँ।",
+      "transliteration": "Main SONE se PAHLE kal ki yojana banata hoon.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "I stretch my comfort zone, gently.",
+      "hindi": "मैं अपने आराम-क्षेत्र को धीरे-धीरे फैलाता हूँ।",
+      "transliteration": "Main apne aaram-KSHETRA ko dheere-dheere phailaata hoon.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "I learn from mistakes, not shame.",
+      "hindi": "मैं गलतियों से सीखता हूँ, शर्म से नहीं।",
+      "transliteration": "Main galtiyon se SEEKHTA hoon, sharm se nahin.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "I say one sentence, then start.",
+      "hindi": "मैं एक वाक्य कहता हूँ, फिर शुरू करता हूँ।",
+      "transliteration": "Main ek vaakya kehta hoon, phir SHURU karta hoon.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "I choose progress over perfection today.",
+      "hindi": "मैं आज परिपूर्णता के बजाय प्रगति चुनता हूँ।",
+      "transliteration": "Main aaj paripoorNTA ke bajaay pragati CHUNTA hoon.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "I ask for help sooner than later.",
+      "hindi": "मैं बाद में नहीं, जल्द मदद मांगता हूँ।",
+      "transliteration": "Main baad mein nahin, jald MADAD maangta hoon.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "I spend ten minutes fixing one thing.",
+      "hindi": "मैं दस मिनट एक चीज़ सुधारने में लगाता हूँ।",
+      "transliteration": "Main das MINIT ek cheez sudhaarne mein lagaata hoon.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "Hi, what should I call you?",
+      "hindi": "नमस्ते, मैं आपको क्या बुलाऊँ?",
+      "transliteration": "Namaste, main aapko kya bulaaun?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "Great to meet you, actually!",
+      "hindi": "आपसे मिलकर सच में अच्छा लगा।",
+      "transliteration": "Aapse milkar sach mein achchha laga.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "I’m glad you could join us.",
+      "hindi": "मुझे खुशी है कि आप हमारे साथ जुड़ सके।",
+      "transliteration": "Mujhe khushi hai ki aap hamare saath jud sake.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "May I shake your hand?",
+      "hindi": "क्या मैं आपका हाथ मिला सकता हूँ?",
+      "transliteration": "Kya main aapka haath mila sakta hoon?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "Hello, are you comfortable here?",
+      "hindi": "नमस्ते, क्या आप यहाँ सहज हैं?",
+      "transliteration": "Namaste, kya aap yahan sahaj hain?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "Thanks for greeting me first.",
+      "hindi": "पहले मुझे देखकर अभिवादन करने के लिए धन्यवाद।",
+      "transliteration": "Pehle mujhe dekhkar abhiwadan karne ke liye dhanyavaad.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "Excuse me, do we know each other?",
+      "hindi": "माफ कीजिए, क्या हम पहले से जानते हैं?",
+      "transliteration": "Maaf kijiye, kya hum pehle se jaante hain?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "I choose hope in plain moments.",
+      "hindi": "मैं साधारण पलों में उम्मीद चुनता",
+      "transliteration": "main SAADHaaran palon mein UMMEED chunTAH/CHUNti Hoon",
+      "category": "Positive Life",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "I start again, without self-punishment.",
+      "hindi": "मैं फिर से शुरू करता",
+      "transliteration": "main PHIR se SHURU karta/karti hoon, khud ko nahin DANd detaa/deti",
+      "category": "Positive Life",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "My mind can be gentle today.",
+      "hindi": "मेरे मन में आज नर्मी आ सकती है।",
+      "transliteration": "mere MAN mein Aaj NARMee aa sakti hai",
+      "category": "Positive Life",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "I turn doubt into quiet curiosity.",
+      "hindi": "मैं शक को शांत जिज्ञासा में बदलता",
+      "transliteration": "main SHAak ko SHAant JIGYAASA mein badalta/badlatI hoon",
+      "category": "Positive Life",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "I set one boundary and breathe.",
+      "hindi": "मैं एक सीमा तय करता",
+      "transliteration": "main EK seemaa tay karta/karti hoon, aur SAANS leta/leti hoon",
+      "category": "Positive Life",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "I speak truth softly, not sharply.",
+      "hindi": "मैं सच को नरमी से कहता",
+      "transliteration": "main SACH ko NARmI se kehta/kehti hoon, TEEKHEpan se nahin",
+      "category": "Positive Life",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "I take a real break, now.",
+      "hindi": "मैं अभी एक सच में ब्रेक लेता",
+      "transliteration": "main ABhi ek sach mein break leta/leti hoon",
+      "category": "Positive Life",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "Knowledge should change your next choice.",
+      "hindi": "ज्ञान आपको अपनी अगली पसंद बदलवाए।",
+      "transliteration": "GYAN aapko apni agli pasand badalvaye.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "Use learning in real, messy life.",
+      "hindi": "सीखी हुई बातों को असली, उलझी ज़िंदगी में लगाइए।",
+      "transliteration": "Seekhi hui baaton ko asali, uljhi zindagi mein lagaiye.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "Practice questions, not just answers.",
+      "hindi": "सिर्फ जवाब नहीं, सवाल भी अभ्यास बनाइए।",
+      "transliteration": "Sirf jawab nahin, sawal bhi abhyaas banaiye.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "Be curious, but stay humble.",
+      "hindi": "जिज्ञासु रहें, पर विनम्रता न छोड़ें।",
+      "transliteration": "Jigyasu rahen, par vinamrata na chhodein.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "Ask why, then ask what next.",
+      "hindi": "पहले पूछें क्यों, फिर पूछें आगे क्या करना है।",
+      "transliteration": "Pehle poochhen kyun, phir poochhen aage kya karna hai.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "Share one insight, not your whole lecture.",
+      "hindi": "एक समझ, साझा करें, पूरा भाषण नहीं।",
+      "transliteration": "Ek samajh, saanjha karein, poora bhashan nahin.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "Turn mistakes into lessons quickly.",
+      "hindi": "गलतियों को जल्दी सबक में बदलें।",
+      "transliteration": "Galtiyon ko jaldi sabak mein badlein.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "I need help, I have severe fever",
+      "hindi": "मुझे मदद चाहिए, मुझे बहुत तेज बुखार है",
+      "transliteration": "Mujhe madad chahiye, mujhe BAHUT tej bukhar hai",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "My heart feels like it's racing",
+      "hindi": "मेरे दिल की धड़कन बहुत तेज लग रही है",
+      "transliteration": "Mere dil ki dhadkan bahut TEZ lag rahi hai",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "I might be having a stroke",
+      "hindi": "मुझे शक है कि मुझे स्ट्रोक हो सकता है",
+      "transliteration": "Mujhe shak hai ki mujhe STROKE ho sakta hai",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "One side of my face feels numb",
+      "hindi": "मेरे चेहरे का एक हिस्सा सुन्न हो रहा है",
+      "transliteration": "Mere chehre ka EK hissa SUNN ho raha hai",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "My speech is suddenly slurred, please help",
+      "hindi": "मेरी बोलचाल अचानक लड़खड़ा रही है, कृपया मदद करें",
+      "transliteration": "Meri bolchal achanak LADKHADA rahi hai, kripya madad karein",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "I have burns on my hand",
+      "hindi": "मेरे हाथ पर जलन या जलने का घाव है",
+      "transliteration": "Mere hath par jalan ya JALNE ka ghaav hai",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "Cool it with water, please",
+      "hindi": "कृपया इसे पानी से ठंडा करें",
+      "transliteration": "Kripya ise paani se THANDA karein",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "What’s the temperature like today?",
+      "hindi": "आज का तापमान कैसा है?",
+      "transliteration": "aaj ka taapamaan kaisa hai?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "It’s getting cloudy, isn’t it?",
+      "hindi": "लगता है बादल बढ़ रहे हैं, है ना?",
+      "transliteration": "lagta hai baadal badh rahe hain, hai naa?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "Do you hear thunder right now?",
+      "hindi": "क्या अभी गड़गड़ाहट सुनाई दे रही है?",
+      "transliteration": "kya abhi gadgadahat sunaai de rahi hai?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "The rain smells so fresh.",
+      "hindi": "बारिश की खुशबू बहुत ताज़ा लग रही है।",
+      "transliteration": "baarish ki khushboo bahut taaza lag rahi hai.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "I can feel the sun’s warmth.",
+      "hindi": "मुझे धूप की गर्माहट महसूस हो रही है।",
+      "transliteration": "mujhe dhoop ki garmahat mehsoos ho rahi hai.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "Is the morning misty where you are?",
+      "hindi": "क्या यहाँ सुबह धुंध वाली है?",
+      "transliteration": "kya yahaan subah dhundh waali hai?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "Looks like a bright day coming.",
+      "hindi": "लगता है दिन अच्छा होने वाला है।",
+      "transliteration": "lagta hai din achchha hone waala hai.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "My purpose is to keep promises.",
+      "hindi": "मेरा उद्देश्य है, वादे निभाना।",
+      "transliteration": "Mera UDDESHYA hai, WADE nibhāna.",
+      "category": "Purpose",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "What’s your real reason, right now?",
+      "hindi": "अभी आपका असली कारण क्या है?",
+      "transliteration": "Abhi aapka ASLI KARAN kya hai?",
+      "category": "Purpose",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "My purpose guides how I spend time.",
+      "hindi": "मेरा उद्देश्य तय करता है, मैं समय कैसे बिताऊँ।",
+      "transliteration": "Mera UD DESHYA tay karta hai, main SAMAY kaise bitaun.",
+      "category": "Purpose",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "I act with intention, not impulse.",
+      "hindi": "मैं आवेश में नहीं, इरादे से काम करता हूँ।",
+      "transliteration": "Main AAVESH mein nahin, IRAADE se kaam karta hoon.",
+      "category": "Purpose",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "Purpose means I don’t quit mid-way.",
+      "hindi": "उद्देश्य का मतलब है, मैं बीच में नहीं रुकता।",
+      "transliteration": "UD DESHYA ka matlab hai, main beech mein nahin rukta.",
+      "category": "Purpose",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "I’m building purpose through small habits.",
+      "hindi": "मैं छोटे-छोटे तरीकों से उद्देश्य बना रहा हूँ।",
+      "transliteration": "Main chhote-chhote TARIKO se UD DESHYA bana raha hoon.",
+      "category": "Purpose",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "Tell me, what are you aiming for?",
+      "hindi": "बताइए, आप किस लक्ष्य की तरफ हैं?",
+      "transliteration": "Batāiye, aap kis LAKSHYA ki taraf hain?",
+      "category": "Purpose",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "Which platform is for Line Two?",
+      "hindi": "लाइन दो का प्लेटफॉर्म कौन सा है?",
+      "transliteration": "LAin DO ka PLAIT-foam kaun SA hai?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "Is this bus usually on time?",
+      "hindi": "क्या यह बस आमतौर पर समय पर आती है?",
+      "transliteration": "KYA yeh bus AAMtaur par SAMay par AATI hai?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "How crowded is it right now?",
+      "hindi": "अभी यह कितना भीड़भाड़ है?",
+      "transliteration": "ABhi yeh KItnA bheeḍbhāṛ hai?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "Where do I tap for tickets?",
+      "hindi": "टिकट के लिए मुझे कहां टैप करना है?",
+      "transliteration": "TIkit ke liye MUJHe kahaan TEEP karna hai?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "Do I need to validate my card?",
+      "hindi": "क्या मुझे कार्ड को वेलिडेट करना होगा?",
+      "transliteration": "KYA mujhe CARD ko VELiDET karna hoga?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "Can I bring a suitcase on board?",
+      "hindi": "क्या मैं बैग रखकर बस या ट्रेन में ले जा सकता हूं?",
+      "transliteration": "KYA main BAG rakhkar bus ya TRAIN mein le ja SAKta hoon?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-26T18:31:22.794726"
+    },
+    {
+      "english": "Is there luggage space near the door?",
+      "hindi": "दरवाज़े के पास सामान रखने की जगह है?",
+      "transliteration": "DARvaaze ke PAAS saamaan RAKHne ki JAGah hai?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-26T18:31:22.794726"
     }
   ],
-  "last_updated": "2026-11-25T18:43:21.703244"
+  "last_updated": "2026-11-26T18:31:22.794726"
 }
